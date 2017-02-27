@@ -1,0 +1,533 @@
+Câu 1: Khi tạo cấu trúc của Table cột MSV có kiểu TEXT, tại thuộc tính Inputmask nếu định dạng 00C00000L thì dữ liệu của trường MSV sẽ chấp nhận các giá trị nào. <1.jpg>
+A) 14.C00010N
+B) 14.D00001N
+*C) Không chấp nhận giá trị nào cả.
+D) 14.A0001NB
+
+Câu 3: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ.Dựa vào gợi ý trên , xác định trường nào là khoá chính cho bảng Khách hàng <14.jpg>
+A) Điện thoại(DT)
+B) Tên công ty (TCT)
+*C) Mã khách hàng(MKH)
+D) Thành phố
+
+Câu 4: Khi tạo cấu trúc của Table cột MSV có kiểu TEXT, tại thuộc tính Input mask nếu định dạng 00900000L thì dữ liệu của trường MSV sẽ chấp nhận các giá trị nào. <1.jpg>
+A) 14C000010
+B) 14D000001
+*C) Không chấp nhận giá trị nào cả
+D) 14A00001N
+
+Câu 7: Giả sử bảng Nhân viên : xác định mã nhân viên(MNV), họ tên(HT), ngày sinh(NS), giới tính(GT), địa chỉ(DC), ảnh (ANH),số điện thoại(SDT) .Trường Ngày sinh có kiểu date/time nếu muốn ngày sinh được nhập dạng Ngày/tháng/năm thì tại [CR]Format gõ: <2.jpg>
+A) dddddd
+*B) dd/mm/yy
+C) mm/dd/yy
+D) long date
+
+Câu 8: Khi tạo cấu trúc của Table Nếu nhập số không (0) trong khuôn dạng của thuộc tính Input mask. <1.jpg>
+A) Vị trí dành cho các chữ số 0..9, không bắt buộc phải nhập.
+*B) Vị trí dành cho các chữ số 0..9, bắt buộc phải nhập .
+C) Vị trí dành cho cả chữ và số, không bắt buộc phải nhập.
+D) Vị trí dành cho cả chữ và số, bắt buộc phải nhập.
+
+Câu 9: Khi tạo cấu trúc của Table thuộc tính AllowZerolength dùng để: <1.jpg>
+*A) Cho phép hay không cho phép các trường Text và memo nhận các chuỗi rỗng.
+B) Thông báo lỗi khi một bản ghi vi phạm điều kiện
+C) Quy tắc hợp lệ. Kiểm tra các điều kiện trước khi nhập một mẫu tin mới.
+D) Dùng đề quy định một giá trị ban đầu của một loại dữ liệu.
+
+Câu 11: Khi nhập dữ liệu máy báo lỗi như hình 2, cho biết đó là lỗi gì? <15.jpg>
+A) Lỗi nhập trùng dữ liệu trường khoá.
+B) Lỗi do không nhập hoặc để trống giá trị trường khoá.
+C) Lỗi nhập giá trị không tương thích với kiểu dữ liệu của trường đã chỉ định.
+*D) Lỗi do không nhập dữ liệu cho trường not null.
+
+Câu 12: Khi tạo cấu trúc của Table Nếu nhập số chín (9) trong khuôn dạng của thuộc tính Input mask. <1.jpg>
+A) Vị trí dành cho cả chữ và số, không bắt buộc phải nhập.
+B) Vị trí dành cho các chữ số 0..9, bắt buộc phải nhập .
+*C) Vị trí dành cho các chữ số 0..9, không bắt buộc phải nhập.
+D) Vị trí dành cho cả chữ và số, bắt buộc phải nhập.
+
+Câu 15: Khi tạo cấu trúc của Table thuộc tính Field Size dùng để: (Trường có kiểu Text) <1.jpg>
+A) Khuôn nạ nhập liệu.
+B) Định dạng trường, xác định cung cách hiển thị...
+*C) Độ dài tối đa cho phép của trường.
+D) Cho phép hay không cho phép các trường Text và memo nhận các chuỗi rỗng.
+
+Câu 16: Cho biết lỗi sau xuất hiện khi nào? <18.jpg>
+A) Khi nhập trường NGAYLAPHD trong bảng HOA DON sau ngày hiện tại trong máy tính.
+*B) Khi nhập trường NGAYLAPHD trong bảng HOA DON trước ngay hiện tại trong máy tính.
+C) Khi nhập trường NGAYLAPHD trong bảng HOA DON theo dạng dd/mm/yy.
+D) Khi nhập trường NGAYLAPHD trong bảng HOA DON trứoc ngày giao nhận hoá đơn.
+
+Câu 20: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ. Dựa vào gợi ý trên , xác định trường nào là khoá ngoại cho bảng Chi tiết Hoá đơn <14.jpg>
+A) Mã sản phẩm(MSP)
+B) Mã hoá đơn(MHD)
+*C) Mã hoá đơn(MHD),mã sản phẩm(MSP)
+D) Số luợng(SL)
+
+Câu 21: Khi tạo cấu trúc của Table Nếu nhập ký tự a trong khuôn dạng của thuộc tính Input mask. <1.jpg>
+A) Vị trí dành cho các chữ số 0..9, bắt buộc phải nhập .
+B) Vị trí dành cho các chữ số 0..9, không bắt buộc phải nhập.
+*C) Vị trí dành cho cả chữ và số, không bắt buộc phải nhập.
+D) Vị trí dành cho cả chữ và số, bắt buộc phải nhập.
+
+Câu 22: Khi tạo cấu trúc của Table thuộc tính Format dùng để: <1.jpg>
+*A) Định dạng trường, xác định cung cách hiển thị...
+B) Độ dài tối đa cho phép của trường.
+C) Khuôn nạ nhập liệu.
+D) Cho phép hay không cho phép các trường Text và memo nhận các chuỗi rỗng.
+
+Câu 24: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ . Dựa vào gợi ý trên , xác địnhxem cần xây dựng bảng Nhân viên gồm trường nào?<14.jpg>
+A) Mã nhân viên, họ tên, ngày sinh, giới tính , địa chỉ, ngày lập hoá đơn
+B) Mã nhân viên, họ tên, ngày sinh, giới tính , địa chỉ.
+*C) Mã nhân viên, họ tên, ngày sinh, giới tính , địa chỉ, ảnh.
+D) Mã nhân viên, họ tên, ngày sinh, giới tính .
+
+Câu 26: Khi nhập dữ liệu máy báo lỗi như hình 3. Cho biết nguyên nhân của lỗi trên? <17.jpg>
+A) Lỗi nhập trùng dữ liệu trường khoá.
+B) Lỗi nhập giá trị không tương thích với kiểu dữ liệu của trường đã chỉ định.
+C) Một số dữ liệu đang tồn tại trong bảng quan hệ n không thoả mãn với bảng quan hệ 1.
+*D) Lỗi do hai trường tham gia kết nối không cùng kiểu dữ liệu.
+
+Câu 28: Khi nhập dữ liệu máy báo lỗi như hình 4. Cho biết nguyên nhân của lỗi trên? <17.jpg>
+A) Một số dữ liệu đang tồn tại trong bảng quan hệ n không thoả mãn với bảng quan hệ 1.
+B) Lỗi do hai trường tham gia kết nối không cùng kiểu dữ liệu.
+C) Lỗi nhập giá trị không tương thích với kiểu dữ liệu của trường đã chỉ định.
+*D) Lỗi nhập trùng dữ liệu trường khoá.
+
+Câu 29: Để đảm bảo toàn vẹn dữ liệu khi cập nhật dữ liệu giữa hai bảng liên quan, ta tích kiểm vào mục? <15.jpg>
+A) Enforce Referential Integrity.
+*B) Cascade Update Related Fields.
+C) Cascade Delete Related Record.
+D) Tất cả đều đúng.
+
+Câu 33: Khi nhập dữ liệu máy báo lỗi như hình 2, cho biết cách khắc phục? <15.jpg>
+*A) Nhập đầy đủ giá trị cho trường khoá.
+B) Nhập lại cho đúng, đủ giá trị các trường đã yêu cầu cho đến khi không còn báo lỗi.
+C) Nhập lại giá trị trường khoá khác sao cho vừa đúng, đủ và không bị trùng.
+D) Phải nhập đủ dữ liệu cho các trường bắt buộc phải nhập dữ liệu.
+
+Câu 34: Sau khi thiết lập mối quan hệ cho hai bảng không hiển thị kiểu quan hệ, như hình 1. Cho biết cách khắc phục của lỗi trên? <15.jpg>
+A) Nhập lại giá trị trường khoá khác sao cho vừa đúng, đủ và không bị trùng.
+B) Nhập lại cho đúng, đủ giá trị các trường đã yêu cầu cho đến khi không còn báo lỗi.
+*C) Tích đủ ba mục để đảm bảo toàn vẹn dữ liệu.
+D) Phải nhập đủ dữ liệu cho các trường bắt buộc phải nhập dữ liệu.
+
+Câu 36: Khi tạo cấu trúc của Table đối tượng FIELD NAME dùng để: <1.jpg>
+A) Mô tả trường.
+B) Chọn kiểu trường.
+*C) Đặt tên trường.
+D) Thiết lập các thuộc tính trường.
+
+Câu 37: Khi kết nối dữ liệu của hai bảng xảy ra lỗi như sau( hình ảnh). Đó là lỗi gì? <19.jpg>
+*A) Hai trường tham gia kết nối không cùng kiểu dữ liệu
+B) Hai trường tham gia kết nối có cùng kiểu dữ liệu
+C) Hai trường tham gia kết nối có tên không giống nhau
+D) Hai trường tham gia kết nối có thuộc tính Field size khác nhau.
+
+Câu 39: Khi tạo cấu trúc của Table Nếu nhập ký tự A trong khuôn dạng của thuộc tính Input mask. <1.jpg>
+*A) Vị trí dành cho cả chữ và số, bắt buộc phải nhập.
+B) Vị trí dành cho cả chữ và số, không bắt buộc phải nhập.
+C) Vị trí dành cho các chữ số 0..9, không bắt buộc phải nhập.
+D) Vị trí dành cho các chữ số 0..9, bắt buộc phải nhập .
+
+Câu 45: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ: Dựa vào gợi ý trên , xác định Bảng Nhân viên có quan hệ với bảng nào <14.jpg>
+*A) Hoá đơn
+B) Sản phẩm
+C) Khách hàng
+D) Chi tiết hoá đơn
+
+Câu 46: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ: Dựa vào gợi ý trên , xác định Bảng Khách hàngcó quan hệ với bảng nào <14.jpg>
+A) Sản phẩm
+B) Chi tiết hoá đơn
+C) Nhân viên
+*D) Hoá đơn
+
+Câu 47: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ: Dựa vào gợi ý trên , xác định trường nào là khoá chính cho bảng Sản phẩm <14.jpg>
+A) Đơn giá
+B) Mã sản phẩm(MSP), số luợng(SL)
+C) Tên sản phẩm(TSP)
+*D) Mã sản phẩm(MSP)
+
+Câu 48: Giả sử bảng Nhân viên : xác định mã nhân viên(MNV), họ tên(HT), ngày sinh(NS), giới tính(GT), địa chỉ(DC), ảnh (ANH), số điện thoại(SDT). Tại thuộc tính FORMAT của trường mã nhân viên (MNV) ta gõ: >[red] thì dữ liệu nhập vào sẽ là: <2.jpg>
+*A) In hoa và màu đỏ
+B) Màu đỏ
+C) In hoa
+D) In thường và màu đỏ
+
+Câu 49: Khi tạo cấu trúc của Table cột MSV có kiểu TEXT, tại thuộc tính Input mask nếu định dạng 00L00000C thì dữ liệu của trường MSV sẽ chấp nhận các giá trị nào. <1.jpg>
+*A) Chấp nhận tất cả các giá trị.
+B) 14D000001
+C) 14C000010
+D) 14A00001N
+
+Câu 50: Khi tạo cấu trúc của Table đối tượng DATA TYPE dùng để: <1.jpg>
+*A) Chọn kiểu trường.
+B) Đặt tên trường.
+C) Mô tả trường.
+D) Thiết lập các thuộc tính trường .
+
+Câu 51: Khi tạo cấu trúc của Table cột MSV có kiểu TEXT, tại thuộc tính Input mask nếu định dạng 00L00000L thì dữ liệu của trường MSV sẽ chấp nhận các giá trị nào. <1.jpg>
+A) 14C000010
+B) 14D000001
+*C) 14A00001N
+D) Chấp nhận tất cả các giá trị.
+
+Câu 56: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ: Dựa vào gợi ý trên , xác định truờng nào là khoá chính cho bảng Hoá đơn <14.jpg>
+A) Mã khách hàng(MKH)
+B) Loại hoá đơn(LHD)
+*C) Mã hóa đơn(MHD)
+D) Mã nhân viên(MNV)
+
+Câu 57: Giả sử bảng Nhân viên : xác định mã nhân viên(MNV), họ tên(HT), ngày sinh(NS), giới tính(GT), địa chỉ(DC), ảnh(ANH). Hãy xác định kiểu dữ liệu thích hợp cho trường Ngày sinh(NS) trong bảng Nhân viên <2.jpg>
+A) Number.
+B) AutoNumber.
+*C) Date/Time.
+D) Text."
+
+Câu 60: Khi tạo cấu trúc của Table đối tượng Description dùng để: <1.jpg>
+A) Thiết lập các thuộc tính trường.
+B) Đặt tên trường.
+C) Chọn kiểu trường.
+*D) Mô tả trường.
+
+Câu 65: Khi nhập dữ liệu máy báo lỗi như hình 1. Cho biết cách khắc phục lỗi trên? <16.jpg>
+A) Phải nhập đủ dữ liệu cho các trường bắt buộc phải nhập dữ liệu.
+B) Kiểm tra dữ liệu đang tồn tại trong bảng quan hệ n sao cho thoả mãn với bảng quan hệ 1 .
+C) Nhập lại giá trị trường khoá khác sao cho vừa đúng, đủ và không bị trùng.
+*D) Nhập lại cho đúng, đủ giá trị các trường đã yêu cầu cho đến khi không còn báo lỗi.
+
+Câu 70: Khi tạo cấu trúc của Table cột MSV có kiểu TEXT, tại thuộc tính Input mask nếu định dạng 00L00000CC thì dữ liệu của trường MSV sẽ chấp nhận các giá trị nào. <1.jpg>
+A) 14C000010N
+B) 14D000001N
+*C) Chấp nhận tất cả các giá trị.
+D) 14A00001NB
+
+Câu 71: Giả sử bảng Nhân viên : xác định mã nhân viên(MNV), họ tên(HT), ngày sinh(NS), giới tính(GT), địa chỉ(DC), ảnh(ANH).Hãy xác định kiểu dữ liệu thích hợp cho trường ảnh (ANH) trong bảng Nhân viên <2.jpg>
+A) Text.
+B) Memo.
+*C) OLE Object.
+D) Hyperlink.
+
+Câu 72: Khi tạo cấu trúc của Table cột MSV có kiểu TEXT, tại thuộc tính Input mask nếu định dạng 00L00000C thì dữ liệu của trường MSV sẽ chấp nhận các giá trị nào?<1.jpg>
+A) 14A001000
+B) 14A00001N
+C) 14A000100
+*D) Chấp nhận tất cả các giá trị.
+
+Câu 73: Khi nhập dữ liệu vào bảng xảy ra lỗi như sau: Cho biết đó là lỗi gì? <20.jpg>
+*A) Để trống giá trị trường khóa
+B) Nhập sai kiểu dữ liệu của trường khóa
+C) Giá trị của trường khóa không có thứ tự
+D) Giá trị trường khóa phải là giá trị kiểu số
+
+Câu 74: Giả sử bảng Nhân viên : xác định mã nhân viên(MNV), họ tên(HT), ngàysinh(NS), giới tính(GT), địa chỉ(DC), ảnh(ANH), số điện thoại(SDT).Trường họ tên (HT) có kiểu text, nếu tại Fomat của trường HT gõ : @;"khôngcó";"khôngbiết" thì khi dữ liệu họ tên là rỗng thì trong bảng sẽ hiện thị: <2.jpg>
+A) @
+B) Không có
+*C) Không biết
+D) Để trống
+
+Câu 78: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ: Dựa vào gợi ý trên , xác định Sản phẩm có quan hệ với bảng nào <14.jpg>
+A) Nhân viên
+B) Hoá đơn
+C) Khách hàng
+*D) Chi tiết hoá đơn
+
+Câu 79: Khi tạo cấu trúc của Table thuộc tính Default Value dùng để: <1.jpg>
+A) Quy tắc hợp lệ. Kiểm tra các điều kiện trước khi nhập một mẫu tin mới.
+B) Định dạng trường, xác định cung cách hiển thị...
+*C) Dùng đề quy định một giá trị ban đầu của một loại dữ liệu.
+D) Cho phép hay không cho phép các trường Text và memo nhận các chuỗi rỗng.
+
+Câu 80: Khi tạo cấu trúc của Table cột MSV có kiểu TEXT, tại thuộc tính Input mask nếu định dạng 00C00000L thì dữ liệu của trường MSV sẽ chấp nhận các giá trị nào. <1.jpg>
+*A) 14.00001N
+B) 14.000010
+C) 14.000100
+D) 14.001000
+
+Câu 81: Khi nhập dữ liệu máy báo lỗi như hình 1. Cho biết cách khắc phục lỗi trên? <17.jpg>
+A) Kiểm tra dữ liệu đang tồn tại trong bảng quan hệ n sao cho thoả mãn với bảng quan hệ 1.
+B) Nhập lại cho đúng, đủ giá trị các trường đã yêu cầu cho đến khi không còn báo lỗi.
+*C) Phải nhập đủ dữ liệu cho các trường bắt buộc phải nhập dữ liệu.
+D) Nhập lại giá trị trường khoá khác sao cho vừa đúng, đủ và không bị trùng.
+
+Câu 89: Khi nhập dữ liệu vào bảng xảy ra lỗi như sau (hình ảnh). Hãy nêu cách khác phục lỗi <20.jpg>
+A) Kiểm tra thuộc tính value của trường
+B) Phải nhập giá trị trường khóa có thứ tự
+C) Bỏ thuộc tính khóa chính của trường
+*D) Phải nhập đầy đủ giá trị cho trường khoá.
+
+Câu 90: Khi nhập dữ liệu máy báo lỗi như hình 2. Cho biết cách khắc phục lỗi trên? <17.jpg>
+A) Tìm và nhập cho đúng giá trị theo bảng quan hệ tương ứng.
+B) Nhập lại cho đúng, đủ giá trị các trường đã yêu cầu cho đến khi không còn báo lỗi.
+*C) Kiểm tra dữ liệu đang tồn tại trong bảng quan hệ n sao cho thoả mãn với bảng quan hệ 1.
+D) Nhập lại giá trị trường khoá khác sao cho vừa đúng, đủ và không bị trùng.
+
+Câu 93: Hình 1, Cho biết Crosstab Query thuộc truy vấn nào dưới đây? <22.jpg>
+A) Cau 3
+B) Cau 4
+*C) Cau 5
+D) Cau 2
+
+Câu 97: Để tạo 1 truy vấn thống kê Crosstab Query chúng ta cần có ít nhất mấy cột <12.jpg>
+A) 5 cột
+B) 2 cột
+*C) 3 cột
+D) 4 cột
+
+Câu 99: Cho biết biểu tượng số 4 trong hình là gì? <23.jpg>
+A) Thêm một bảng mới vào Query
+*B) Các kiểu Truy vấn
+C) Xây dựng biểu thức trong Query
+D) Thực hiện chạy Query
+
+Câu 103: Giả sử CSDL Hoadon.ACCDB đã nhập dữ liệu, muốn tạo query bao gồm MaSp, TongSoLuong. Trong đó TongSoLuong là sum của Soluong, kết nhóm theo Masp. Sử dụng truy vấn nào trong các truy vấn sau:<13.jpg>
+*A) Select query( Dùng Total)
+B) Make table query
+C) Append query
+D) Crosstab query
+
+Câu 104: Hình 1, Cho biết Select Query thuộc truy vấn nào dưới đây? <22.jpg>
+A) Cau 2
+B) Cau 4
+C) Cau 3
+*D) Cau 1
+
+Câu 113: Hình 1, Cho biết biểu tượng số 3 trong hình thuộc kiểu truy vấn? <22.jpg>
+A) Select Query
+*B) Make Table Query
+C) Append Query
+D) Update Query
+
+Câu 123: Giả sử CSDL HOADON gồm các bảng (Hình ảnh) đã nhập dữ liệu, muốn tạo query cho biết các thông tin về hóa đơn của khách hàng CINOTEC,FAHASA, SAFICO, SJC bao gồm : mã HD, mã KH, tên NV lập hoá đơn, ngày lập HD, ngày nhận hàng, tên sản phẩm, số lượng, đơn giá. Sử dụng loại truy vấn nào trong các truy vấn sau:<14.jpg>
+A) Make table query
+*B) Select query
+C) Append query
+D) Crosstab query
+
+Câu 124: Cho biết biểu tượng số 2 trong hình là gì?<22.jpg>
+*A) Thêm một bảng mới vào Query
+B) Tạo thêm một bảng mới
+C) Xây dựng biểu thức trong Bảng
+D) Tạo Thêm Truy vấn mới
+
+Câu 127: Hình 1, Cho biết biểu tượng số 6 trong hình thuộc kiểu truy vấn? <22.jpg>
+A) Select Query
+B) Make Table Query
+C) Crosstab Query
+*D) Delete Query
+
+Câu 131: Hình 1, Cho biết biểu tượng số 1 trong hình thuộc kiểu truy vấn? <22.jpg>
+*A) Select Query
+B) Make Table Query
+C) Crosstab Query
+D) Update Query
+
+Câu 138: Hình 1, Cho biết biểu tượng số 2 trong hình thuộc kiểu truy vấn? <22.jpg>
+A) Append Query
+B) Crosstab Query
+C) Make Table Query
+*D) Update Query
+
+Câu 147: Để tạo đường viền là nét đứt cho đối tượng A, trong hộp thoại Properties, Tab Format ta chọn thuộc tính nào? Hình A <39.jpg>
+A) Thuộc tính Back Color.
+*B) Thuộc tính Border Style.
+C) Thuộc tính Fore Color.
+D) Thuộc tính Border Color.
+
+Câu 149: Để tạo được đối tượng (8) thì phải sử dụng công cụ nào trên thanh công cụ ToolBox <33.jpg>
+A) List Box.
+B) Option group.
+C) Check box
+*D) Button
+
+Câu 150: Khi thiết kế form hoặc report công cụ số 1 đựơc dùng : <30.jpg>
+A) Muốn hiện thị giá trị của trường trong CSDL, hoặc biểu thức tính toán nào đó
+*B) Muốn hiện thị văn bản, chỉ dẫn cố định không liên quan đến CSDL
+C) Muốn hiện danh sách trải xuống khi người sử dụng kích chuột vào
+D) Muốn hiện danh sách giá trị để nguời sử dụng lựa chọn
+
+Câu 152: Để tạo được đối tượng (2) thì phải sử dụng công cụ nào trên thanh công cụ ToolBox <33.jpg>
+A) Combo Box.
+B) Label.
+C) Text Box.
+*D) List Box.
+
+Câu 153: Để tạo được đối tượng (C) thì phải sử dụng công cụ số mấy trên thanh công cụ ToolBox <31.jpg>
+A) Số 1
+*B) Số 6.
+C) Số 5.
+D) Số 2.
+
+Câu 155: Khi thiết kế form hoặc report công cụ số 2 được dùng : <30.jpg>
+*A) Muốn hiện thị giá trị của trường trong CSDL, hoặc biểu thức tính toán nào đó
+B) Muốn hiện thị văn bản, chỉ dẫn cố định không liên quan đến CSDL
+C) Muốn hiện danh sách trải xuống khi người sử dụng kích chuột vào
+D) Muốn hiện danh sách giá trị để nguời sử dụng lựa chọn
+
+Câu 157: Khi thiết kế form hoặc report công cụ số 10 đựơc sử dụng trong trường hợp: <30.jpg>
+A) Người sử dụng tạo ra đối tượng kiểu ảnh liên quan đến CSDL
+B)  Người sử dụng muốn tạo ra khung nhìn để nhóm các điều khiển khác vào trong đó
+C) Người sử dụng chèn đối tượng kiểu ảnh không liên quan đến CSDL
+*D) Người sử dụng muốn tạo khung ảnh để chèn ảnh bất kì vào.
+
+Câu 158: Để tạo được đối tượng (A) thì phải sử dụng công cụ số mấy trên thanh công cụ ToolBox <31.jpg>
+A) Số 5.
+B) Số 2
+*C) Số 1.
+D) Số 6.
+
+Câu 159: Khi thiết kế form hoặc report công cụ số 3 đựơc sử dụng trong trường hợp: <30.jpg>
+*A) Người sử dụng muốn tạo ra khung nhìn để nhóm các điều khiển khác vào trong đó
+B) Người sử dụng muốn tạo khung ảnh để chèn ảnh bất kì vào.
+C) Người sử dụng chèn đối tượng là ảnh không liên quan đến CSDL
+D) Người sử dụng tạo ra đối tượng ảnh liên quan đến CSDL
+
+Câu 160: Để tạo được đối tượng (B) thì phải sử dụng công cụ số mấy trên thanh công cụ ToolBox <69.jpg> 
+*A) Số 9.
+B) Số 7.
+C) Số 10.
+D) Số 8.
+
+Câu 163: Khi sử dụng điều khiển List Box hay Combo box muốn danh sách được định nghĩa bởi một hàm trong Access ta thiết lập thuộc tính Row sourte type là: <35.jpg>
+A) Value list
+B) Field list
+*C) Tên hàm xây dựng
+D) Table/ Query
+
+Câu 164: Thao tác sau thực hiện công việc gì: Chọn đối tượng A /hộp thoại Properties/ Tab Format/ chọn thuộc tính TextAlign/ tùy chọn? Hình A <39.jpg>
+*A) Căn lề dữ liệu trong đối tượng A.
+B) Thay đổi font chữ.
+C) Thay đổi kiểu đường viền.
+D) áp dụng màu nền cho đối tượng.
+
+Câu 165: Để đổ màu nền (màu vàng) cho đối tượng A, trong hộp thoại Properties, Tab Format ta chọn thuộc tính nào? Hình A <39.jpg>
+A) Thuộc tính Border Style.
+B) Thuộc tính Fore Color.
+C) Thuộc tính Border Color.
+*D) Thuộc tính Back Color.
+
+Câu 166: Khi thiết kế form hoặc report công cụ số 12 đựơc dùng trong trường hợp: <30.jpg>
+*A) Người sử dụng tạo ra đối tượng kiểu ảnh liên quan đến CSDL
+B) Người sử dụng muốn tạo khung ảnh để chèn ảnh bất kì vào.
+C) Người sử dụng muốn tạo ra khung nhìn để nhóm các điều khiển khác vào trong đó
+D) Người sử dụng chèn đối tượng là ảnh không liên quan đến CSDL
+
+Câu 167: Khi sử dụng điều khiển List Box hay Combo box muốn danh sách được lấy từ bảng hay truy vấn nào đó ta thiết lậpthuộc tính Row sourte type là: <35.jpg>
+A) Value list
+*B) Table/ Query
+C) Field list
+D) Tên hàm xây dựng
+
+Câu 170: Khi sử dụng điều khiển List Box hay Combo box muốn danh sách lấy từ tên các trường trong bảng hoặc truy vấn ta thiết lập thuộc tính Row sourte type là: <35.jpg>
+A) Tên hàm xây dựng
+B) Value list
+C) Table/ Query
+*D) Field list
+
+Câu 171: Thao tác sau thực hiện công việc gì? Chọn đối tượng A /hộp thoại Properties/ Tab Format/ chọn thuộc tính BackColor/ chọn màu sắc? Hình A <39.jpg>
+A) Đổ màu chữ cho đối tượng A.
+*B) Đổ màu nền cho đối tượng A.
+C) Đổ màu đường viền cho đối tượng A.
+D) Tạo đường viền cho đối tượng A.
+
+Câu 172: Đối tượng (3) trên thanh công cụ ToolBox là: <30.jpg>
+A) Option Button.
+*B) Option Group.
+C) Combo Box.
+D) List Box.
+
+Câu 173: Đối tượng (7) trên thanh công cụ ToolBox là: <30.jpg>
+A) Check Box.
+B) Text Box.
+*C) Combo Box.
+D) List Box.
+
+Câu 174: Khi thiết kế form hoặc report công cụ số 6 đựơc dùng trong trường hợp: <30.jpg>
+*A) Muốn tạo một nút kiểm mà giá trị của nó đúng hoặc sai, có hoặc không khi người sử dụng tích hoặc không tích.
+B) Muốn tạo một nút chọn mà giá trị của nólà đúng hoặc sai, có hoặc không khi người sử dụng chọn hoặc không chọn
+C) Muốn tạo một nút nhấn mà giá trị của nó là đúng hoặc sai, có hoặc không khi người sử dụng nhấn vào hoặc nhả ra
+D) Người sử dụng muốn thực hiện một nhiệm vụ khi đáp ứng một sự kiện nào đó
+
+Câu 177: Để tạo được đối tượng (D) thì phải sử dụng công cụ số mấy trên thanh công cụ ToolBox <31.jpg>
+A) Số 5.
+B) Số 1
+*C) Số 9.
+D) Số 2.
+
+Câu 178: Đối tượng (6) trên thanh công cụ ToolBox là: <30.jpg>
+A) List Box.
+B) Text Box.
+C) Combo Box.
+*D) Check Box.
+
+Câu 179: Sử dụng công cụ Textbox ta sẽ tạo được đối tượng số mấy trong hình? Hình 9 <31.jpg>
+A) Đối tượng D.
+*B) Đối tượng A.
+C) Đối tượng C.
+D) Đối tượng B.
+
+Câu 181: Khi thiết kế form hoặc report công cụ số 7 đựơc dùng : <30.jpg>
+A) Muốn hiện thị văn bản, chỉ dẫn cố định không liên quan đến CSDL
+B) Muốn hiện thị giá trị của trường trong CSDL, hoặc biểu thức tính toán nào đó
+*C) Muốn hiện danh sách trải xuống khi người sử dụng kích chuột vào
+D) Muốn hiện danh sách giá trị để nguời sử dụng lựa chọn
+
+Câu 183: Muốn thực hiện chức năng điều khiển bản ghi như đối tượng B cho các nút Command, tại mục Categories ta chọn?Hình A <39.jpg>
+A) Record Operations/ Tùy chọn.
+B) Record Form Operations/ Tùy chọn.
+C) Record Application/ Tùy chọn.
+*D) Record Navigation/ Tùy chọn.
+
+Câu 184: Để tạo được đối tượng (1) thì phải sử dụng công cụ nào trên thanh công cụ ToolBox <33.jpg>
+*A) Label.
+B) Text Box.
+C) Combo Box.
+D) List Box.
+
+Câu 185: Để đổ màu sắc của đường viền cho đối tượng A, trong hộp thoại Properties, Tab Format ta chọn thuộc tính nào? Hình A <39.jpg>
+A) Thuộc tính Border Style.
+B) Thuộc tính Back Color.
+C) Thuộc tính Fore Color.
+*D) Thuộc tính Border Color.
+
+Câu 186: Để tạo được đối tượng (5) thì phải sử dụng công cụ nào trên thanh công cụ ToolBox <33.jpg>
+A) Toggle button.
+B) Check box.
+C) List box.
+*D) Combo Box.
+
+Câu 187: Để chèn ảnh vào Form ta sử dụng công cụ số mấy? Hình 9 <31.jpg>
+A) Công cụ 7.
+B) Công cụ 11.
+C) Công cụ 12.
+*D) Công cụ 10.
+
+Câu 189: Để đổ màu chữ (màu xanh) cho đối tượng A, trong hộp thoại Properties, Tab Format ta chọn thuộc tính nào? Hình A <39.jpg>
+A) Thuộc tính Border Color.
+B) Thuộc tính Back Color.
+*C) Thuộc tính Fore Color.
+D) Thuộc tính Border Style.
+
+Câu 192: Muốn thực hiện chức năng thêm bản ghi cho nút Command "thêm", tại mục Categories ta chọn? Hình A <39.jpg>
+A) Record Form Operations/ Add New Record.
+B) Record Navigation/ Add New Record.
+*C) Record Operations/ Add New Record.
+D) Record Application/ Add New Record.
+
+Câu 193: Để viết được chữ '' cập nhật hồ sơ sinh viên'' (đối tượng 1) thì phải lựa chọn công cụ nào <35.jpg>
+A) Label.
+*B) Text Box.
+C) Combo Box.
+D) List Box.
+
+Câu 296: Để chuyển đổi giữa giao diện Tabbed Documents và Overlapping Windows trong Access 2010 ta chọn <25.jpg>
+A) General
+*B) Current Database
+C) Proofing
+D) Client Settings
+
+Câu 299: Cho CSDL (hình ảnh), Muốn tăng toàn bộ Đơn giá của các sản phẩm lên 1% vào bảng SANPHAM , sử dụng truy vấn nào trong các truy vấn sau: <13.jpg>
+A) Select query
+B) Append query
+*C) Update query
+D) Crosstab query

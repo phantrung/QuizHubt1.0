@@ -1,0 +1,341 @@
+Câu 1. Hãy cho biết trong các khái niệm sau, đâu là khái niệm đúng về dự án? 
+Dự án là một nhiệm vụ cần hoàn thành để có một sản phẩm/ dịch vụ duy nhất, trong một thời hạn đã cho với kinh phí không giới hạn. 
+*Dự án là một khối lượng công việc cần thực hiện nhằm đạt các kết quả và mục tiêu nhất định trong giới hạn về quy mô, phạm vi, giới hạn về thời gian, chi phí, tài nguyên cho trước. 
+Dự án là một khối lượng công việc cần thực hiện lặp đi lặp lại nhằm đạt các kết quả và mục tiêu nhất định trong giới hạn về quy mô, phạm vi, giới hạn về thời gian, chi phí, tài nguyên cho trước. 
+Dự án là một sự cố gắng nhất thời được tiến hành để  tạo ra nhiều sản phẩm hay dịch vụ  trong khoảng thời gian không giới hạn.
+
+Câu 2. Hãy cho biết trong các lộ trình sau đây, đâu là lộ trình đúng của dự án? 
+Khởi tạo dự án - Triển khai dự án - Giám sát dự án - Kết thúc dự án. 
+Khởi tạo dự án - Triển khai dự án - Kiểm tra dự án - Kết thúc dự án. 
+*Khởi tạo dự án - Lập kế hoạch - Triển khai dự án - Kết thúc dự án. 
+Khởi tạo dự án - Lập kế hoạch - Giám sát dự án - Kết thúc dự án.
+
+Câu 5. Hãy cho biết trong các quy trình quản trị dự án sau đây, quy trình nào đúng? 
+Lập kế hoạch dự án - Quản lý yêu cầu dự án - Xác định rủi ro và phòng chống rủi ro - Giám sát và điều chỉnh dự án - Đóng dự án. 
+Lập kế hoạch dự án - Xác định rủi ro và phòng chống rủi ro - Quản lý yêu cầu dự án - Giám sát và điều chỉnh dự án - Đóng dự án. 
+*Quản lý yêu cầu dự án - Lập kế hoạch dự án - Xác định rủi ro và phòng chống rủi ro - Giám sát và điều chỉnh dự án - Đóng dự án. 
+Quản lý yêu cầu dự án - Lập kế hoạch dự án - Giám sát và điều chỉnh dự án - Xác định rủi ro và phòng chống rủi ro - Đóng dự án.
+
+Câu 7. Công việc 1 kết thúc vào ngày 15/6/2014, quan sát thấy tại cột Predecessors của công việc 2 là 1FS  + 3days (giả sử dự án và các nguồn lực liên quan làm việc vào tất cả các ngày trong tuần), hãy cho biết công việc 2 bắt đầu thực hiện vào thời điểm nào trong các thời điểm sau? 
+17/6/2014. 
+18/6/2014. 
+*19/6/2014. 
+16/6/2014. 
+
+Câu 13. Hãy cho biết WBS được viết tắt bởi cụm từ nào sau đây? 
+Work Break Structure. 
+World Break State. 
+World Break-down System. 
+*Work Break-down Structure.
+
+Câu 15. Hãy cho biết người quản trị cần chọn thao tác nào trong các thao tác sau để đánh dấu những công việc đã hoàn thành? 
+*Chọn View/ Highlight/ Chọn Completed Tasks. 
+Chọn View/ Highlight/ Chọn Active Tasks. 
+Chọn View/ Filter/ Chọn Completed Tasks. 
+Chọn View/ Task/ Chọn Active Tasks.
+
+Câu 18. Hãy cho biết trong những chiến lược xử lý rủi ro sau, phương pháp chấp nhận sự tồn tại của rủi ro mà không chủ động giảm thiểu do chi phí “quá lớn” hoặc không có khả năng giảm thiểu là chiến lược nào? 
+Giảm thiểu. 
+Né tránh. 
+Chuyển. 
+*Chấp nhận.
+
+Câu 20. Để xem tổng thời gian hoàn thành dự án ta chọn thao tác nào trong các thao tác sau? 
+View/ Project Information/ Statistics... 
+*Project/ Project Information/ Statistics... 
+Project/ Project Information/ Calendar. 
+Task/ Information/ Statistics...
+
+Câu 22. Hãy cho biết thao tác Project/ Change Working Time/ Create New Calendar thực hiện công việc nào trong các công việc sau? 
+*Tạo lịch mới cho dự án.
+Đặt ngày giám sát dự án. 
+Đặt lịch mặc định cho dự án. 
+Tạo lịch nghỉ định kỳ cho dự án.
+
+
+Câu 25. Hãy chọn ra định nghĩa chính xác của rủi ro trong các ý sau đây? 
+Rủi ro là những vấn đề đã và đang làm ảnh hưởng xấu đến dự án. 
+Rủi ro là những vấn đề chưa xảy ra nhưng chắc chắn sẽ xảy ra làm ảnh hưởng đến các mục tiêu dự án. 
+Rủi ro là những vấn đề về thiên tai, bão lụt, tai nạn lao động có thể xảy ra đối với dự án.
+*Rủi ro là những vấn đề  tiềm tàng có khả năng xảy ra trong tương lai làm ảnh hưởng đến các mục tiêu, phạm vi, chất lượng, tài nguyên và tính đúng hạn của dự án.
+
+Câu 29. Thao tác nào trong các thao tác sau dùng để lập báo cáo lịch làm việc của thợ sơn? 
+Project/ Reports/ Assignments…/ Overallocated Resources/ Chọn thợ sơn. 
+Project/ Reports/ Assignments…/ Who Does What/ Chọn thợ sơn. 
+*Project/ Reports/ Assignments…/ To-do List/ Chọn thợ sơn. 
+Project/ Reports/ Assignments…/ Who Does What When/ Chọn thợ sơn.
+
+Câu 30. Hãy cho biết khái niệm đúng về Standard Rate trong các khái niệm sau? 
+*Mức giá của một nguồn lực cho những công việc trong giờ làm việc. 
+Mức giá của một nguồn lực cho những công việc ngoài giờ làm việc. 
+Chi phí phải chi trả mỗi lần một nguồn lực dạng Work được sử dụng và không bị chi phối bởi thời gian nguồn lực đó được sử dụng hoặc mỗi lần nguồn lực dạng Material được sử dụng và không bị chi phối bởi số lượng đơn vị mà nguồn lực đó được sử dụng. 
+Cung cấp các lựa chọn trong việc xác định khi nào và cách thức nào mà các giá trị Standard Rate và Overtime Rate được sử dụng vào việc tính chi phí của công việc.
+
+Câu 38. Để tạo cột mã số yêu cầu WBS, ta cần chọn thao tác nào trong các thao tác sau? 
+Nháy chuột phải/ Hide Column/ Tại Type Column Name chọn WBS. 
+Nháy chuột phải/ Field Settings/ Tại Field name gõ WBS. 
+*Nháy chuột phải/ Insert Column/ Tại Type Column Name chọn WBS. 
+Nháy chuột phải/ Custom Fields/ Định nghĩa cột mới WBS.
+
+Câu 42. Hãy cho biết sau khi thực hiện thao tác Project/ Reports/ Cost… để  in báo cáo chi phí dự án theo tiến độ giải ngân, ta phải chọn mục nào sau đây? 
+Budget. 
+Overbudget Tasks. 
+*Cash Flow. 
+Earned Value.
+
+Câu 43. Trong các cửa sổ sau đây, cửa sổ nào dùng để nhập chi phí cho tài nguyên kiểu Cost? 
+*Assign Resources. 
+Resource Graph. 
+Team Planner. 
+Resource Sheet.
+
+Câu 51. Một thợ sơn có lịch làm việc kiểu Standard. Công việc phải hoàn thành trong 5 ngày, ngày bắt đầu làm việc là 22/09 (thứ 4). Hãy cho biết công việc kết thúc vào thời điểm nào trong các thời điểm sau?
+26/09. 
+27/09. 
+*28/09. 
+30/09.
+
+Câu 52.  Hãy chọn phương án đúng trong các phương án sau? 
+Task Sheet là màn hình hiển thị các mức độ sử dụng các nguồn lực theo thời gian. 
+*Task Sheet là màn hình nhập liệu dạng bảng, tương tự như Gantt Chart nhưng không có phần biểu đồ trực quan. 
+Task Sheet là màn hình nhập liệu master-detail, liệt kê chi tiết công việc theo từng nguồn lực. 
+Task Sheet là màn hình nhập liệu master-detail, liệt kê chi tiết nguồn lực gắn với từng công việc.
+
+Câu 54. Hãy chọn mệnh đề đúng trong các mệnh đề sau? 
+*Đường găng của dự án là chuỗi công việc dài nhất trong các chuỗi công việc nối từ sự kiện đầu tới sự kiện cuối của dự án. 
+Đường găng của dự án là chuỗi công việc ngắn nhất trong các chuỗi công việc nối từ sự kiện đầu tới sự kiện cuối của dự án. 
+Đường găng của dự án là chuỗi công việc có thời gian dự trữ toàn phần khác không. 
+Đường găng của dự án là chuỗi công việc có tổng chi phí nhỏ nhất.
+
+Câu 55. Để chọn ra cách tính chi phí nguồn lực trong các phương án sau? 
+Work, Material, Cost. 
+Begin, Finish, Prorated. 
+*Start, End, Prorated. 
+Standard, Night Shift, 24h.
+
+Câu 60. Để dịch chuyển dự án chậm 1 tuần so với dự kiến, ta chọn nhóm biểu tượng nào sau đây tại tab Project? 
+Properties. 
+Status. 
+*Schedule. 
+Reports.
+
+Câu 4. Dựa vào hình dưới đây, hãy cho biết số giờ công của thợ nặn từ ngày 19 đến ngày 21 là bao nhiêu trong các phương án sau? <4.jpg>
+49h. 
+64h. 
+32h. 
+*56h.
+
+Câu 6. Hãy cho biết hình ảnh dưới hiển thị cửa sổ nào sau đây? <6.jpg>
+*Resource Usage. 
+Resource Sheet. 
+Resource Form. 
+Task Usage.
+
+Câu 8. Dựa vào hình dưới đây, hãy chọn phương án đúng ứng với tổng tiền chi cho việc sử dụng bàn xoay? <8.jpg>
+*340,000 đ. 
+3,600,000 đ. 
+118,000 đ. 
+272.000 đ.  
+
+Câu 9. Dựa vào hình dưới đây, hãy cho biết trong các nút lệnh sau, nút lệnh nào hiển thị dự án ở dạng Gantt Chart? <9.jpg>
+Nút lệnh số 4. 
+Nút lệnh số 3. 
+Nút lệnh số 2. 
+*Nút lệnh số 1.
+
+Câu 10. Dựa vào hình dưới đây, hãy cho biết trong các yêu  cầu sau, yêu cầu nào cần đến nguồn lực “Đội ngũ hướng dẫn”? <10.jpg>
+5, 9, 14. 
+2, 7, 12. 
+*3, 4, 12. 
+3, 4, 11.  
+
+Câu 11. Hãy chọn phương án đúng trong các phương án sau? <11.jpg>
+Khi nháy chọn nút OK, các giá trị  trong cột % Complete sẽ được hiển thị bởi giá trị của cột htTT. 
+*Khi  nháy chọn nút OK, các giá trị  trong cột htTT sẽ  được hiển  thị  bởi giá trị của cột % Complete. 
+Khi nháy chọn nút OK, cột % Complete được tạo mới. 
+Khi nháy chọn nút OK, cột htTT sẽ hiển thị các giá trị bất kỳ.
+
+Câu 12. Hãy cho biết thao tác nào trong các thao tác sau dùng để thiết lập chế độ lọc tự động trên các cột như hình dưới đây? <12.jpg>
+Task/ Filter/ Display AutoFilter. 
+*View/ Filter/ Display AutoFilter. 
+Project/ Filter/ Display AutoFilter. 
+Resource/ Filter/ Display AutoFilter.
+
+Câu 14. Hãy cho biết trong các nút lệnh sau, nút lệnh nào dùng để xóa bỏ liên kết giữa các công việc? <14.jpg>
+Nút lệnh số 11. 
+Nút lệnh số 10. 
+*Nút lệnh số 9. 
+Nút lệnh số 7.
+
+Câu 16. Dựa vào lịch trình công việc trong hình dưới đây, hãy cho biết thời gian hoàn thành dự án là bao nhiêu trong các phương án sau? <16.jpg>
+27 ngày. 
+32 ngày. 
+23 ngày. 
+*29 ngày.	
+
+Câu 17. Dựa vào sơ đồ mạng công việc trong hình dưới đây (thời gian thực hiện các công việc tính theo ngày), hãy cho biết dự án hoàn thành mất bao lâu trong các phương án sau? <17.jpg>
+*30 ngày. 
+29 ngày. 
+27 ngày. 
+34 ngày.
+
+Câu 19. Hãy chọn ra phương án đúng ứng với đường găng của dự án? <19.jpg>
+B-E-G-I-L. 
+A-D-F-G-I-L. 
+*A-D-G-I-K. 
+A-C-F-G-I-K.
+
+Câu 21. Hãy cho biết trong hình dưới đây, ngày 25/04/2014 thuộc loại ngày nào sau đây? <21.jpg>
+Nonworking. 
+*Working. 
+Exception day. 
+Nondefault work week.
+
+Câu 23. Nhân viên bán hàng được thiết lập lịch nghỉ theo hình dưới đây ở mục Exceptions, hãy cho biết ý nghĩa của lịch nghỉ này trong các phương án sau? <23.jpg>
+Lịch nghỉ định kỳ của nhân viên vào Thứ Năm hàng tuần, giới hạn trong 5 tuần. 
+Lịch nghỉ định kỳ của nhân viên vào Thứ Năm đầu tiên của mỗi tháng, giới hạn trong 5 tháng. 
+Lịch nghỉ định kỳ của nhân viên vào ngày 16/4 hàng năm, giới hạn trong 5 năm. 
+*Lịch nghỉ định kỳ của nhân viên vào Thứ Năm thứ ba của tháng 4 hàng năm, giới hạn trong 5 năm.
+
+Câu 26. Dựa vào hình dưới đây, hãy chọn phương án đúng trong các phương án sau? <26.jpg>
+Nguồn lực bếp được sử dụng từ ngày 10-5 đến 20-5. 
+Dự án có tối đa 3 bếp, nguồn lực bếp có 10 ngày bị quá tải. 
+Dự án có tối đa 1 bếp, nguồn lực bếp có 3 ngày bị quá tải. 
+*Dự án có tối đa 1 bếp, nguồn lực bếp có 10 ngày bị quá tải.
+
+Câu 27. Trong quá trình thực hiện dự án, hãy cho biết để cân đối nguồn lực hiện tại chúng ta chọn công cụ số mấy trong các công cụ sau? <27.jpg>
+Công cụ số 4. 
+Công cụ số 3. 
+*Công cụ số 2. 
+Công cụ số 5.
+
+Câu 28. Dựa vào hình dưới đây, hãy chọn phương án đúng ứng với chi phí dành cho nguồn lực dạng Material? <28.jpg>
+7,600,000 đ. 
+*7,000,000 đ. 
+400,000 đ. 
+200,000 đ.
+
+Câu 31. Hãy chọn thao tác đúng trong các thao tác sau để xuất ra bản báo cáo trên Excel như hình dưới đây? <31.jpg>
+Chọn Project/ Visual Reports/ Tích chọn Microsoft Excel/ Resource Usage/ Resource Cost Summany Report. 
+*Chọn Project/ Visual Reports/ Tích chọn Microsoft Excel/ Task Usage/ Cash Flow Report. 
+Chọn Project/ Visual Reports/ Tích chọn Microsoft Excel/ Resource Usage/ Cash Flow Report. 
+Chọn Project/  Visual Reports/ Tích chọn Microsoft Excel/ All/ Resource Remaining Work Report.
+
+Câu 32. Khi cần báo cáo ngân quỹ dự  trù của dự án ta chọn mục nào trong các mục sau dựa vào hình dưới đây? <32.jpg>
+Overbudget Tasks. 
+*Budget. 
+Earned Value. 
+Cash Flow.
+
+Câu 33. Dựa vào hình dưới đây, hãy cho biết  lương của thợ nặn vào ngày 4/20/15 (mm/dd/yy) được tính như thế nào trong các phương án sau? <33.jpg>
+*Lương trong giờ 250,000 đ/ngày, lương ngoài giờ 60,000 đ/giờ. 
+Lương trong giờ 200,000 đ/ngày, lương ngoài giờ 50,000 đ/giờ. 
+Lương trong giờ 220,000 đ/ngày, lương ngoài giờ 50,000 đ/giờ. 
+Lương trong giờ 300,000 đ/ngày, lương ngoài giờ 60,000 đ/giờ.
+
+Câu 34. Để nhập được đơn vị tiền tệ là đ như hình dưới đây, ta phải thay đổi tùy chọn nào trong các tùy chọn sau? <34.jpg>
+File/ Options/ Display/ Currency. 
+File/ Options/ Advanced/ Symbol. 
+File/ Options/ Advanced/ Currency. 
+*File/ Options/ Display/ Symbol.
+
+Câu 35. Để hiển thị % hoàn thành và chi phí của các công việc trên biểu đồ Gantt Chart, ta chọn thao tác nào trong các thao tác sau? <35.jpg>
+Chọn các công việc/ Format/ Bar. 
+Chọn các công việc/ View/ Format/ Bar. 
+*Chọn các công việc/ Format/ Format/ Bar. 
+Chọn các công việc/ View/ Bar.
+
+Câu 36. Dựa vào hình dưới đây, hãy cho biết trong các công việc sau, đâu là công việc làm trong ngày 04/04/2014? <36.jpg>
+Tìm nguồn thạch cao, chuẩn bị nhà xưởng. 
+*Tìm nguồn thạch cao, mua khí đốt, chuẩn bị nhà xưởng. 
+Tìm nguồn thạch cao, mua khí đốt, chuẩn bị nhà xưởng, mua thạch cao, xong vật tư nhà xưởng. 
+Tìm nguồn thạch cao, mua thạch cao, mua khí đốt, chuẩn bị nhà xưởng.
+
+Câu 37. Trong các thao tác sau, thao tác nào dùng để đổi tên cột Task Name thành Yêu cầu như hình dưới đây? <37.jpg>
+Nháy phải chuột lên cột Task Name/ Chọn Custom Fields/ Đổi tên tại mục Title. 
+Nháy phải chuột lên cột Task Name/ Chọn Field Settings/ Đổi tên tại mục Name.
+*Nháy phải chuột lên cột Task Name/ Chọn Field Settings/ Đổi tên tại mục Title.
+
+Câu 39. Dựa vào hình dưới đây, hãy cho biết mối quan hệ giữa công việc 11 và công việc 17  thuộc dạng liên kết nào sau đây? <39.jpg>
+*FS. 
+SS. 
+FF. 
+SF.
+
+Câu 40. Để các dự án luôn mặc định bắt đầu làm việc từ 7:30 AM đến 5:30 PM như  hình dưới, ta chọn thao tác nào trong các thao tác sau? <40.jpg>
+File/ Options/ Calendar. 
+*File/ Options/ Schedule. 
+File/ Options/ Advanced. 
+File/ Options/ Display.
+
+Câu 41. Dựa vào hình dưới đây, hãy cho biết công việc nào trong các công việc chưa được phân công? <41.jpg>
+Đóng gói. 
+Rán bánh rán mẻ 1.
+*Chuẩn bị đồ nấu, chuẩn bị bếp, giao hàng. 
+Luộc bánh trôi mẻ 1, rán bánh chuối mẻ 2.
+
+Câu 44. Để đánh dấu những yêu cầu có „% Complete‟ từ 50% trở lên tại bảng 1, bạn phải thiết lập các thông số tại bảng 2 như thế nào trong các phương án sau? <44.jpg>
+Field Name: % Complete; Test: is greater than; Value(s): 50%. 
+Field Name: % Complete; Test: does not equals; Value(s): 50%. 
+Field Name: % Complete; Test: is less than; Value(s): 50%. 
+*Field Name: % Complete; Test: is greater than or equal to; Value(s): 50%.  
+
+Câu 45. Dựa vào hình dưới đây, hãy cho biết tổng thời gian thợ nặn làm việc tới ngày 24/04 là bao nhiêu trong các phương án sau? <45.jpg>
+54h. 
+*277h. 
+331h. 
+223h.
+
+Câu 46. Dựa vào hình dưới đây, hãy cho biết tổng chi phí  thực tế của việc „Nặn 200 đĩa lớn‟ là bao nhiêu trong các phương án sau? <46.jpg>
+824,000 đ. 
+2,450,000 đ. 
+2,250,000 đ. 
+*1,626,000  đ.  
+
+Câu 47. Hãy chọn phương án đúng ứng với đường găng của dự án trong hình dưới đây? <47.jpg>
+A – C – D – F – I – K – M. 
+B – E – G – I – K – M. 
+*A – C – D – F – I – L – M. 
+A – B – C – D – H – I – L – M.
+
+Câu 48. Trong đợt làm lọ hoa, bàn xoay được sử dụng 2 lần, lần thứ nhất 10h, lần thứ hai 12h. Bạn hãy tính chi phí sử dụng bàn xoay? <48.jpg>
+110,000đ. 
+120,000đ. 
+*130,000đ.
+220,000đ.
+
+Câu 49. Để  thiết lập được các mức độ: Rất cao, Cao, Trung bình… trên cột “Giá trị  thực tiễn”, ta cần thao tác thế nào? <49.jpg>
+Chọn tab Project/ Chọn Custom Fields/ Chọn field “Giá trị  thực tiễn” => Chọn thuộc tính Formula… và thiết lập giá trị tại mục Description. 
+*Chọn tab Project/ Chọn Custom Fields/ Chọn field “Giá trị  thực tiễn” => Chọn thuộc tính Lookup… và thiết lập giá trị tại mục Value. 
+Chọn tab Project/ Chọn Custom Fields/ Chọn field “Giá trị  thực tiễn” => Chọn thuộc tính Lookup… và thiết lập giá trị tại mục Description. 
+Chọn tab Task/ Chọn Custom Fields/ Chọn field “Giá trị  thực tiễn” => Chọn thuộc  tính Lookup… và thiết lập giá trị tại mục Value.
+
+Câu 50. Dựa vào hình dưới đây hãy cho biết cột nào sau đây thể hiện chi phí của nguồn lực? <50.jpg>
+2, 3. 
+1, 2, 3. 
+*2, 3, 4. 
+1, 2, 3, 4.
+
+Câu 53. Hãy cho biết hình ảnh dưới hiển thị cửa sổ nào sau đây? <53.jpg>
+*Task Form. 
+Task Usage. 
+Task Sheet. 
+Team Planner.
+
+Câu 57. Hãy chọn công thức đúng cho cột trạng thái (dựa vào cột % hoàn thành) trong các công thức sau? <57.jpg>
+IIf([% Hoàn thành]=0,"Chưa thực hiện","") & IIf([% Hoàn thành]>0 And [% Hoàn thành]<70,"Đang làm dở","") & IIf([% Hoàn thành]>=70 And [% Hoàn thành]<100,"Làm sắp xong","") & IIf([% Hoàn thành]=100,"Đã hoàn thành",""). 
+*IIf([% Hoàn thành]=0,"Chưa thực hiện","") & IIf([% Hoàn thành]>0 And [% Hoàn thành]<=70,"Đang làm dở","") & IIf([% Hoàn thành]>70 And [% Hoàn thành]<100,"Làm sắp xong","") & IIf([% Hoàn thành]=100,"Đã hoàn thành",""). 
+IIf([% Hoàn thành]=0,"Chưa thực hiện",IIf([% Hoàn thành]<70,"Đang làm dở",IIf([% Hoàn thành]<100,"Làm sắp xong","Đã hoàn thành"))). 
+IIf([% Hoàn thành]=0,"Chưa thực hiện","") And IIf([% Hoàn thành]>0 And  [% Hoàn thành]<=70,"Đang làm dở","") And IIf([% Hoàn thành]>70 And [% Hoàn thành]<100,"Làm sắp xong","") And IIf([% Hoàn thành]=100,"Đã hoàn thành","").
+
+Câu 59. Dựa vào hình dưới đây, hãy chọn phương án đúng ứng với tổng lượng thạch cao sử dụng từ ngày 22/4 đến 24/4? <59.jpg>
+*97.34 kg. 
+98 kg. 
+105.97 kg. 
+58.96 kg.
+
+Câu 3. Hãy cho biết trong các quy trình sau, đâu là quy trình đóng dự án? <3.jpg>
+*5 – 1 – 7 – 2 – 3 – 4 – 6 – 8. 
+7 – 5 – 4 – 1 – 2 – 3 – 6 – 8. 
+8 – 7 – 5 – 4 – 1 – 2 – 3 – 6. 
+1 – 2 – 3 – 7 – 8 – 4 – 5 – 6.

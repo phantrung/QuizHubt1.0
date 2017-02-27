@@ -1,0 +1,312 @@
+111.	Tại hình 2, để tạo một tệp trình diễn mới, ta chọn? Hình K11<1.jpg>
+*A. Chọn 1
+B. Chọn 2
+C. Chọn 3
+D. Chọn 6
+
+112.	Tại hình 2, muốn tạo một tệp trình chiếu từ templates do mình đã tạo hoặc download trước đó từ Microsoft Ofice Online, ta chọn? Hình K11<1.jpg>
+A. Chọn 3
+B. Chọn 4
+*C. Chọn 5
+D. Chọn 6
+
+113.	Tại hình 2, muốn tạo một bản trình diễn sử dụng theme - chủ đề có sẵn, ta chọn? Hình K11<1.jpg>
+A. Chọn 2
+B. Chọn 3
+*C. Chọn 4
+D. Chọn 5
+
+114.	Để thêm một trang slide mới trong khi đang thiết kế Powerpoint, ta thực hiện như thế nào?
+A. Tab File\ chọn New\ chọn Blank Presentation.
+*B. Tab Home\ chọn New Slide trong nhóm Slides, sau đó chọn một dạng Slide tùy ý.
+C. Nhấn tổ hợp phím Ctrl + L
+D. Nhấn tổ hợp phím Ctrl + N
+
+115.	Để thêm một trang slide mới trong khi đang thiết kế Powerpoint, ta thực hiện thế nào?
+A. Tab File\ chọn New\ chọn Blank Presentation.
+*B. Nhấn tổ hợp phím Ctrl +M
+C. Nhấn tổ hợp phím Ctrl +L
+D. Nhấn tổ hợp phím Ctrl + N
+
+
+116.	Muốn chèn sơ đồ tổ chức vào Slide, ta thực hiện thế nào?
+*A. Tab Insert\ SmartArt \ Hierachy, chọn một dạng sơ đồ tổ chức phù hợp.
+B. Tab Insert\ SmartArt \ Picture, chọn một dạng sơ đồ tổ chức phù hợp.
+C. Tab Insert\ Picture, sau đó chọn sơ đồ cần chèn.
+D. Tab Insert\ Chart, chọn một dạng sơ đồ tổ chức phù hợp.
+
+
+117.	Thao tác Tab Insert\ Chart có chức năng gì?
+A. Chèn sơ đồ tổ chức vào Slide.
+*B. Chèn biểu đồ vào Slide
+C. Chèn hình ảnh từ vị trí bất kỳ trong máy vào Silde
+D. Chèn hình ảnh từ từ thư viện có sẵn trong máy vào Silde
+
+
+118.	Để chèn hình ảnh có sẵn trong Office vào Slide, ta thực hiện?
+*A. Tab Insert\ Clip Art…
+B. Tab Insert\ Picture\ Clip Art…
+C. Tab Home\ Picture\ Clip Art…
+D. Tab Home\ Clip Art…
+
+
+119.	Để chèn đánh dấu trang vào từng Slide, ta thực hiện?
+A. Tab View\ Date and Time
+B. Tab View\ Slide Number
+C. Tab Insert\ Date and Time
+*D. Tab Insert\ Slide Number
+
+
+120.	Hãy cho biết phím tắt để phát lệnh trình diễn một tệp Powerpoint từ slide đầu tiên?
+A. Ctrl + F5
+*B. F5
+C. Shift + F5
+D. Alt + F5
+
+
+121.	Tại hình 1, công cụ số 1 cho phép chuyển các slide về chế độ nào? Hình K11<1.jpg>
+*A. Normal View
+B. Reading View
+C. Slide Sorter View
+D. Slide Show
+
+
+122.	Tại hình 1, công cụ số 2 cho phép chuyển các Slide về chế độ nào? Hình K11<1.jpg>
+A. Normal View
+B. Reading View
+C. Slide Show
+*D. Slide Sorter View
+
+
+123.	Trong phần Hyperlink ta chọn Next Slide sẽ cho phép liên kết tới slide?
+A. Di chuyển về Slide trước đó
+*B. Di chuyển về Slide tiếp theo
+C. Di chuyển về Slide đầu tiên
+D. Di chuyển về Slide cuối cùng
+
+
+124.	Trong phần Hyperlink to ta chọn First Slide sẽ cho phép liên kết tới slide?
+A. Di chuyển về Slide trước đó
+B. Di chuyển về Slide tiếp theo
+*C. Di chuyển về Slide đầu tiên
+D. Di chuyển về Slide cuối cùng
+
+
+125.	Trong phần Hyperlink To để kết thúc trình diễn chọn?
+A. Next Slide
+B. Previous Slide
+*C. End Show
+D. Slide
+
+126.Tại hình 1, để chọn các nhóm hiệu ứng cho đối tượng, ta chọn? Hình M12<2.jpg>
+*A. Add Animation.
+B. Animation Pane.
+C. Trigger.
+D. Animation Painter.
+
+
+127.Để tạo hiệu ứng làm xuất hiện đối tượng, ta chọn? Hình M12 <2.jpg>
+*A. Nhóm 2 - Entrance.
+B. Nhóm 3 - Emphasis.
+C. Nhóm 4 - Exit.
+D. Nhóm 5 - Motion Paths.
+
+
+128.Để tạo hiệu ứng nhấn mạnh nhằm tăng sự chú ý khi đối tượng trình chiếu, ta chọn nhóm? Hình M12<2.jpg>
+A. Nhóm 2 - Entrance.
+*B. Nhóm 3 - Emphasis.
+C. Nhóm 4 - Exit.
+D. Nhóm 5 - Motion Paths.
+
+129.Thao tác vào Tab Animations\ chọn Add Animation trong nhóm Advanced Animation có chức năng gì?
+*A. Chọn các nhóm với các kiểu hiệu ứng trình chiếu cho đối tượng.
+B. Chọn các nhóm với các kiểu hiệu ứng trình chiếu cho trang trình chiếu.
+C. Thiết lập thời gian hiển thị của đối tượng trên trang trình chiếu.
+D. Xác định hướng di chuyển của đối tượng khi trình chiếu.
+
+
+130.Để chọn các nhóm với các kiểu hiệu ứng cho các đối tượng trên trang trình chiếu, ta thao tác?
+*A. Vào Tab Animations\ chọn Add Animation trong nhóm Advanced Animation.
+B. Vào Tab Transitions\ chọn Animation Pane trong nhóm Advanced Animation.
+C. Vào Tab Animations\ chọn Animation Pane trong nhóm Advanced Animation.
+D. Vào Tab Transitions\ chọn Add Animation trong nhóm Advanced Animation.
+
+
+131.Các đối tượng trong nhóm 3 - Emphasis có chức năng gì? Hình M12<2.jpg>
+A. Thiết lập thời gian hiển thị của các đối tượng khi trình chiếu.
+B. Chọn nhóm với các hiệu ứng làm xuất hiện đối tượng.
+*C. Chọn nhóm với các hiệu ứng nhấn mạnh làm tăng sự chú ý khi đối tượng được trình chiếu.
+D. Chọn nhóm các hiệu ứng sau khi xuất hiện trình chiếu xong, đối tượng sẽ ẩn đi.
+
+
+132.Để làm cho đối tượng ẩn đi sau khi trình chiếu hiệu ứng, ta thao tác thế nào?
+A. Vào Tab Animations\ chọn Add Animation\ Entrance
+B. Vào Tab Animations\ chọn Add Animation\ Motion Paths
+C. Vào Tab Animations\ chọn Add Animation\ Emphasis
+*D. Vào Tab Animations\ chọn Add Animation\  Exit
+
+
+133.Hình 1, muốn xem thêm những hiệu ứng khác ta chọn mục? Hình M12<2.jpg>
+A. Chọn 1
+B. Chọn 3
+C. Chọn 5
+*D. Chọn 6
+
+
+134.	Tại hình 1, quy định cách điều khiển để xuất hiện đối tượng, ta chọn? Hình M13<3.jpg>
+*A. Chọn 1
+B. Chọn 2
+C. Chọn 3
+D. Chọn 2 và 3
+
+
+135.	Tại hình 1, để thiết lập thời gian thực thi hiệu ứng chuyển từ slide này sang slide khác ta chọn? Hình M13 <3.jpg>
+A. Chọn 1
+*B. Chọn 2
+C. Chọn 3
+D. Chọn 2 và 3
+
+
+136.	Tại hình 2, đặt hiệu ứng diễn ra liền sau hiệu ứng trước ta chọn? Hình M13<3.jpg>
+A. Chọn 2
+B. Chọn 3
+*C. Chọn 4
+D. Chọn 5
+
+
+137.	Tại hình 2, để mở hộp thoại tùy chọn hiệu ứng nâng cao, ta chọn? Hình M13<3.jpg>
+A. Chọn 2
+B. Chọn 3
+C. Chọn 4
+*D. Chọn 5
+
+138.	Tại hình 3, để tạo liên kết, thiết lập điều khiển một hành động, ta chọn? Hình K23<4.jpg>
+A. Chọn 1
+*B. Chọn 2
+C. Chọn 3
+D. Không có đáp án đúng
+
+
+139.	Tại hình 3, khi tạo trigger, để chọn vị trí cần liên kết đến ta chọn? Hình K23<4.jpg>
+A. Chọn 1
+B. Chọn 2
+*C. Chọn 3
+D. Không có đáp án đúng
+
+
+140.	Tại hình 4, thiết lập hiệu ứng âm thanh đi kèm với đối tượng khi trình chiếu, ta chọn? Hình K23<4.jpg>
+*A. Chọn 1
+B. Chọn 2
+C. Chọn 3
+D. Không có đáp án đúng
+
+
+141.	Để di chuyển đến một slide bất kỳ trong khi đang trình chiếu, ta thao tác?
+*A. Kích chuột phải vào slide hiện hành\ Go to Slide\ Chọn slide bạn muốn
+B. Kích chuột phải vào slide hiện hành\ Next\ Chọn slide bạn muốn
+C. Kích chuột phải vào slide hiện hành\ End Show\ Chọn slide bạn muốn
+D. Kích chuột phải vào slide hiện hành\ Pause\ Chọn slide bạn muốn
+
+
+142.	Để trình diễn bắt đầu từ Slide đầu tiên của một tệp trình diễn, ta thao tác?
+*A. Từ Menu View\ Reading View
+B. Shift + F5
+C. Sử dụng E5
+D. Không có đáp án đúng
+
+
+143.	Để chuyển sang một slide tiếp theo trong khi đang trình chiếu?
+*A. Sử dụng phím Enter
+B. Ctrl + N
+C. Sử dụng phím End
+D. Ctrl + M
+
+
+144.	Để di chuyển về slide trước đó trong khi trình chiếu, trên bàn phím ta ấn?
+A. Sử dụng phím Enter
+B. Sử dụng phím mũi tên đi xuống
+C. Sử dụng phím mũi tên sang phải
+*D. Sử dụng phím mũi tên đi lên
+
+145.	Để ẩn một Slide, chọn Slide cần ẩn, sau đó tại H1 ta chọn? Hình L11<5.jpg>
+A. Tab Slide Show/ chọn Set Up Slide Show.
+B. Tab Slide Show/ chọn Custom Slide Show.
+C. Tab Slide Show/ chọn From Beginning.
+*D. Tab Slide Show/ chọn Hide Slide.
+
+
+146.	Để trình diễn bắt đầu từ Slide hiện tại của một trang trình chiếu, tại H1 ta chọn? Hình L11<5.jpg>
+A. From Beginning.
+*B. From Current Slide.
+C. Broadcast Slide Show.
+D. Custom Slide Show.
+
+
+147.	Để thiết lập lại thứ tự trình diễn của các Slide khi trình chiếu, tại H1 ta chọn? Hình L11<5.jpg>
+A. From Beginning.
+B. From Current Slide.
+C. Broadcast Slide Show.
+*D. Custom Slide Show.
+
+148.	Muốn áp dụng background không được cung cấp sẵn trong bộ Office cho Silde đang làm việc, kích chuột phải lên vùng trống và tại H2 ta chọn? Hình N11<6.jpg>
+A. Publish Slides
+B. Layout
+*C. Format Background…
+D. Reset Slide
+
+149.	Để thay đổi thiết kế của Slide (sắp xếp vị trí các đối tượng trên Slide), tại H2 ta chọn? Hình N11<6.jpg>
+A. Publish Slides
+*B. Layout
+C. Format Background…
+D. Reset Slide
+
+
+150.	Tại H2, chọn Layout có chức năng gì?<6.jpg>
+A. Để áp dụng background không có sẵn trong bộ Office cho slide đang làm việc.
+B. Để áp dụng những background có sẵn của Office cho các slide Slide Layout
+*C. Để thay đổi - sắp xếp vị trí đặt các đối tượng lên Slide.
+D. Để đặt hiệu ứng cho các đối tượng trên Slide.
+
+151.	Để đặt siêu liên kết cho các đối tượng trên slide ta thao tác:
+*A. Nhấn chuột phải lên đối tượng cần tạo siêu liên kết/ Hyperlink…/ chọn mục cần liên kết/OK.
+B. Nhấn chuột phải lên đối tượng cần tạo siêu liên kết/ vào Design/ Hyperlink…/ chọn mục cần liên kết/OK.
+C. Nhấn chuột phải lên đối tượng cần tạo siêu liên kết/ vào Home/ Hyperlink…/ chọn mục cần liên kết/OK.
+D. Không có đáp án đúng.
+
+152.	Để tạo siêu liên kết đến một File hoặc một trang Web, ta chọn? Hình K33<7.jpg>
+*A. Chọn 1/ chọn mục liên kết thích hợp/ OK
+B. Chọn 4/ chọn mục liên kết thích hợp/ OK
+C. Chọn  mục 3/ chọn mục liên kết thích hợp/ OK
+D. Chọn  mục 2/ chọn mục liên kết thích hợp/ OK
+
+
+153.	Để tạo siêu liên kết tới các slide khác trong Document, ta chọn?<7.jpg>
+A. Chọn 1/ Chọn Slide cần liên kết/ OK
+*B. Chọn 2/ Chọn Slide cần liên kết/ OK
+C. Chọn 4/ Chọn Slide cần liên kết/ OK
+D. Không có đáp án đúng
+
+154.	Để chọn dạng slide có khuôn dạng một dòng văn bản làm tiêu đề chính, dòng còn lại làm tiêu đề nhỏ hơn ta chọn? Hình N22<8.jpg>
+*A. Chọn dạng 1
+B. Chọn dạng 2
+C. Chọn dạng 6
+D. Chọn dạng 9
+
+
+155.	Để chọn dạng slide có khuôn dạng một dòng văn bản làm tiêu đề chính, một hộp chứa các dòng văn bản đóng vai trò cấp thấp hơn ta chọn?Hình N22<8.jpg>
+*A. Chọn dạng 2
+B. Chọn dạng 3
+C. Chọn dạng 4
+D. Chọn dạng 8
+
+156.Để nhúng một đoạn phim từ một vị trí bất kỳ ở trong máy, vào menu Insert sau đó ta chọn? Hình L31<9.jpg>
+*A. Kích chọn Video, chọn Video from File...
+B. Kích chọn Audio, chọn Audio from File...
+C. Kích chọn Video, chọn Clip Art Video...
+D. Kích chọn Audio, chọn Record Audio...
+
+157.Để nhúng một đoạn audio được tích hợp sẵn trong Office, vào menu Insert sau đó ta chọn? Hình L31<9.jpg>
+A. Kích chọn Video, chọn Video from File...
+*B. Kích chọn Audio, chọn Clip Art Audio...
+C. Kích chọn Audio, chọn Audio from File...
+D. Kích chọn Audio, chọn Record Audio...

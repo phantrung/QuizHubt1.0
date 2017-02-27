@@ -1,0 +1,672 @@
+1. Khái niệm dữ liệu là?
+*a. Dữ liệu là đối tượng mang thông tin. 
+b. Dữ liệu là các tín hiệu vật lý và các số liệu. 
+c. Dữ liệu là các kí hiệu, các hình ảnh. 
+
+2. Dữ liệu trong máy tính có thể là? 
+a. Là các số liệu hoặc tài liệu cho trước chưa được xử lý. 
+b. Là các tín hiệu vật lý như sóng điện từ, ánh sáng, âm thanh. 
+c. Là các hình ảnh. 
+*d. Tất cả các đáp án đều đúng.
+
+3. Hãy nêu khái niệm thông tin? Chọn phương án đúng nhất. 
+a. Thông tin là một khái niệm mô tả những gì đem lại sự hiểu biết cho con người. 
+*b. Thông tin là một khái niệm mô tả những gì đem lại sự hiểu biết và nhận thức cho con người. Thông tin có thể được tạo ra, truyền đi, lưu trữ và xử lý. 
+c. Thông tin có thể được tạo ra, truyền đi, lưu trữ và xử lý. 
+d. Thông tin mang những dữ liệu quan trọng mang lại hiểu biết cho con người. 
+
+ 4. Trong quy trình xử lý thông tin, bước đầu tiên là bước nào? 
+*a. Vào thông tin. 
+b. Xử lý thông tin. 
+c. Xuất và lưu trữ thông tin. 
+d. Biểu diễn thông tin. 
+
+5. Trong quy trình xử lý thông tin, bước Xử lý thông tin, là bước thứ mấy? 
+*a. Bước 2. 
+b. Bước 1. 
+c. Bước 3. 
+d. Xử lý thông tin không nằm trong quy trình xử lý thông tin. 
+
+6. Hệ nhị phân chỉ sử dụng những chữ số nào để biểu diễn dữ liệu? 
+a. 0, 1, 2, …, 9 
+b. 0, 1, 2, …, 7 
+c. 0, 1, 2, …, 9, A, B, C, D, E, F 
+*d. 0, 1 
+
+7. Hãy cho biết hệ nào chỉ sử dụng số 0 và 1 để biểu diễn dữ liệu? 
+a. Hệ bát phân (Oct). 
+b. Hệ thập lục phân (Hex). 
+*c. Hệ nhị phân (Bin). 
+d. Hệ thập phân (Dec). 
+
+8. Hex (Hexadecimal Number System) là hệ đếm nào trong các hệ sau:  
+a. Hệ nhị phân 
+b. Hệ bát phân 
+c. Hệ thập phân 
+*d. Hệ thập lục phân 
+
+9. Bin (Binary Number System) là hệ đếm nào trong các hệ sau: 
+*a. Hệ nhị phân. 
+b. Hệ bát phân. 
+c. Hệ thập phân. 
+d. Hệ thập lục phân. 
+
+10. Hãy chọn phát biểu đúng nhất trong các phát biểu sau? 
+a. Hệ nhị phân chỉ sử dụng các số 0, 1, 2 để biểu diễn dữ liệu. 
+b. Hệ thập phân sử dụng các số từ 1, 2, ... 10 để biểu diễn dữ liệu. 
+*c. Hệ nhị phân chỉ sử dụng các số 0,1 để biểu diễn dữ liệu. 
+d. Hệ thập phân sử dụng các số từ 1, 2, ... 9 để biểu diễn dữ liệu. 
+
+11. Muốn chuyển đổi 1 số từ hệ 10 sang hệ 2, phát biểu nào sau đây là đúng? 
+*a. Lấy số nguyên thập phân chia cho 2 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phân là các số dư trong phép chia viết theo thứ tự từ dưới lên. 
+b. Lấy số nguyên thập phân chia cho 10 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phân là các số dư trong phép chia viết theo thứ tự từ dưới lên. 
+c. Lấy số nguyên thập phân chia cho 2 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phân là các số dư trong phép chia viết theo thứ tự từ trên xuống. 
+d. Lấy số nguyên thập phân chia cho 10 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phân là các số dư trong phép chia viết theo thứ tự từ trên xuống. 
+
+12. Trong các đẳng thức sau, đẳng thức nào đúng? 
+a. 2MB = 1024 Byte. 
+b. 1 Bit = 10 Byte. 
+*c. 2GB = 2048 MB. 
+d. 1GB = 1000 MB. 
+
+13.	Muốn chuyển đổi 1 số từ hệ 10 sang hệ 2, phát biểu nào sau đây là đúng?
+*a.	Lấy số nguyên thập phân chia cho 2 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phânlà các số dư trong phép chia viết theo thứ tự từ dưới lên.
+b.	Lấy số nguyên thập phân chia cho 10 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phân là các số dư trong phép chia viết theo thứ tự từ dưới lên.
+c.	Lấy số nguyên thập phân chia cho 2 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phânlà các số dư trong phép chia viết theo thứ tự từ trên xuống.
+d.	Lấy số nguyên thập phân chia cho 10 đến khi thương số bằng 0. Kết quả số chuyển đổi nhị phânlà các số dư trong phép chia viết theo thứ tự từ trên xuống.
+
+
+14.	Trong các đẳng thức sau, đẳng thức nào đúng?
+a.	2MB = 1024 Byte.
+b.	1 Bit = 10 Byte.
+*c.	2GB = 2048 MB.
+d.	1GB = 1000 MB.
+
+17.	Muốn hiển thị  tập tin và thư mục dưới dạng danh sách, kích chuột phải vào vùng trống, sau đó ta chọn?
+*a.	Menu View/ chọn List
+b.	Menu View/ chọn Contents
+c.	Menu View/ chọn Details
+d.	Menu View/ chọn Tiles
+
+18.	Trong khi soạn thảo, yêu cầu gõ văn bản với font chữ “.VnArabia”, ta sử dụng bảng mã nào để không bị lỗi font?
+a.	Bảng mã Unicode
+b.	Bảng mã VNI.
+*c.	Bảng mã TCVN3.
+d.	Không có đáp án đúng.
+
+
+19. Hãy cho biết đối tượng số 3 trong hình là gì?<19_20.jpg>
+*a. Shortcut (Biểu tượng lối tắt). 
+b. Menu Start (Nút khởi động). 
+c. Desktop (Màn hình nền). 
+d. Quicklaunch (Thanh thao tác nhanh). 
+
+20. Để truy lục và khởi động các chương trình ứng dụng ta sử dụng đối tượng nào?<19_20.jpg>
+a. 2. 
+b. 3. 
+*c. 1. 
+d. 4. 
+
+21. Muốn hiển thị  tập tin và thư mục dưới dạng danh sách, kích chuột phải vào vùng trống, sau đó ta chọn? 
+*a. View/ chọn List 
+b. View/ chọn Contents 
+c. View/ chọn Details 
+d. View/ chọn Tiles 
+
+22. Trong khi soạn thảo, yêu cầu gõ văn bản với font chữ “.VnArabia”, ta sử dụng bảng mã nào để không bị lỗi font? 
+a. Bảng mã Unicode 
+b. Bảng mã VNI. 
+*c. Bảng mã TCVN3. 
+d. Không có đáp án đúng. 
+
+23. Trong khi soạn thảo, yêu cầu gõ văn bản với font chữ “Arial”, ta sử dụng bảng mã nào để không bị lỗi font? 
+*a. Bảng mã Unicode. 
+b. Bảng mã VNI. 
+c. Bảng mã TCVN3. 
+d. Không có đáp án đúng. 
+
+24. Trong khi soạn thảo, đang sử dụng bảng mã Unicode, font chữ nào sau đây không phù hợp? 
+a. Tahoma 
+b. Arial 
+*c. VNI - Times 
+d. Times New Roman 
+
+25. Hãy nêu cách có thể khởi động Microsoft Office Word? 
+a. Start\ Run\ gõ Winword.exe\ chọn Ok. 
+b. Start\ All Program\ Microsoft Office\ Microsoft Word. 
+c. Kích đúp chuột vào biểu tượng shortcut Microsoft Office Word trên Desktop. 
+*d. Cả ba cách đều đúng. 
+ 
+26. Thao tác vào Tab File\ Close có chức năng gì? Chọn câu trả lời đúng nhất. 
+*a. Chỉ đóng văn bản đang làm việc trên màn hình. 
+b. Đóng toàn bộ văn bản đang mở và chương trình Word. 
+c. Cả hai đáp án đều đúng. 
+d. Có chức năng khác. 
+
+27. Muốn đóng toàn bộ văn bản đang mở và chương trình Word, ta thao tác? 
+a. Tab File\ Close. 
+*b. Tab File\ Exit. 
+c. Gõ tổ hợp phím Ctrl + W. 
+d. Không có đáp án đúng. 
+
+28. Tổ hợp phím Ctrl + N trong môi trường Word có chức năng gì? 
+a. Lưu văn bản đang làm việc. 
+*b. Tạo một tệp văn bản mới. 
+c. In văn bản đang mở. 
+d. Không có đáp án đúng. 
+ 
+29. Nêu thao tác mở một văn bản đã có sẵn trong máy, hãy chọn đáp án đúng? 
+a. Gõ tổ hợp phím Alt + O. 
+b. Gõ tổ hợp phím Shift + O. 
+*c. Tab File\ chọn Open. 
+d. Tab Home\ chọn Open. 
+
+30. Để tạo tệp văn bản mới, hãy chọn đáp án đúng?<30_31_32.png>
+a. Tại H2 chọn công cụ số 6. 
+b. Tại H1 chọn Tab File\ New. 
+c. Gõ tổ hợp phím Ctrl + N. 
+*d. Tất cả đều đúng. 
+ 
+31. Tại hình H2, cho biết chức năng của công cụ số 7?<30_31_32.png>
+a. In văn bản đang mở. 
+b. Phóng to văn bản đang làm việc. 
+*c. Xem văn bản trước khi in. 
+d. Tạo mới một tệp văn bản. 
+
+32. Các bước tạo một bản fax sử dụng mẫu có sẵn?<30_31_32.png>
+*a. Bước 1: Tại H1 chọn New. Bước 2: Chọn Sample templates. Bước 3: Chọn mẫu Fax. 
+b. Bước 1: Gõ tổ hợp phím Ctrl + N. Bước 2: Chọn Sample templates. Bước 3: Chọn mẫu Fax. 
+c. Bước 1: Tại H2 chọn công cụ 6. Bước 2: Chọn Sample templates. Bước 3: Chọn mẫu Fax. 
+d. Tất cả đều đúng. 
+
+33. Trong khi soạn thảo văn bản, để căn văn bản thẳng hàng về bên trái, ta thực hiện?<33_35.jpg>
+a. Hình 1 chọn công cụ số 13 hoặc ấn Ctrl + R. 
+*b. Hình 1 chọn công cụ số 12 hoặc ấn Ctrl + L. 
+c. Hình 1 chọn công cụ số 12 hoặc ấn Ctrl + R. 
+d. Hình 1 chọn công cụ số 13 hoặc ấn Ctrl + L. 
+
+34. Chọn đoạn văn bản, sau đó ấn tổ hợp phím Ctrl + J, điều gì sẽ xảy ra?  
+*a. Văn bản sẽ được căn thẳng đều hai bên. 
+b. Văn bản sẽ được căn thẳng hàng về bên trái. 
+c. Văn bản sẽ được căn thẳng hàng về bên phải. 
+d. Văn bản sẽ được căn thẳng hàng ở giữa. 
+
+35. Tại hình 2, muốn chèn các biểu tượng ở tại mục 5, ta thao tác thế nào? ?<33_35.jpg>
+a. Tab View\ nhóm Symbols\Symbol. 
+*b. Tab Insert\ nhóm Symbols\Symbol. 
+c. Tab Insert\ nhóm Symbols\Equation. 
+d. Tab View\ nhóm Symbols\Equation. 
+
+36. Nêu chức năng của thao tác sau: Tại Tab Page Layout\ trong nhóm Page Background chọn Page Borders\ chọn đường viền? 
+a. Đổ bóng cho văn bản. 
+b. Tạo đường viền cho đoạn văn bản. 
+*c. Tạo đường viền cho trang văn bản. 
+d. Không có đáp án đúng. 
+
+37. Giả sử văn bản có 5 trang, muốn chèn Footer hiển thị số thứ tự cho từng trang, hình 1 ta chọn?<37_38.jpg>
+*a. Công cụ số 1 
+b. Công cụ số 2 
+c. Công cụ số 3 
+d. Công cụ số 7 
+
+38. Chuyển qua lại giữa Header và Footer ta chọn công cụ nào?<37_38.jpg>
+a. Công cụ 5, 6. 
+b. Công cụ 3, 4. 
+c. Công cụ 1, 2. 
+*d. Công cụ 6, 7. 
+
+39. Khi soạn thảo dữ liệu trong bảng, cách nào trong các cách sau dồn văn bản trong một ô lên phía trên bên trái? 
+*a. Tab Table Tool chọn Tab Tab Layout\ Chọn Align Top Left trong nhóm Alignment 
+b. Tab Table Tool chọn Tab Tab Layout\ Chọn Align Center Left trong nhóm Alignment 
+c. Tab Table Tool chọn Tab Tab Layout\ Chọn Align Bottom Left trong nhóm Alignment 
+d. Tab Table Tool chọn Tab Tab Layout\ Chọn Align Top Right trong nhóm Alignment 
+
+40. Để thực hiện việc sắp xếp dữ liệu trong bảng ta chọn mục nào? 
+a. Tại Tab Table Tool\ chọn Tab Tab Layout\ nhóm Data\Formula. 
+b. Tại Tab Table Tool\ chọn Tab Design\ nhóm Data\Formula. 
+*c. Tại Tab Table Tool\ chọn Tab Tab Layout\ nhóm Data\Sort. 
+d. Tại Tab Table Tool\ chọn Tab Design\ nhóm Data\Sort. 
+
+41. Khi soạn thảo dữ liệu trong bảng, để thực hiện việc tính toán giá trị trong ô ta chọn? 
+*a. Tab Table Tool chọn Tab Tab Layout\ Chọn Formula trong nhóm Data 
+b. Tab Table Tool chọn Tab Design\ Chọn Formula trong nhóm Data 
+c. Tab Table Tool chọn Tab Design\ Chọn Formula trong nhóm Alignment 
+d. Tab Table Tool chọn Tab Tab Layout\ Chọn Formula trong nhóm Alignment 
+
+42. Để xóa dòng trong bảng bạn làm như thế nào? Chọn dòng sau đó ta chọn? 
+*a. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete row 
+b. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete column 
+c. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete cells 
+d. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete table 
+
+43. Để xóa cột tại vi trí con trỏ chuột bạn làm như thế nào? Chọn cột sau đó ta chọn? 
+a. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete row 
+*b. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete column 
+c. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete cells 
+d. Tab Table Tool chọn Tab Tab Layout\ Chọn Delete trong nhóm Rows and columns\ Delete table 
+
+44. Muốn thay đổi độ rộng lề ta làm như thế nào?  
+*a. Chọn Tab Page Tab Layout\ chọn Margins trong nhóm Page Setup. 
+b. Chọn Tab Page Tab Layout\ chọn Orientation trong nhóm Page Setup. 
+c. Chọn Tab Page Tab Layout\ chọn Size trong nhóm Page Setup. 
+d. Không có đáp án đúng. 
+
+45. Tại hình H1, giả sử ta muốn đặt lề trên cho văn bản là 3cm và lề trái là 2,5cm ta làm như thế nào?<45_46_47.jpg>
+*a. Tại mục Margins chọn Top là 3cm và Left là 2,5cm 
+b. Tại mục Margins chọn Bottom là 3cm và Left là 2,5cm 
+c. Tại mục Margins chọn Right là 3cm và Left là 2,5cm 
+d. Tại mục Margins chọn Gutter là 3cm và Right là 2,5cm 
+
+46. Tại hình H1, nếu mục Orientation chọn Landscape, khi in sẽ cho ta kết quả?<45_46_47.jpg>
+*a. In theo hướng giấy ngang. 
+b. In theo hướng giấy dọc. 
+c. In văn bản với khổ giấy tự chọn. 
+d. Không có đáp  án đúng. 
+
+47. Muốn in văn bản theo hướng giấy dọc, ta thực hiện?<45_46_47.jpg>
+a. Tại hình H1 mục Orientation chọn Lanscape. 
+b. Tại hình H1 mục Multiple pages chọn hướng giấy.  
+*c. Tại hình H1 mục Orientation chọn Portrait. 
+d. Không có đáp án đúng. 
+
+48. Trong quy trình xử lý thông tin, bước thực hiện 50 * 1000 là?<48_49_50.jpg>
+a. Bước vào thông tin.  
+*b. Bước xử lý thông tin. 
+c. Lưu trữ. 
+d. Ra thông tin. 
+
+49. Trong hình trên “150, 200” được biểu diễn trong máy tính thuộc loại thông tin - dữ liệu nào?<48_49_50.jpg>
+a. Thông tin văn bản. 
+*b. Thông tin số liệu. 
+c. Thông tin âm thanh.
+d. Thông tin hình ảnh. 
+
+50. Hai đối tượng 50 và 50000 trong hình trên là gì?<48_49_50.jpg>
+*a. Dữ liệu. 
+b. Đối tượng mang thông tin. 
+c. Thông tin. 
+d. Không có đáp án đúng. 
+
+51. Chuyển đổi 18 (10) = ? (2) 
+a. 11010 
+*b. 10010 
+c. 10011 
+d. 10000 
+
+52. Số 10010 hệ 2 là số bao nhiêu trong hệ 10? 
+a. 17 
+*b. 18 
+c. 19 
+d. 20 
+
+53. Số 33 hệ 10 là dãy số nào trong hệ 2?  
+a. 110011 
+b. 100110 
+*c. 100001 
+d. 100011 
+
+54. Biểu thức 110011 Or 10111 cho kết quả? 
+*a. 110111 
+b. 011101 
+c. 111101 
+d. 100111 
+
+55. Biểu thức 11001 AND 10111 cho kết quả? 
+a. 01110 
+b. 11110 
+c. 10011 
+*d. 10001 
+
+56. Tốc độ của máy tính phụ thuộc vào các yếu tố nào sau đây? 
+a. Tốc độ của bộ vi xử lý. Tốc độ, dung lượng và không gian trống của ổ cứng. 
+b. Dung lượng bộ nhớ truy cập ngẫu nhiên RAM. 
+c. Hệ điều hành và quá trình tiến hành gom các tệp tin đã bị phân mảnh theo định kỳ. 
+*d. Tất cả các yếu tố trên đều đúng.
+
+57. Bộ vi xử lý trung tâm CPU (Central Processing Unit) bao gồm các thành phần chính nào sau đây? 
+*a. Khối tính toán (ALU), khối điều khiển (CU), thanh ghi (Register). 
+b. Bộ nhớ truy cập ngẫu nhiên (RAM). 
+c. Bộ nhớ chỉ đọc (ROM). 
+d. Khối tính toán (ALU), khối điều khiển (CU), bộ nhớ (RAM) và bộ nhớ (ROM). 
+
+58. Thiết bị nào thực hiện thao tác vào dữ liệu, trong các thiết bị sau: Màn hình, máy in, máy vẽ, bàn phím, ổ đĩa cứng, ổ đĩa mềm, chuột, loa, máy quét? 
+a. Máy in, màn hình, máy quét, chuột. 
+b. Máy vẽ, ổ đĩa cứng, ổ đĩa mềm, bàn phím. 
+*c. Bàn phím, chuột, máy quét. 
+d. Máy quét, Loa, chuột, màn hình.  
+
+59. Các thiết bị: màn hình, loa, máy in, thuộc khối chức năng nào? 
+a. Thiết bị vào. 
+*b. Thiết bị ra. 
+c. Khối xử lý. 
+d. Các thiết bị lưu trữ. 
+ 
+60. Hãy chọn nhóm trong đó có thiết bị không cùng chức năng với những thiết bị còn lại? 
+a. Màn hình, máy in, máy chiếu, loa. 
+b. Bàn phím, chuột, máy quét. 
+*c. Màn hình, máy in, loa, bàn phím. 
+d. USB, ổ đĩa cứng (HDD), ổ đĩa mềm (FDD). 
+
+61. Hãy nêu cách đặt tên tệp? Chọn đáp án chính xác nhất. 
+a. Tên tệp dài tối đa là 255 ký tự, không có các ký tự đặc biệt như: (:), (\), (?). 
+b. Tên tệp dài tối đa là 255 ký tự, có thể có các ký tự đặc biệt như: (:), (\), (?). 
+c. Tên tệp dài tối đa là 255 ký tự, có thể có các ký tự đặc biệt như: (:), (\), (?). Ngoài ra có thêm phần mở rộng, ngăn cách với tên bằng dấu (.). 
+*d. Tên tệp dài tối đa là 255 ký tự, không có các ký tự đặc biệt như: (:), (\), (?). Ngoài ra có thêm phần mở rộng, ngăn cách với tên bằng dấu (.). 
+
+62. Trong các tên tệp sau đây, khi sử dụng tên tệp nào máy sẽ báo lỗi? 
+*a. Hoc_phan_tin1?.docx 
+b. Hoc_phan_tin_1.docx 
+c. Hoc,phan,tin,1.docx 
+d. Hoc phan tin 1.docx 
+
+63. Trong các tên tệp tin sau đây, tên tệp tin nào là đúng quy định? 
+a. Hoc_phan_tin:1.docx 
+b. Hoc?phan?tin?1 
+c. Hoc_phan_tin_1: 
+*d. Hoc phan tin 1.docx 
+
+64. Để chọn toàn bộ các thư mục từ thư mục 1 tới thư mục 5, ta thao tác thế nào?<64_65.jpg>
+a. Kéo chuột để bôi đen toàn bộ 5 thư mục. 
+b. Chọn thư mục 1, giữ phím Shift, sau đó kích chuột chọn thư mục 5. 
+c. Gõ tổ hợp phím Ctrl + A. 
+*d. Tất cả các đáp án đều đúng. 
+
+65. Muốn chọn thư mục 2 và thư mục 4, ta thao tác như thế nào?<64_65.jpg>
+a. Chọn thư mục 2, giữ phím Shift, sau đó kích chuột chọn thư mục 4. 
+*b. Chọn thư mục 2, giữ phím Ctrl, sau đó kích chuột chọn thư mục 4. 
+c. Chọn thư mục 2, giữ phím Alt, sau đó kích chuột chọn thư mục 4. 
+d. Không có đáp án đúng. 
+
+66. Để đổi tên thư mục ta thao tác thế nào? 
+a. Chọn thư mục. Tab Edit\ Rename. 
+*b. Chọn thư mục, ấn phím F2 và gõ tên mới. 
+c. Không có đáp án đúng. 
+d. Cả hai đáp án đều đúng. 
+
+67. Muốn xoá hẳn thư mục ra khỏi máy, ta thao tác thế nào? 
+*a. Chọn thư mục\ gõ tổ hợp phím Shift + Delete. 
+b. Chọn thư mục\ chuột phải chọn Delete. 
+c. Chọn thư mục\ Tab File\ Delete. 
+d. Không có đáp án đúng. 
+
+68. Để sắp xếp các cửa sổ theo chiều dọc ta chọn thao tác? 
+a. Kích chuột phải vào thanh Taskbar \ Cascade Windows. 
+b. Kích chuột phải vào thanh Taskbar \ Show windows stacked. 
+*c. Kích chuột phải vào thanh Taskbar \ Show windows side by side  
+d. Không có đáp án đúng. 
+
+69. Để di chuyển con trỏ chuột trong khi soạn thảo, tổ hợp phím Ctrl + <- (mũi tên sang trái), có chức năng gì? 
+a. Sang phải một ký tự 
+b. Sang trái một ký tự 
+c. Sang phải một từ 
+*d. Sang trái một từ 
+ 
+70. Muốn đưa con trỏ chuột sang trái một từ trong khi soạn thảo, ta sử dụng phím nào? 
+a. Ctrl + -> (mũi tên sang phải) 
+b. (mũi tên sang phải) 
+c. <- (mũi tên sang trái) 
+*d. Ctrl + <- (mũi tên sang trái) 
+
+71. Muốn đưa dấu chèn xuống cuối một trang văn bản trong khi soạn thảo, ta gõ tổ hợp phím nào? 
+a. Ctrl + Page Up 
+b. Shift + Page Down 
+c. Page Up 
+*d. Ctrl + Page Down 
+ 
+72. Cho biết chức năng của tổ hợp phím Ctrl + Home trong môi trường Word? 
+*a. Dời dấu chèn về đầu tư liệu. 
+b. Dời dấu chèn về cuối tư liệu. 
+c. Chọn văn bản từ vị trí dấu chèn về đầu tư liệu. 
+d. Chọn văn bản từ vị trí dấu chèn về cuối tư liệu. 
+
+73. Trong khi soạn thảo, muốn chọn văn bản từ vị trí dấu chèn về cuối tư liệu? 
+a. Ctrl + Home. 
+b. Ctrl + End. 
+c. Ctrl + Shift + Home. 
+*d. Ctrl + Shift + End. 
+
+74. Trong khi soạn thảo văn bản, ấn phím Delete sẽ xóa? 
+*a. Một ký tự phía bên phải dấu chèn. 
+b. Một ký tự phía bên trái dấu chèn. 
+c. Một từ nằm bên phải dấu chèn. 
+d. Một từ nằm bên trái dấu chèn. 
+
+75. Tổ hợp phím Ctrl + Enter trong môi trường Word có chức năng gì? 
+a. Ngắt đoạn văn bản. 
+b. Ngắt dòng văn bản. 
+*c. Ngắt trang văn bản. 
+d. Không có đáp án đúng. 
+
+76. Trong khi soạn thảo văn bản, nếu ta ấn phím Enter, điều gì sẽ xảy ra? 
+a. Ngắt dòng văn bản đang gõ. 
+b. Ngắt trang văn bản. 
+*c. Ngắt câu văn bản. 
+d. Không có đáp án đúng.
+
+77. Muốn hiển thị văn bản từ bộ nhớ đệm, ta thao tác thế nào, chọn đáp án đúng? 
+a. Đưa trỏ chuột tới vị trí muốn hiển thị\ chuột phải\ Copy. 
+*b. Đưa trỏ chuột tới vị trí muốn hiển thị\ Paste. 
+c. Đưa trỏ chuột tới vị trí muốn hiển thị\ Cut. 
+d. Đưa trỏ chuột tới vị trí muốn hiển thị\ Ctrl + Z. 
+
+78. Tổ hợp phím Ctrl + C trong môi trường Word có chức năng gì? 
+*a. Sao chép văn bản được chọn, và đưa vào bộ nhớ đệm. 
+b. Di chuyển văn bản được chọn, và đưa vào bộ nhớ đệm. 
+c. Hiển thị văn bản từ bộ nhớ đệm. 
+d. Phục hồi lại thao tác trước đó. 
+
+79. Trong quá trình soạn thảo văn bản, để di chuyển con trỏ chuột đến trang 32, tại hình 2 ta thực hiện?<79_80_81.jpg>
+*a. Trong mục Go to what chọn Page, mục Enter page number gõ 32. 
+b. Trong mục Go to what chọn Line, mục Enter line number gõ 32. 
+c. Trong mục Go to what chọn Section, mục Enter section gõ 32. 
+d. Không có đáp án đúng. 
+
+80. Tại hình 2, nếu Go to What ta chọn Line, mục Enter line number ta gõ 32, Word sẽ thực hiện công việc gì?<79_80_81.jpg>
+a. Di chuyển con trỏ chuột tới trang 32. 
+b. Di chuyển con trỏ chuột tới phần 32. 
+*c. Di chuyển con trỏ chuột tới dòng 32. 
+d. Di chuyển con trỏ chuột tới dòng 32 của trang 32. 
+
+81. Tại hình1, nút Replace có chức năng là gì?<79_80_81.jpg>
+*a. Thay thế văn bản đầu tiên tìm thấy trong mục Find What bằng văn bản trong mục Replace With. 
+b. Thay thế toàn bộ văn bản được tìm thấy trong mục Find What bằng văn bản trong mục Replace With. 
+c. Tìm kiếm văn bản tiếp theo trong mục Find What. 
+d. Thêm một số kiểu tìm kiếm chính xác khác dành cho văn bản trong mục Find What. 
+
+82. Muốn định dạng chữ “văn bản” như mục 1 hình 2, ta thao tác?<82_83_85_86.jpg>
+a. Chọn văn bản, tại hình 3, mục Font Style chọn Bold. 
+b. Chọn văn bản, tại hình 1 chọn công cụ số 6. 
+c. ấn tổ hợp phím Ctrl + B 
+*d. Tất cả các đáp án đều đúng. 
+
+83. Muốn định dạng chữ “văn bản” lần lượt theo thứ tự như mục 1,2,3 hình 2, ta thao tác thế nào?<82_83_85_86.jpg>
+a. Chọn văn bản tương ứng. Tại hình 3, mục Font Style, chọn lần lượt: Regular, Italic, Bold. 
+*b. Chọn văn bản tương ứng. Tại hình 1, chọn lần lượt công cụ số 6, 7, 8. 
+c. Chọn văn bản tương ứng. Gõ lần lượt tổ hợp phím: Ctrl + I, Ctrl + B, Ctrl + A. 
+d. Tất cả các đáp án đều đúng. 
+
+84. Để đổ màu nền cho văn bản, ta thao tác như thế nào? Hình H1 <82_83_85_86.jpg>
+*a. Chọn văn bản, tại hình 1 chọn công cụ số 16/ chọn màu sắc. 
+b. Chọn văn bản, tại hình 1 chọn công cụ số 13/ chọn màu sắc. 
+c. Chọn văn bản, tại hình 3 chọn mục Font color/ chọn màu sắc. 
+d. Chọn văn bản, tại hình 3 chọn mục Underline color/ chọn màu sắc. 
+
+85. Chọn văn bản, tại hình 1, chọn công cụ số 16/ chọn màu sắc, sau đó tại hình 3 chọn Bold Italic, văn bản sẽ thay đổi như thế nào?<82_83_85_86.jpg>
+a. Văn bản được in đậm, in nghiêng và đổ màu chữ cho văn bản. 
+b. Văn bản được in đậm, gạch chân và đổ màu chữ cho văn bản. 
+c. Văn bản được in nghiêng, gạch chân và đổ màu nền cho văn bản. 
+*d. Văn bản được in đậm, in nghiêng và đổ màu nền cho văn bản. 
+
+86. Nếu ta chọn chữ “văn bản”, sau đó tại hình 1, lần lượt chọn công cụ 6, 8, 16 chọn màu. Hình 2, sẽ cho ta định dạng như mục nào?<82_83_85_86.jpg>
+a. 6 
+b. 3 
+*c. 7 
+d. 4 
+
+87. Để Copy kiểu định dạng font chữ, trong quá trình soạn thảo, ta thao tác?<87_88.jpg>
+a. Chọn công cụ 4 
+b. Chọn công cụ 7 
+c. Chọn công cụ 8 
+*d. Chọn công cụ 10 
+
+88. Hãy cho biết công cụ số 7 có chức năng gì?<87_88.jpg>
+a. Sao chép văn bản vào bộ nhớ đệm. 
+*b. Hiển thị văn bản từ bộ nhớ đệm. 
+c. Di chuyển văn bản vào bộ nhớ đệm. 
+d. Không có đáp án đúng. 
+
+89. Tại hình 2, chọn Only Print Odd Pages. Khi in sẽ cho ta kết quả?<89_90_91_92.jpg>
+a. In toàn bộ các trang chẵn. 
+*b. In toàn bộ các trang lẻ. 
+c. In toàn bộ văn bản. 
+d. Không có đáp án đúng. 
+
+90. Tại hình 1 mục 3, phần Pages gõ: 1, 4, 7 - 10, sẽ cho ta kết quả?<89_90_91_92.jpg>
+a. In các trang 1, 4, 7 và 10. 
+b. In các trang từ 1 đến 4 và từ trang số 7 đến trang số 10. 
+*c. In các trang 1, 4 và từ trang số 7 đến trang số 10. 
+d. Không có đáp án đúng. 
+
+91. Hình 1, mục 5 chọn khổ giấy A4. Sau đó chọn mũi tên ở mục 3 phần Print All Pages, hình 2, ta chọn Print Current Page. Khi in sẽ cho kết quả?<89_90_91_92.jpg>
+*a. In trang hiện tại và in trên khổ giấy A4. 
+b. In phần được chọn và in trên khổ giấy A4. 
+c. In trang hiện tại và tự kéo dãn trang trên khổ giấy A4. 
+d. In phần được chọn và tự kéo dãn trang trên khổ giấy A4. 
+
+92. Giả sử máy tính được kết nối tới nhiều máy in, muốn chỉ định máy in để in ta chọn?<89_90_91_92.jpg>
+a. Tại muc Printer\ chọn Printer Properties\ chọn tên máy in. 
+*b. Tại muc Printer\ chọn tên máy in. 
+c. Tại mục Printer\ tích chọn Print to File\ chọn tên máy in. 
+d. Tại mục Printer\ tích chọn mục Manual Duplex\ chọn tên máy in. 
+
+93. Muốn chia cột cho đoạn văn bản, ta thao tác?<93_94_95.jpg>
+*a. Tab Page Tab Layout\ chọn Columns trong nhóm Page Setup. 
+b. Tab Insert\ chọn Columns trong nhóm Page Setup. 
+c. Tab Home\ chọn Columns trong nhóm Page Setup. 
+d. Tab File\ chọn Columns trong nhóm Page Setup. 
+
+94. Sử dụng các mẫu chia cột do word gợi ý sẵn, ta chọn mục nào?<93_94_95.jpg>
+*a. Presets. 
+b. Width and spacing. 
+c. Equal column width. 
+d. Không có đáp án đúng. 
+
+95. Nêu thao tác chia cột văn bản để có kết quả giống như đoạn 1. Ta chọn văn bản, Tab Page Tab Layout chọn Columns\ More Columns, sau đó?<93_94_95.jpg> 
+*a. Mục Number of columns gõ 2. 
+b. Mục Number of columns gõ 2, tích kiểm vào mục Line between. 
+c. Mục Number of columns gõ 2, tại Presets chọn Right. 
+d. Mục Number of columns gõ 2, tại Presets chọn Left. 
+
+96. Tại bảng 1, muốn tách ô A1 thành 3 ô, ta thao tác như thế nào?<96_97_98_99.jpg>
+a. Đặt con trỏ chuột tại vị trí ô A1, chọn công cụ 12 
+b. Đặt con trỏ chuột tại vị trí ô A1, click chuột phải chọn split cells  
+c. Đặt con trỏ chuột tại vị trí ô A1, chọn Tab Tab Layout trong thanh Table\ split cells  
+*d. Tất cả các phương án đều đúng. 
+
+97. Tại bảng 1, muốn đổ màu nền cho ô B1, ta thao tác?<96_97_98_99.jpg>
+a. Đặt con trỏ chuột tại vị trí ô B1, chọn Tab Design trong thanh Table\ chọn Shading  
+b. Đặt con trỏ chuột tại vị trí ô B1, click chuột phải chọn Border and Shading\ chọn Shading 
+*c. Cả 2 phương trên đều đúng 
+d. Không có phương án đúng 
+
+98. Tại bảng 1, muốn sắp xếp cột ĐTB HK1 tăng dần hoặc giảm dần, ta thao tác thế nào?<96_97_98_99.jpg>
+a. Chọn vùng dữ liệu, hình 1 chọn công cụ 16. 
+*b. Chọn vùng dữ liệu, hình 1 chọn công cụ 17. 
+c. Cả ba đáp án đều đúng 
+d. Chọn vùng dữ liệu, hình 1 chọn công cụ 15. 
+
+99. Tại bảng 1, muốn căn chỉnh lề cho văn bản trong bảng ta chọn công cụ nào trong hình 1?<96_97_98_99.jpg>
+a. Công cụ số 10. 
+b. Công cụ số 11. 
+*c. Công cụ số 14. 
+d. Công cụ số 15. 
+
+100. Hình trên, nếu ta tích chọn mục Ascending thì dữ liệu sẽ được sắp xếp thế nào?<100_101.jpg>
+*a. Dữ liệu được sắp xếp tăng dần. 
+b. Dữ liệu được sắp xếp giảm dần. 
+c. Sắp xếp dữ liệu tùy ý và sắp xếp cả dòng văn bản tiêu đề. 
+d. Sắp xếp dữ liệu tùy ý và không sắp xếp cả dòng văn bản tiêu đề. 
+
+101. Muốn dòng đầu tiên - dòng tiêu đề, không bị sắp xếp cùng với dữ liệu trong bảng, ta chọn vùng dữ liệu muốn sắp xếp, sau đó ta chọn mục nào?<100_101.jpg>
+a. Ascending 
+b. Descending 
+c. Header row 
+*d. No header row 
+
+102. Khi không kẻ đường viền cho bảng, để hiện đường lưới trong bảng ta thực hiện như thế nào? 
+*a. Tab Table Tools\ Tab Layout\ View Girdlines trong nhóm Table 
+b. Tab Table Tools\ Tab Design\ View Girdlines trong nhóm Table 
+c. Tab InSert\ View Girdlines trong nhóm Table 
+d. Tab View\ View Girdlines trong nhóm Table 
+
+103. Để chèn hộp văn bản vào Word, ta chọn công cụ nào?<103_104_105_106.jpg>
+a. Công cụ số 2 
+b. Công cụ số 4 
+*c. Công cụ số 6 
+d. Công cụ số 7 
+
+104. Nêu thao tác thực hiện vẽ hình tròn?<103_104_105_106.jpg>
+a. Vào 3 chọn hình tròn, vào Shape Outline chọn màu đỏ, vào 3-D Effect chọn hiệu ứng. 
+*b. Vào 3 chọn hình tròn, vào Shape Fill chọn màu đỏ, vào Shadow Effects chọn hiệu ứng. 
+c. Vào 4 chọn hình tròn, vào Shape Fill chọn màu đỏ, vào 3-D Effect chọn hiệu ứng. 
+d. Vào 3 chọn hình tròn, vào Shape Fill chọn màu đỏ, vào 3-D Effect chọn hiệu ứng. 
+
+105. Chọn Shadow Effects máy sẽ áp dụng hiệu ứng gì cho hình?<103_104_105_106.jpg>
+*a. Hiệu ứng bóng đổ 
+b. Hiệu ứng 3 - D 
+c. Đổ màu nền cho hình 
+d. Tạo màu đường viền cho hình 
+
+106. Khi thực hiện các thao tác sau đây: vào 3 chọn hình vuông, vào Shape Fill chọn màu đỏ, vào Shadow Effect chọn hiệu ứng. Kết quả sẽ cho ta hình nào?<103_104_105_106.jpg>
+a. Hình vuông. 
+b. Hình tròn. 
+c. Hình ngôi sao. 
+*d. Không có đáp án đúng. 
+
+107. Để lật hình theo chiều dọc, tại hình 3 ta chọn?<107_108_109_110.jpg>
+a. Rotate Left. 
+b. Rotate Right. 
+c. Flip Horizontal. 
+*d. Flip Vertical. 
+ 
+108. Mục Align Middle ở hình 4 có chức năng?<107_108_109_110.jpg>
+a. Căn các hình thẳng hàng bên trái. 
+b. Căn các hình thẳng hàng bên phải. 
+c. Căn các hình thẳng hàng ở giữa theo chiều ngang. 
+*d. Căn các hình thẳng hàng ở giữa theo chiều dọc. 
+
+109. Muốn đưa hình tròn lên trên cùng, tại hình 1 ta chọn?<107_108_109_110.jpg>
+a. Bring Forward. 
+b. Bring in Front of Text 
+*c. Bring to Front. 
+d. Không có đáp án đúng. 
+
+110. Muốn đưa hình vuông lên trên cùng, tại hình 1 ta chọn?<107_108_109_110.jpg>
+a. Bring Forward. 
+b. Bring to Front. 
+c. Không có đáp án đúng. 
+*d. Cả hai đáp án đều đúng.
+
+111. Để nhóm các đối tượng đồ họa thành một nhóm, ta thực hiện thế nào? 
+a. Chọn các đối tượng, vào Draw Tools Format\ nhóm Arrange\ Group\ Ungroup. 
+*b. Chọn các đối tượng, vào Draw Tools Format\ nhóm Arrange\ Group\ Group. 
+c. Chọn các đối tượng, vào Draw Tools Format\ nhóm Arrange\ Group\ Regroup. 
+d. Không có phương án đúng. 
+
+112. Để trộn và gửi thư theo mẫu sẵn có ta thực hiện? 
+*a. Mailings/ Start Mail Merge, nhắp chọn Mail Merge wizard 
+b. Insert/ Start Mail Merge, nhắp chọn Mail Merge wizard 
+c. View/ Start Mail Merge, nhắp chọn Mail Merge wizard 
+d. Edit/ Start Mail Merge, nhắp chọn Mail Merge wizard 
+
+113. Để trộn thư và gửi thư hàng loạt, ta thực hiện? 
+a. Mailings/ Start Mail Merge, nhắp chọn Envelopes/ thao tác theo chỉ dẫn. 
+*b. Mailings/ Start Mail Merge, nhắp chọn Letters/ thao tác theo chỉ dẫn. 
+c. Insert/ Start Mail Merge, nhắp chọn Envelopes/ thao tác theo chỉ dẫn. 
+d. Mailings/ Select Recipients, nhắp chọn Letters/ thao tác theo chỉ dẫn 
+
+114. Để tạo bì thư và nhãn, ta thực hiện? 
+*a. Mailings/ Start Mail Merge, nhắp chon Envelopes/ thao tác theo chỉ dẫn. 
+b. Mailings/ Start Mail Merge, nhắp chon Letters/ thao tác theo chỉ dẫn. 
+c. Insert/ Start Mail Merge, nhắp chon Envelopes/ thao tác theo chỉ dẫn. 
+d. Mailings/ Select Recipients, nhắp chon Letters/ thao tác theo chỉ dẫn.

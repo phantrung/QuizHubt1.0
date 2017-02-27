@@ -1,0 +1,661 @@
+1. LAN được viết tắt của cụm từ nào sau đây?
+Logic Area Network.
+Local Area Nation.
+*Local Area Network.
+Logic Area Nation.
+
+4. Địa chỉ IP v4 sử dụng hiện nay dùng bao nhiêu bit nhị phân để biểu diễn?
+4.
+16.
+*32.
+64.
+
+5. Địa chỉ IP  là 192.168.1.25 thuộc lớp nào?
+Lớp A. 0 – 127
+Lớp B. 128 – 191
+*Lớp C. 192 – 223
+Lớp D hoặc E. 224 – 255
+
+7. Lớp A có Subnet Mask mặc định là gì?
+*255.0.0.0.
+255.255.0.0.
+255.255.255.0.
+254.255.254.0.
+
+8. Dựa vào hình trên, để cấu hình địa chỉ IP động cho máy tính thì anh (chị) phải thực hiện thao tác gì? <12.jpg>
+*Tích chọn Obtain an IP address automatically.
+Tích chọn Use the following IP address.
+Gõ địa chỉ vào phần IP address.
+Gõ địa chỉ vào phần Defaul gateway.
+
+9. Dựa vào hình trên, để cấu hình địa chỉ IP tĩnh cho máy tính thì anh (chị) phải tích chọn vào tùy chọn nào? <12.jpg>
+Obtain an IP address automatically.
+*Use the following IP address.
+Obtain DNS server address automatically.
+Validate settings upon exit.
+
+10. Để kiểm tra cấu hình: địa chỉ IP, Subnet Mask và Default gateway, khởi động cửa sổ DOS và gõ lệnh nào?
+ping.
+regitry.
+msconfig.
+*ipconfig.
+
+11. Lớp B có dải địa chỉ IP như thế nào?
+Từ 1.x.x.x đến 127.x.x.x.
+*Từ 128.x.x.x đến 191.x.x.x.
+Từ 192.x.x.x đến 255.x.x.x.
+Từ 192.x.x.x đến 223.x.x.x.
+
+12. Cáp quang (Fiber Optic Cable) có cấu tạo từ chất liệu gì?
+*Thủy tinh
+Đồng.
+Nhôm.
+Inox.
+
+13. Muốn gửi email bằng Gmail cho nhiều người thì mỗi email ngăn cách nhau bằng dấu gì.
+a. (.)
+*b. (,)
+c. (:)
+d. (&)
+
+14. Hình ảnh trên thuộc quy tắc tìm kiếm nào? <2.jpg>
+Từ khóa
+*Filetype:doc  công nghệ thông tin 
+Dafine: Công nghệ thông tin
+Site: https://www.google.com.vn Công nghệ thông tin.
+
+15. Muốn thay đổi hình đại diện trong Skype ta sử dụng chức năng nào? <3.jpg>
+*Change your picture.
+Change sounds.
+Edit Your profile.
+My Account.
+
+16. Khi ta muốn gửi dữ liệu là những tài liệu, các file âm thanh có sẵn trên máy tính ta sử dụng chức năng nào? <4.jpg>
+1
+*2
+3
+4
+
+17. Hãy cho biết MailChimp là một giải pháp để thực hiện công việc gì?
+*Cho phép tự động hóa gửi Email tới khách hàng.
+Cho phép tạo địa chỉ Email mới.
+Cho phép sử dụng địa chỉ Email để đăng ký Domain.
+Cho phép sử dụng địa chỉ Email để đăng ký Host.
+
+18. Hãy cho biết phát biểu nào trong các phát biểu sau về MailChimp là đúng?
+MailChimp có một cơ sở dữ liệu Email với số lượng nhỏ.
+MailChimp cho phép lập lịch gửi thư nhưng không cho phép lập các nhóm thư.
+MailChimp cho phép tạo các chiến dịch gửi thư nhưng không cho phép lưu lại và báo cáo việc gửi thư.
+*MailChimp cho phép tạo các chiến dịch gửi thư, lập lịch gửi thư một cách tự động tới khách hàng.
+
+19. Để xây dựng danh sách khách hàng trong MailChimp, tại khung được đánh dấu 1, ta chọn mục nào? <5.jpg>
+Campaings.
+Templates.
+*Lists.
+Reports.
+
+20. Để tạo chiến dịch gửi Email marketting, tại khung được đánh dấu 1, ta chọn mục nào? <5.jpg>
+*Campaings.
+Templates.
+Lists.
+Reports.
+
+21. Để sử dụng một thiết kế có sẵn/ một mẫu gửi thư, tại khung được đánh dấu 1, ta chọn mục nào? <5.jpg>
+Campaings.
+*Templates.
+Lists.
+Reports.
+
+22. Để gửi Email cho toàn bộ danh sách khách hàng trong quá trình tạo MailChimp, hình trên ta chọn mục nào? <6.jpg>
+*Send to entire list.
+Send to a saved segment.
+Send to a new segment.
+Paste emails to build a segment. 
+
+23. Để thêm một khách hàng, ta chọn mục nào? <5.jpg>
+*Tại khung được đánh dấu 2, chọn Add a subscriber. 
+Tại khung được đánh dấu 2, chọn Import subscribers.
+Chọn mục Manage subscribers.
+Tại khung được đánh dấu 1, chọn mục Lists.
+
+24. Để thêm một danh sách khách hàng từ một file có sẵn, ta chọn mục nào? <5.jpg>
+Tại khung được đánh dấu 2, chọn Add a subscriber. 
+*Tại khung được đánh dấu 2, chọn Import subscribers.
+Chọn mục Manage subscribers.
+Tại khung được đánh dấu 1, chọn mục Lists.
+
+25. Ta có thể thêm một danh sách khách hàng từ nguồn có sẵn lên MailChimp từ định dạng file nào?
+File Access với định đạng .mdbx.
+File Excel với định dạng .xlsx.
+*File Notepad với định dạng .txt.
+File Word với định dạng .docx.
+
+26. Trước khi sử dụng file Excel chứa danh sách khách hàng để up lên MailChimp, ta phải đổi đuôi của file Excel về định dạng nào?
+.exe
+.xlsx
+*.csv
+.mdb
+
+27. Khi sử dụng MailChimp ngoài hai định dạng là .csv và .txt, ta còn có thể thêm danh sách khách hàng có sẵn thông qua cách nào?
+Copy/ Paste dữ liệu từ Word.
+*Copy/ Paste dữ liệu từ Excel.
+Copy/ Paste dữ liệu từ Access.
+Copy/ Paste dữ liệu từ Visual Fox.
+
+28. Trên màn hình đăng ký tài khoản MailChimp, một mật khẩu đúng để đăng nhập vào MailChimp gồm những yêu cầu gì? <7.jpg>
+Gồm ít nhất một ký tự hoa, một ký tự thường, một ký tự đặc biệt, không quy định số lượng ký tự.
+*Gồm ít nhất một ký tự hoa, một ký tự thường, một ký tự đặc biệt, một ký tự số và ít nhất có 8 ký tự.
+Có thể là một chuỗi bất kỳ với tất cả các ký tự là hoa hoặc là thường và ít nhất có 8 ký tự.
+Gồm ít nhất một ký tự hoa, một ký tự thường, một ký tự đặc biệt, một ký tự số và nhiều nhất có 8 ký tự.
+
+29. Hãy cho biết CRM là gì?
+*CRM là viết tắt của: Customer Relationship Management, là một hệ thống quản lý quan hệ khách hàng.
+CRM là viết tắt của: Contact Relationship Management, là một hệ thống quản lý các mối liên lạc.
+CRM là viết tắt của: Customize Relationship Management, là một hệ thống quản lý làm theo các yêu cầu của khách hàng.
+CRM là viết tắt của: Custome-tailor Relationship Management, là một hệ thống quản lý làm theo yêu cầu riêng của từng khách hàng.
+
+30. Hãy cho biết mục đích chính của CRM là gì?
+Tìm kiếm thu hút khách hàng mới, giữ chân khách hàng hiện tại và lôi kéo khách hàng quá khứ nhưng với chi phí dịch vụ cao.
+Tìm kiếm thu hút khách hàng mới, lôi kéo khách hàng quá khứ, giữ chân khách hàng hiện tại với một số phương pháp hiện đại mà không quan tâm tới chi phí. 
+Chỉ tìm kiếm thu hút khách hàng mới, giữ chân khách hàng hiện tại, lôi kéo khách hàng quá khứ. 
+*Tìm kiếm thu hút khách hàng mới, giữ chân khách hàng hiện tại, lôi kéo khách hàng quá khứ, nhằm giảm chi phí Marketting và phí dịch vụ.
+
+31. Để thêm một khách hàng dẫn đầu trong danh sách liên lạc của Salesforce, tại giao diện trang chủ ta click vào đâu?
+Contacts.
+Accounts.
+*Leads.
+Reports.
+
+32. Khi sử dụng Salesforce để đặt một lịch hẹn với một khách hàng trong danh sách Leads, chọn thông tin liên lạc của khách hàng, sau đó ta chọn?
+*Tại phần Open Activities chọn New Meeting Request.
+Tại phần Open Activities chọn New Event.
+Tại phần Activity  History chọn Mail Merge.
+Tại phần Activity  History chọn Send Mail.
+
+33. Để gửi một email tới một khách hàng trong danh sách khách hàng dẫn đầu, chọn thông tin liên lạc của khách hàng, sau đó ta chọn?
+Tại phần Open Activities chọn New Meeting Request.
+Tại phần Open Activities chọn New Event.
+Tại phần Activity  History chọn Mail Merge.
+*Tại phần Activity  History chọn Send Mail.
+
+34. Trong tiến trình đặt một lịch hẹn với khách hàng dẫn đầu, mục Subject thể hiện nội dung gì? <8.jpg>
+*Tiêu đề của cuộc hẹn.
+Nơi cuộc hẹn sẽ diễn ra.
+Thời gian cuộc hẹn sẽ diễn ra.
+Cuộc hẹn sẽ diễn ra trong bao lâu.
+
+35. Trong tiến trình đặt một lịch hẹn với khách hàng dẫn đầu, mục Where thể hiện nội dung gì? <8.jpg>
+Tiêu đề của cuộc hẹn.
+*Nơi cuộc hẹn sẽ diễn ra.
+Thời gian cuộc hẹn sẽ diễn ra.
+Cuộc hẹn sẽ diễn ra trong bao lâu.
+
+36. Trong tiến trình đặt một lịch hẹn với khách hàng dẫn đầu, mục Duration thể hiện nội dung gì? <8.jpg>
+Tiêu đề của cuộc hẹn.
+Nơi cuộc hẹn sẽ diễn ra.
+Thời gian cuộc hẹn sẽ diễn ra.
+*Cuộc hẹn sẽ diễn ra trong bao lâu.
+
+37. Hãy cho biết SmartSheet là một giải pháp để thực hiện công việc gì?
+Là hệ thống quản lý quan hệ khách hàng.
+Cho phép tự động hóa gửi email tới khách hàng.
+Là hệ thống cho phép gửi email hàng loạt.
+*Cho phép theo dõi và quản lý các công việc theo kế hoạch.
+
+38. Giả sử ta có một dự án làm bài tập lớn như hình, để sử dụng công cụ SmartSheet chia sẻ dự án với các thành viên trong nhóm, ta chọn mục nào? <9.jpg>
+*Sharing.
+Attachments.
+Discussions.
+Update Requests.
+
+39. Giả sử ta có một dự án làm bài tập lớn như hình, để sử dụng công cụ SmartSheet đính kèm file gửi tới các thành viên trong nhóm, ta chọn mục nào? <9.jpg>
+Sharing.
+*Attachments.
+Discussions.
+Update Requests.
+
+40. Giả sử ta có một dự án làm bài tập lớn như hình, kích chọn  Discussion sẽ thực hiện công việc gì? <9.jpg>
+Đính kèm file gửi tới các thành viên trong nhóm.
+Yêu cầu một thành viên trong nhóm làm một công việc nào đó.
+*Thảo luận với các thành viên trong nhóm về một chủ đề nào đó.
+Chia sẻ dự án với các thành viên trong nhóm.
+
+41. Giả sử ta có một dự án làm bài tập lớn như hình, kích chọn Update Request sẽ thực hiện công việc gì? <9.jpg>
+Đính kèm file gửi tới các thành viên trong nhóm.
+*Yêu cầu một thành viên trong nhóm làm một công việc nào đó.
+Thảo luận với các thành viên trong nhóm về một chủ đề nào đó.
+Chia sẻ dự án với các thành viên trong nhóm.
+
+42. Giả sử ta có một dự án làm bài tập lớn như hình, để sử dụng công cụ SmartSheet thảo luận một chủ đề bất kỳ với các thành viên trong nhóm, ta chọn mục nào? <9.jpg>
+Sharing.
+Attachments.
+*Discussions.
+Update Requests.
+
+43. Giả sử ta có một dự án làm bài tập lớn như hình, để sử dụng công cụ SmartSheet yêu cầu một thành viên sửa một nội dung theo yêu cầu, ta chọn mục nào? <9.jpg>
+Sharing.
+Attachments.
+Discussions.
+*Update Requests.
+
+44. Giả sử ta có một dự án làm bài tập lớn như hình, kích chọn Sharing sẽ thực hiện công việc gì? <9.jpg>
+Đính kèm file gửi tới các thành viên trong nhóm.
+Yêu cầu một thành viên trong nhóm làm một công việc nào đó.
+Thảo luận với các thành viên trong nhóm về một chủ đề nào đó.
+*Chia sẻ dự án với các thành viên trong nhóm.
+
+45. Giả sử ta có một dự án làm bài tập lớn như hình, kích chọn Attachments sẽ thực hiện công việc gì? <9.jpg>
+*Đính kèm file gửi tới các thành viên trong nhóm.
+Yêu cầu một thành viên trong nhóm làm một công việc nào đó.
+Thảo luận với các thành viên trong nhóm về một chủ đề nào đó.
+Chia sẻ dự án với các thành viên trong nhóm.
+
+46. Trong khi sử dụng Smartsheet, để thêm một thành viên muốn chia sẻ dự án, ta kích vào nút nào trên hình? <10.jpg>
+*Add Collaborators.
+Share.
+Phần Permissons chọn Admin.
+Phần Permissions chọn Editor.
+
+47. Trong khi sử dụng Smartsheet, để chia sẻ dự án với một thành viên trong nhóm, ta gõ địa chỉ email của thành viên đó vào mục nào? <10.jpg>
+Subject.
+*Share To.
+Message.
+Permissions Level.
+
+48. Trong khi sử dụng Smartsheet, để chia sẻ dự án với một thành viên trong nhóm, ta gõ nội dung tin nhắn cho thành viên đó vào mục nào? <10.jpg>
+Subject.
+Share To.
+*Message.
+Permissions Level.
+
+51. Khi sử dụng Dreamweaver, muốn chèn 1 đối tượng như hình 2 ta thực hiện thao tác như thế nào? <11.jpg>
+*Insert/Hyperlink.
+Insert/Emaillink.
+Insert/Form.
+Insert/Tag.
+
+Cõu hỏi 1.: Joomla CMS thuộc loại hệ quản trị nội dung nào sau đây?
+*Web CMS.
+Publication CMS.
+Billing CMS.
+Learning CMS.
+
+Cõu hỏi 2.: Bạn hóy cho biết thành phần nào sau đây là trang quản trị website Joomla?
+*Backend.
+Frontend.
+Template.
+Module.
+
+Cõu hỏi 3.: Bạn hóy cho biết để thay đổi Template cho trang web joomla, ta sử dụng thao tác nào sau đây?
+*Extensions/ Template Manager.
+Tools/ Template Manager.
+Content/ Template Manager.
+Administrator/ Template Manager.
+.
+Cõu hỏi 4.: Bạn hóy cho biết để thiết lập ngôn ngữ cho trang web joomla, ta sử dụng thao tác nào sau đây?
+*Extensions/ Language Manager.
+Tools/ Language Manager.
+Content/ Language Manager.
+Administrator/ Language Manager.
+
+Cõu hỏi 5.: Bạn hóy cho biết để thêm bài viết cho trang web Joomla, ta sử dụng thao tác nào sau đây?
+*Content > Article Manager > New.
+Tools/ Article Manager > New.
+Extensions/ Article Manager > New.
+Administrator/ Article Manager > New.
+
+Cõu hỏi 6: Khi cài đặt ở chế độ mặc định, ban đầu joomla có các loại menu nào sau đây?
+*Top Menu và Main Menu.
+Right Menu và Top Menu
+Header Menu và Right Menu
+Main Menu và Footer Menu.
+
+7. Bạn hóy cho biết để thiết lập module cho trang web joomla, ta sử dụng thao tác nào sau đây?
+*Extensions/ Module Manager
+Tools/ Module Manager
+Content/ Module Manager
+Administrator/ Module Manager
+
+8. Khi thiết lập Module cho trang web joomla, để định vị trí Module ta lựa chọn trong thành phần nào sau đây?
+*Position
+Enabled
+Module Type
+Order
+
+Câu 43: "Khi sử dụng Dreamweaver, để chèn 1 đối tượng như hình 1 ta thực hiện thao tác như thế nào?<a.jpg> 
+*"Insert/ Table." 
+"Insert/ Table Object." 
+"Modify/Table." 
+"Edit/Table.
+
+Câu 44: "Khi sử dụng Dreamweaver, muốn mở cửa sổ Table như trong hình ta thực hiện thao tác như thế nào?"<a.jpg>
+*"Insert/ Table." 
+"Insert/ Table Object. " 
+"Modify/Table." 
+"Edit/Table." 
+
+ 
+Câu 45: "Khi sử dụng Dreamweaver, muốn chèn 1 đối tượng như hình 2 ta thực hiện thao tác như thế nào?"<a.jpg>
+*"Insert/Hyperlink." 
+"Insert/Emaillink." 
+"Insert/Form." 
+ "Insert/Tag." 
+
+Câu 46: "Khi sử dụng Dreamweaver, muốn chèn 1 đối tượng như hình 3 ta thực hiện thao tác như thế nào?"<a.jpg>
+*"Insert/Image Object."
+"Insert/Image." 
+"Insert/Media." 
+"Insert/Tag." 
+ 
+Câu 47: "Trong cửa sổ Table để chèn được đối tượng như hình 1 ta thực hiện thao tác như thế nào?"<a.jpg>
+* "Nhập 3 vào ô Columns và nhập 5 vào ô Rows." 
+"Nhập 5 vào ô Columns và nhập  3 vào ô Rows." 
+"Tại ô Border thickness nhập 10%." 
+"Tại ô Caption nhập 10% (110)" 
+
+Câu 48: "Để tạo được bảng có kích thước như hình 1 ta thực hiện thao tác như thế nào?"<a.jpg>
+*"Nhập 110 vào ô Table width và chọn pixels." 
+"Nhập 110 vào ô Table width và chọn percent." 
+"Tại ô Border thickness nhập 110." 
+"Tại ô Cell spacing nhâp 10." 
+
+Câu 49: "Khi cài đặt OpenCart nếu gặp lỗi như hình 1 ta cần khắc phục như thế nào?"<b.jpg>
+"Xóa thư mục install. " 
+*"Đổi tên file config- dist.php thành config.php." 
+"Tạo thêm file index - config.php trong thư mục cài đặt." 
+"Cấu hình lại thông số trong file php.ini." 
+
+
+Câu 50: "Khi cài đặt OpenCart nếu gặp thông báo như hình 2 ta nên thực hiện thao tác gì?"<b.jpg>
+"Xóa file config- dist.php" 
+*"Xóa thư mục install." 
+"Đổi tên thư mục system thành config." 
+"Xóa file index.php" 
+
+Câu 51: "Khi các thiết bị được kết nối với nhau như hình 1 thì ta gọi đó là mô hình mạng gì?"<c.jpg>
+*"Mô hình mạng LAN." 
+"Mô hình mạng WAN." 
+"Mô hình mạng WLAN." 
+"Mô hình mạng MAN." 
+
+
+ Câu 52: "Khi các thiết bị được kết nối với nhau như hình 2 thì ta gọi đó là mô hình mạng gì?"<c.jpg>
+"Mô hình mạng LAN." 
+*"Mô hình mạng WAN." 
+"Mô hình mạng WLAN." 
+"Mô hình mạng MAN." 
+
+ Câu 53: "Khi các thiết bị trong mạng có vai trò như hình 3 thì ta gọi đó là mô hình mạng gì?"<c.jpg>
+  "Mạng peer to peer." 
+*"Mạng Client/ Server." 
+  "Mạng Bus." 
+  "Mạng Ring." 
+ 
+Câu 54: "Cho 2 địa chỉ IP là 192.168.1.44 và 192.168.1.66 và Mask là 255.255.255.0 hãy cho biết Network của 2 địa chỉ là bao nhiêu?"
+*"192.168.1.0" 
+ "192.168.1.44" 
+  "192.168.1.66" 
+  "255.255.255.0" 
+
+
+Câu 56: "Địa chỉ IP Private không thể cấp cho mô hình mạng nào?"
+  "Mạng LAN." 
+*"Mạng Internet." 
+  "Mạng WLAN." 
+  "Mạng peer to peer." 
+
+Câu 57: "Trong các dịch vụ sau đây dịch vụ nào không cho phép lưu trữ chia sẻ file trên trang web?"
+  "Dropbox." 
+ "Google Drive." 
+* "Skype." 
+  "OneDrive." 
+
+Câu 58: "Khi sử dụng Salesforce để đặt một lịch hẹn với một khách hàng trong danh sách Leads, chọn thông tin liên lạc của khách hàng, sau đó ta chọn?"<d.jpg>
+*"Tại phần Open Activities chọn New Meeting Request." 
+ "Tại phần Open Activities chọn New Event." 
+   "Tại phần Activity  History chọn Mail Merge." 
+  "Tại phần Activity  History chọn Send An Email." 
+
+ 
+Câu 59: "Để gửi một email tới một khách hàng trong danh sách Leads, chọn thông tin liên lạc của khách hàng, sau đó ta chọn?"<d.jpg>
+  "Tại phần Open Activities chọn New Meeting Request." 
+ "Tại phần Open Activities chọn New Event." 
+  "Tại phần Activity  History chọn Mail Merge." 
+*"Tại phần Activity  History chọn Send An Email." 
+
+Câu 60: "Nội dung, mã nguồn của một website thường được lưu trữ tại đâu?"
+*"Webhosting." 
+ "Domain." 
+  "DNS Server." 
+  "phpMyAdmin." 
+
+Câu 61: "Khi thiết kế bảng bằng Dreamweaver, Table bao gồm những thành phần cơ bản nào?"
+  "Rows, Columns, Caption, Top." 
+ "Row, Columns, Width, Left." 
+ "Rows, Columns, Summary, Cell padding." 
+*"Rows, Columns, Cell spacing, Cell padding." 
+ 
+Câu 62: "Khi sử dụng Dreamweaver tính năng nào cho phép hiển thị mã nguồn của trang thiết kế?"
+*  "Code view." 
+ "Design view." 
+  "Standard view." 
+  "Layout view." 
+
+Câu 63: "Khi sử dụng Google Drive muốn mở khung làm việc như hình 1, ta phải chọn biểu tượng nào trong khung màu xanh?"<e.jpg>
+*  "Chọn biểu tượng 1." 
+ "Chọn biểu tượng 2." 
+  "Chọn biểu tượng 6." 
+  "Chọn biểu tượng 9." 
+ 
+Câu 64: "Khi sử dụng Google Drive muốn mở khung làm việc như hình 2, ta phải chọn biểu tượng nào trong khung màu xanh?"<e.jpg>
+  "Chọn biểu tượng 3." 
+* "Chọn biểu tượng 2." 
+  "Chọn biểu tượng 5." 
+  "Chọn biểu tượng 9." 
+ 
+Câu 65: "Khi sử dụng Google Drive muốn mở khung làm việc như hình 3,ta phải chọn biểu tượng nào trong khung màu xanh?"<e.jpg>
+  "Chọn biểu tượng 3." 
+* "Chọn biểu tượng 6." 
+  "Chọn biểu tượng 4." 
+  "Chọn biểu tượng 9." 
+
+ 
+Câu 66: "Khi sử dụng Google Drive muốn thay đổi cách hiển thị của các tập tin theo kiểu danh sách (List) ta cần chọn biểu tượng nào trong khung màu xanh?"<e.jpg>
+  "Chọn biểu tượng 2." 
+* "Chọn biểu tượng 7." 
+  "Chọn biểu tượng 8." 
+  "Chọn biểu tượng 9." 
+
+Câu 67: "Trên màn hình đăng ký tài khoản MailChimp, mục đánh số 1 ta sẽ gõ nội dung như thế nào?"<h.jpg>
+*  "Địa chỉ email dùng để đăng ký tài khoản." 
+ "Tên sẽ sử dụng trên MailChimp." 
+  "Mật khẩu để đăng nhập vào MailChimp." 
+  "Thực hiện lệnh tạo tài khoản mới trên MailChimp" 
+
+ 
+Câu 68: "Trên màn hình đăng ký tài khoản MailChimp, mục đánh số 2 ta sẽ gõ nội dung như thế nào?"<h.jpg>
+  "Địa chỉ email dùng để đăng ký tài khoản." 
+* "Tên sẽ sử dụng trên MailChimp." 
+  "Mật khẩu để đăng nhập vào MailChimp." 
+  "Thực hiện lệnh tạo tài khoản mới trên MailChimp" 
+
+ 
+Câu 69: "Trên màn hình đăng ký tài khoản MailChimp, mục đánh số 3 ta sẽ gõ nội dung như thế nào?"<h.jpg>
+  "Địa chỉ email dùng để đăng ký tài khoản." 
+ "Tên sẽ sử dụng trên MailChimp." 
+*  "Mật khẩu để đăng nhập vào MailChimp." 
+  "Thực hiện lệnh tạo tài khoản mới trên MailChimp" 
+
+Câu 71: "Trong khi sử dụng Smartsheet, chỉ cho phép các thành viên trong nhóm xem nội dung ta cần lựa chọn như thế nào?"<10.jpg>
+* "Tại Permissions chọn Viewer." 
+ "Tại Permissions chọn Editor." 
+  "Tại Permissions chọn Editor can share with others." 
+  "Tại Send Email chọn a link to the sheet will be included in the message." 
+
+ 
+Câu 72: "Trong khi sử dụng Smartsheet, muốn cho phép các thành viên trong nhóm xem nội dung và có thể chỉnh sửa nội dung dự án ta cần lựa chọn như thế nào?"<10.jpg>
+  "Tại Permissions chọn Viewer." 
+* "Tại Permissions chọn Editor." 
+  "Tại Permissions chọn Editor can share with others." 
+  "Tại Send Email chọn a link to the sheet will be included in the message." 
+
+ 
+Câu 73: "Trong khi sử dụng Smartsheet, không cho phép thành viên trong nhóm chia sẻ dự án với thành viên bên ngoài nhóm ta cần thực hiện thao tác như thế nào?"<10.jpg>
+  "Tại Permissions chọn Admin." 
+ "Tại Permissions chọn Editor." 
+*  "Tại Permissions bỏ chọn Editor can share with others." 
+  "Tại Send Email bỏ chọn a link to the sheet will be included in the message."
+
+Câu 74: "Khi sử dụng Google để tìm kiếm nội dung như hình 2 ta cần tìm kiếm theo quy tắc nào?"<f.jpg>
+*  "Tìm theo danh mục Tin tức." 
+ "Tìm theo danh mục Web." 
+  "Tìm theo danh mục Sách." 
+  "Tìm theo danh mục ứng dụng." 
+
+Câu 77: "Khi sử dụng OpenCart, muốn thay đổi ngôn ngữ mặc định của Website ta có thể vào mục nào trong Setting của Hình 2 để cài đặt."<i.jpg>
+  "Chọn General." 
+*"Chọn Local." 
+  "Chọn Option." 
+  "Chọn Store." 
+
+ 
+Câu 78: "Khi sử dụng OpenCart, muốn chỉnh sửa tên của sản phẩm ta có thể truy cập vào mục nào trong hình 3?"<i.jpg>
+*  "Mục Tổng quan." 
+ "Mục Dữ liệu." 
+  "Mục Liên kết." 
+  "Mục thuộc tính." 
+
+ 
+Câu 79: "Khi sử dụng OpenCart, muốn chỉnh sửa danh mục của sản phẩm ta có thể truy cập vào mục nào trong hình 3?"<i.jpg>
+  "Mục Tổng quan." 
+ "Mục Dữ liệu." 
+*  "Mục Liên kết." 
+  "Mục thuộc tính." 
+
+ 
+Câu 80: "Khi sử dụng OpenCart, muốn thay đổi giá của sản phẩm ta có thể truy cập vào mục nào trong hình 3?"<i.jpg>
+  "Mục Tổng quan." 
+* "Mục Dữ liệu." 
+  "Mục Liên kết." 
+  "Mục thuộc tính." 
+
+ 
+Câu 81: "Để Việt hóa OpenCart ta cần chọn mục nào trong hình 2?"<i.jpg>
+* "Mục System." 
+ "Mục Dashboard." 
+  "Mục Extensions." 
+  "Mục Help." 
+
+ 
+Câu 82: "Dựa vào hình 2 hãy cho biết thao tác đúng để cài đặt việt hóa OpenCart?"<i.jpg>
+*"Chọn System/Localisatation/Languages." 
+ "Chọn System/Local." 
+  "Chọn Extensions/Local/Languages." 
+  "Chọn Extensions/Settings/Languages." 
+
+Câu 83: "Khi tiến hành Việt hóa OpenCart tại mục 2 ta có thể nhập nội dung như thế nào?"<k.jpg>
+* "vi" 
+ "vietnamese" 
+  "vietnam" 
+  "vn.png" 
+
+ 
+Câu 84: "Khi tiến hành Việt hóa OpenCart tại mục 4 ta có thể nhập nội dung như thế nào?"<k.jpg>
+  "vi" 
+ "vietnamese" 
+  "vietnam" 
+*  "vn.png" 
+
+ 
+Câu 85: "Khi tiến hành Việt hóa OpenCart ta có thể nhập nội dung ""vi_VN.UTF-8,vi_VN,vi-vn,vietnamese"" vào mục nào?"<k.jpg>
+  "Mục 1 (Language Name)" 
+ "Mục 2 (Code)." 
+*  "Mục 3 (Locale)." 
+  "Mục 5 (Directory)." 
+
+ 
+Câu 86: "Khi cài đặt Việt hóa cho OpenCart, tại mục 10 chọn vietnamese có ý nghĩa như thế nào?"<k.jpg>
+*  "Thay đổi ngôn ngữ mặc định cho Website." 
+ "Thay đổi ngôn ngữ mặc định cho trang quản trị." 
+  "Bổ sung một ngôn ngữ vào trang Website." 
+  "Bổ sung một ngôn ngữ vào trang quản trị." 
+
+ 
+Câu 87: "Khi cài đặt Việt hóa cho OpenCart, tại mục 11 chọn vietnamese có ý nghĩa như thế nào?"<k.jpg>
+  "Thay đổi ngôn ngữ mặc định cho Website." 
+* "Thay đổi ngôn ngữ mặc định cho trang quản trị." 
+  "Bổ sung một ngôn ngữ vào trang Website." 
+  "Bổ sung một ngôn ngữ vào trang quản trị." 
+
+Câu 88: "OpenCart là một giải pháp hỗ trợ bạn trong công việc nào?"
+*  "Hỗ trợ xây dựng trang web thương mại điện tử." 
+ "Hỗ trợ quản trị dự án trên mạng." 
+  "Hỗ trợ quản lý quan hệ khách hàng." 
+  "Hỗ trợ xây dựng trang web tin tức." 
+
+Câu 89: "Salesforce là một giải pháp hỗ trợ bạn trong công việc nào?"
+  "Hỗ trợ xây dựng trang web thương mại điện tử." 
+ "Hỗ trợ quản trị dự án trên mạng." 
+*  "Hỗ trợ quản lý quan hệ khách hàng." 
+  "Hỗ trợ xây dựng trang web tin tức." 
+
+Câu 90: "Smartsheet là một giải pháp hỗ trợ bạn trong công việc nào?"
+  "Hỗ trợ xây dựng trang web thương mại điện tử." 
+* "Hỗ trợ quản trị dự án trên mạng." 
+  "Hỗ trợ quản lý quan hệ khách hàng." 
+  "Hỗ trợ xây dựng trang web tin tức." 
+ 
+Câu 91: "Địa chỉ IP là 172.16.3.6 thuộc lớp nào?"
+  "Lớp A." 
+* "Lớp B." 
+  "Lớp C." 
+  "Lớp D." 
+
+Câu 92: "Lớp B có Subnet Mask mặc định là bao nhiêu?"
+  "255.0.0.0" 
+* "255.255.0.0" 
+  "255.255.255.0" 
+  "255.255.254.0" 
+ 
+Câu 93: "Lớp C có Subnet Mask mặc định là bao nhiêu?"
+  "255.0.0.0" 
+ "255.255.0.0" 
+*  "255.255.255.0" 
+  "255.255.254.0" 
+ 
+Câu 94: "Trong các địa chỉ IP sau địa chỉ nào là IPrivate?"
+*  "10.10.10.10" 
+ "175.175.175.175" 
+  "198.198.198.198" 
+  "255.0.0.0" 
+ 
+Câu 95: "Khi tìm kiếm bằng Google để tìm kiếm một định nghĩa ta có thể tìm kiếm theo quy tắc nào?"
+  "Filetype: nội dung tìm kiếm." 
+* "Define: nội dung tìm kiếm." 
+  "Site: nội dung tìm kiếm." 
+  "Info: Nội dung tìm kiếm." 
+
+Câu 96: "Khi tìm kiếm bằng Google để tìm kiếm chỉ trên một website ta có thể tìm kiếm theo quy tắc nào?"
+  "Filetype: nội dung tìm kiếm." 
+ "Define: nội dung tìm kiếm." 
+*  "Site: nội dung tìm kiếm." 
+  "Info: Nội dung tìm kiếm." 
+ 
+Câu 97: "Để tạo danh sách khách hàng trong MailChimp ta cần phải có thông tin nào của khách hàng?"
+*  "Địa chỉ email của khách hàng." 
+ "Số điện thoại của khách hàng." 
+  "Tên đăng nhập MailChimp của khách hàng." 
+  "Thêm từ danh sách khách hàng có sẵn của MailChimp."
+
+Câu 99: "Thiết kế trang web bằng Dreamweaver để thay đổi màu sắc mặc định của Hyperlink ta chọn màu tại mục?"<m.jpg>
+*  "Link color." 
+ "Visited links." 
+  "Rollover links." 
+  "Active links." 
+
+ 
+Câu 100: "Thiết kế trang web bằng Dreamweaver để thay đổi màu sắc của Hyperlink sau khi được click chuột ta chọn màu tại mục?"<m.jpg>
+  "Link color." 
+* "Visited links." 
+  "Rollover links." 
+  "Active links." 

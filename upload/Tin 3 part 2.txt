@@ -1,0 +1,1336 @@
+Câu 2: Với các trường có kiểu dữ liệu Text tại tab Lookup của phần Thuộc tính Properties nhận giá trị nào?
+A) Text Box
+B) List Box
+*C) Cả 3 đáp án trên
+D) Combo Box
+
+Câu 5: Tại sao nói Excel hay Word không phải là hệ quản trị CSDL
+A) Vì Excel hay Word không có công cụ lập trình.
+B) Vì Excel hay Word Không lưu trữ dữ liệu
+C) Vì Excel hay Word không xử lý được dữ liệu
+*D) Vì Excel hay Word không phải dữ liệu có cấu trúc và không thoả mãn hết yêu cầu khai thác thông tin.
+
+Câu 6: Khi tạo cấu trúc của Table Nếu nhập ký tự C trong khuôn dạng của thuộc tính Input mask.
+*A) Vị trí dành cho ký tự bất kỳ không bắt buộc phải nhập.
+B) Vị trí dành cho cả chữ và số, không bắt buộc phải nhập.
+C) Vị trí dành cho các chữ số 0..9, không bắt buộc phải nhập.
+D) Vị trí dành cho các chữ số 0..9, bắt buộc phải nhập .
+
+Câu 10: Dữ liệu của một trường có kiểu là AutoNumber
+A) Luôn luôn tăng
+*B) Access sẽ tự động tăng tuần tự hoặc ngẫu nhiên khi một mẫu tin mới được tạo
+C) Luôn luôn giảm
+D) Tùy ý người sử dụng
+
+
+
+Câu 13: Khi thiết lập mối quan hệ giữa các bảng nếu lựa chọn thuộc tính " cascade update related fields" có nghĩa là:
+A) Khi dữ liệu của bảng 1 xoá thì dữ liệu của bảng nhiều cũng sẽ bị xoá
+B) Khi dữ liệu của bảng 1 cập nhật thì dữ liệu của bảng nhiều không thay đổi
+*C) Khi dữ liệu của bảng 1 cập nhật thì dữ liệu của bảng nhiều cũng thay đổi theo.
+D) Khi dữ liệu của bảng 1 xoá thì dữ liệu của bảng nhiều sẽ không bị xoá
+
+Câu 14: Một dòng dữ liệu trong bảng được gọi là:
+A) Trường khóa( Primari key)
+B) Trường( Field)
+C) Thuộc tính (Field properties)
+*D) Bản ghi (Record)
+
+
+
+Câu 17: Khi tạo cấu trúc của Table nếu muốn dữ liệu trường đó nhận các giá trị số thì kiểu trường phải chọn là:
+A) AutoNumber.
+*B) Number .
+C) Yes/No .
+D) Text.
+
+Câu 18: Để trường nào đó có kiểu Date/time được hiện thị dạng ngày/ tháng/ năm thì tại format ta gõ:
+A) dd/mm/yy
+B) mm/dd/yy
+C) long date
+*D) short date
+
+Câu 19: Qui định dữ liệu nhập kiểu ngày có dạng mm/dd/yy chọn Format là
+A) General
+B) Medium Date
+C) Long Date
+*D) Short Date
+
+
+
+Câu 23: Cấu trúc của Bảng được xác định bởi?
+A) Thuộc tính của trường
+B) Các thuộc tính của đối tượng quản lý
+*C) Các trường và thuộc tính của trường
+D) Các bản ghi dữ liệu
+
+
+
+Câu 25: Hãy chọn câu trả lời đúng nhất : Thế nào là hệ quản trị CSDL?
+A) Là công cụ dùng xử lý CSDL
+B) Là một công cụ lập trình CSDL
+C) Là một công cụ quản lý CSDL
+*D) Là một công cụ cho phép quản lý và xử lý với CSDL.
+
+
+
+Câu 27: Muốn mở CSDL bất kì và có thể thiết lập được bảo mật cho CSDL đó lựa chọn:
+A) File/ Open/ tại Tab Open chọn Open
+B) File/ Open/ tại Tab Open chọn Open Read only
+*C) File/ Open/ tại Tab Open chọn Open Exclusive
+D) File/ Open/ tại Tab Open chọn Open Exclusive read only
+
+
+
+Câu 30: Trường DONGIA(đơn giá) có kiểu number nếu tại thuộc tính format gõ: 0;-0;;Null khi không nhập dữ liệu thì sẽ hiện thị trên bảng là:
+A) Để trống
+*B) Hiện thị chữ Null
+C) Hiện thị 0
+D) Hiện thị chữ zero
+
+Câu 31: Khi kết nối dữ liệu của hai bảng xảy ra lỗi như sau( hình ảnh). Hãy đưa ra cách khắc phục <19.jpg>
+A) Kiểm tra đã tạo khóa cho hai trường dữ liệu hay chưa?
+B) Kiểm tra hai trường tham gia liên kết đã cùng tên hay chưa?
+C) Kiểm tra hai trường tham gia liên kết đã cùng cùng thuộc tính field size hay chưa?
+*D) Kiểm tra hai trường tham gia liên kết đã cùng kiểu hay chưa?
+
+Câu 32: Quan hệ Một- Nhiều (One-to-Many)
+A) Không tồn tại mối quan hệ này.
+B) Là quan hệ các dòng dữ liệu có trong 2 bảng quan hệ phải tương ứng với nhau.
+C) Là quan hệ nhiều bản ghi bất kỳ trong bảng thứ nhất có mỗi quan hệ với nhiều bản ghi trong bảng thứ 2.
+*D) Là quan hệ một dòng dữ liệu ở bảng bên một sẽ có tương ứng nhiều dòng dữ liệu ở bảng bên nhiều.
+
+
+
+Câu 35: Khi thiết kế cấu trúc của bảng để quy định kích thước của trường chọn thuộc tính
+*A) Field Size
+B) Format
+C) Input mask
+D) Decimal places
+
+
+
+Câu 38: Giả sử bảng Nhân viên : xác định mã nhân viên(MNV), họ tên(HT), ngày sinh(NS), giới tính(GT), địa chỉ(DC), ảnh(ANH), số điện thoại(SDT).Trường số điện thoại (SDT) có kiểu TEXT nếu muốn nhập số điện thoại theo nguyên tắc: 3 kí tựđầu là số mã vùng có thể nhập hoặc không, tiếp đến là kí tự - ,7 kí tự sau là số điện thoại bắt buộc phải nhập tại input mask gõ:
+A) !000\-9999999
+B) !000\-0000000
+*C) !999\-0000000
+D) !999\-9999999
+
+
+
+Câu 40: Bảng Hoá đơn: gồm mã hoá đơn (MHD),loại hoá đơn(LHD), mã khách hàng(MKH),mã nhân viên lập hoá đơn(MNV), ngày lập hóa đơn (NLHD), ngày giao hàng(NGH). Yêu cầu: trường NLHD có kiểu Date/time chỉ được nhập từ 01/03/2013 đến 01/05/2013 chọn thuộc tính:
+A) Validation rule : >=*01/03/2013 * and <=*01/05/2013*
+B) Validation rule : >= 01/03/2013 and <=01/05/2013
+*C) Validation rule : >=# 01/03/2013 # and <=# 01/05/2013#
+D) Validation rule : >=$01/03/2013$ and <=$01/05/2013$
+
+Câu 41: Khi chọn một trường có kiểu Text trong một bảng làm khoá chính thì thuộc tính Allow Zero Length của trường phải chọn là:
+*A) Tuỳ ý
+B) No
+C) Yes
+
+Câu 42: Một bảng dữ liệu trên Access bao gồm các thành phần:
+A) Tên bảng, trường dữ liệu, bản ghi, dòng, cột, nội dung.
+B) Tên bảng, trường dữ liệu, bản ghi, dòng, cột.
+*C) Tên bảng, các trường dữ liệu, thuộc tính của trường, các bản ghi.
+D) Tên bảng, các trường dữ liệu, bản ghi.
+
+Câu 43: Trong access khi mở bảng bất kì muốn vừa đặt lọc dữ liệu vừa sắp xếp theo tiêu chí nào đó lựa chọn:
+A) Home/Sort & Filter/Seletion
+B) Home/Sort & Filter/Advanced/Filter By Form
+C) Home/Sort & Filter/Filter
+*D) Home/Sort & Filter/Advanced/Advanced Filter /Sort.
+
+Câu 44: Quan hệ Một-Một (One-to-One):
+A) Là quan hệ nhiều bản ghi bất kỳ trong bảng thứ nhất có mỗi quan hệ với nhiều bản ghi trong bảng thứ 2.
+B) Là quan hệ một dòng dữ liệu ở bảng bên một sẽ có tương ứng nhiều dòng dữ liệu ở bảng bên nhiều.
+*C) Là quan hệ các dòng dữ liệu có trong 2 bảng quan hệ phải tương ứng với nhau.
+D) Không tồn tại mối quan hệ này.
+
+
+
+Câu 52: Để định dạng chuỗi kí tự nhập vào thành in hoa dùng kí tự:
+A) @
+B) <
+C) !
+*D) >
+
+Câu 53: Bảng (Table) là gì?.
+*A) Là thành phần cơ sở của Access dùng để lưu trữ dữ liệu. Một bảng bao gồm các cột(Trường, Fields), các dòng (Bản ghi,record).
+B) Là đối tượng thiết kế để nhập hoặc hiển thị dữ liệu giúp xây dựng các thành phần giao tiếp giữa người sử dụng với chươngtrình.
+C) Là công cụ được sử dụng để trích rút dữ liệu theo những điều kiện được xác định, tập dữ liệu trích rút cũng có dạng bảng biểu.
+D) Là tập hợp các thông tin được tổ chức cho một mục đích cụ thể, các thông tin này thường có hình ảnh bảng biểu
+
+Câu 54: Microsoft Access là gì?
+*A) Là môt hệ quản trị cơ sở dữ liệu.
+B) Là một phần mềm dùng để tạo bảng tính.
+C) Là một phần mềm soạn thảo.
+D) Là một bảng tính dùng để lưu dữ và quản lý dữ liệu.
+
+Câu 55: Các đối tượng chính trong CSDL access
+*A) Table, query, form, report, macro,code
+B) Table, query, form, report,macro,
+C) Table, query, form, report,label,macro,modul
+D) Table, query, form, report,code,
+
+
+
+Câu 58: Tên trường (Fields) trong access được quy định như thế nào?
+*A) Không bắt đầu là dấu cách, không chứa ký tự :(.),(!),([),(]).
+B) Không bắt đầu là chữ số
+C) Bắt buộc phải là chữ cái đầu tiên.
+D) Không theo một quy cách nào cả.
+
+Câu 59: Thiết kế bảng với sự trợ giúp của MS Access ta sử dụng:
+A) Create / Table
+*B) Create / Table Design
+C) Create / Design View
+D) Create / Datasheet View
+
+
+
+Câu 61: Tổng số ký tự tối đa trong Field kiểu Text
+A) Không giới hạn
+B) 1024
+C) 64
+*D) 255
+
+Câu 62: Trong access khi mở bảng bất kì muốn đặt lọc dữ liệu có nội dung khác vị trí con trỏ đang đứng lựa chọn:
+A) Home/Sort & Filter/Selection/Equal..."Nội dung"
+*B) Home/Sort & Filter/Selection/Does Not Equal..."Nội dung"
+C) Home/Sort & Filter/Seletion/Contain..."Nội dung"
+D) Home/Sort & Filter/Seletion/Does Not Contain..."Nội dung".
+
+Câu 63: Khi tạo cấu trúc của Table đối tượng nào dùng để thiết lập khuôn nạ nhập liệu của trường.
+A) Field Size.
+*B) Input Mask.
+C) Format.
+D) Validation Rule.
+
+Câu 64: Đâu là một hệ quản trị CSDL
+*A) Access
+B) Windows
+C) Word
+D) Excel
+
+
+
+Câu 66: Khi tạo cấu trúc của Table đối tượng nào dùng để thiết lập độ dài tối đa cho phép của trường.
+A) Caption.
+B) Format.
+C) Input Mask.
+*D) Field Size.
+
+Câu 67: Tại sao cần phải lập mối quan hệ giữa các bảng
+A) Di chuyển thông tin giữa các bảng
+B) Sao chép thông tin giữa các bảng
+C) Loại bỏ các giá trị trùng nhau .
+*D) Truy nhập đúng dữ liệu của bảng có quan hệ với nhau
+
+Câu 68: Trong access khi mở bảng bất kì muốn đặt lọc dữ liệu có nội dung giống như tại vị trí con trỏ đang đứng lựa chọn:
+A) Home/Sort & Filter/Seletion/Contain..."Nội dung"
+B) Home/Sort & Filter/Selection/Does Not Equal..."Nội dung"
+*C) Home/Sort & Filter/Selection/Equal..."Nội dung"
+D) Home/Sort & Filter/Seletion/Does Not Contain..."Nội dung"
+
+Câu 69: Những trường có kiểu dữ liệu nào sau đây có thể làm khoá chính
+A) Hyper link
+B) Memo
+C) OLE object
+*D) Text
+
+
+
+Câu 75: Mỗi cơ sở dữ liệu Access được lưu trên đĩa dưới dạng
+A) Thành phần Table được lưu thành tập tin .DBF, còn các thành phần khác được lưu chung vào một tập tin .ACCDB
+B) Mỗi thành phần (Table, Query, Form, Report, Macro, Code) được lưu thành tập tin riêng
+*C) Tất cả các thành phần được lưu chung vào tập tin duy nhất có phần mở rộng
+D) Thành phần code lưu thành tập tin .PRG, các thành phần còn lại lưu chung vào tập tin .ACCDB
+
+Câu 76: Một sinh viên sau khi khảo sát CSDL quản lý hàng hoá và đưa ra gợi ý như hình vẽ: Dựa vào gợi ý trên, xác định bảng Hoá đơn có quan hệ với bảng Chi tiết hoá đơn làmối quan hệ <14.jpg>
+A) n-n
+B) 1 -1
+C) n-1
+*D) 1 -n
+
+Câu 77: Khi tạo cấu trúc của Table nếu kiểu trường chọn AutoNumber thì trường đó sẽ nhận giá trị:
+A) Dữ liệu kiểu ngày tháng .
+B) Dữ liệu kiểu văn bản.
+*C) Tự động chèn dữ liệu số theo từng record.
+D) Dữ liệu kiểu logic .
+
+
+
+Câu 82: Hai bảng có mối quan hệ 1 -n khi nhập dữ liệu ta cần
+A) Nhập bảng N trước rồi mới nhập bảng 1
+*B) Nhập bảng 1 trước rồi mới nhập bảng N
+C) Nhập cho bảng nào trước cũng được
+D) Xoá dữ liệu ở bảng 1 rồi nhập dữ liệu cho bảng N
+
+Câu 83: Tại sao nói Excel hay Word không phải là hệ quản trị CSDL
+*A) Vì Excel hay Word không phải dữ liệu có cấu trúc và không thoả mãn hết yêu cầu khai thác thông tin.
+B) Vì Excel hay Word Không lưu trữ dữ liệu
+C) Vì Excel hay Word xử lý được dữ liệu
+D) Vì Excel hay Word không có công cụ lập trình
+
+Câu 84: Bảng Sản phẩm:Mã sản phẩm (MSP), tên sản phẩm(TSP), đơn vị tính(DVT), đơn giá(DG).Hãy xác định kiểu dữ liệu thích hợp cho trường Đơn giá(DG) trong bảng Sảnphẩm
+A) Hyperlink.
+B) Memo.
+C) Text.
+*D) Currency.
+
+Câu 85: Giả sử trường giới tính có kiểu yes/ no tại format viết ; nam;nu thì dữ liệu hiện thị sẽ là:
+A) Trường hợp True là "yes", trường hợp false là "No"
+B) Trường hợp True là "nu", trường hợp false là "nam"
+*C) Trường hợp True là "nam", trường hợp false là "nu"
+D) Trường hợp True là "No", trường hợp false là "yes"
+
+Câu 86: Khẳng định nào sau đây sai
+A) Tên trường (Field) có tối đa 64 ký tự
+*B) Trong một Table có thể có 2 trường trùng nhau
+C) Tên trường có thể có ký tự &
+D) Tên trường có thể có ký tự ( )
+
+Câu 87: Khi tạo cấu trúc của Table đối tượng nào dùng để quy định một giá trị ban đầu của một loại dữ liệu.
+A) Validation Rule.
+B) Field Size.
+C) Format.
+*D) Default Value.
+
+Câu 88: Bảng Hoá đơn: gồm mã hoá đơn (MHD),loại hoá đơn(LHD), mã khách hàng(MKH),mã nhân viên lập hoá đơn(MNV), ngày lập hóa đơn (NLHD), ngày giao hàng(NGH). Để dữ liệu trường MHD không được phép trùng nhau chọn thuộc tính
+A) Indexed :No
+B) Indexed : Yes (Duplicates OK)
+*C) Indexed : Yes (No Duplicates )
+D) Tất cả đều sai.
+
+
+
+Câu 91: Muốn tính TIENLUONG bằng (LUONGCB * HESO)+ PHUCAP - BHYT - BHXH ta thực hiện:
+A) Tại Update To của cột TIENLUONG nhập: (LUONGCB *'HESO)+PHUCAP- BHYT-BHXH
+B) Tại Update To của cột TIENLUONG nhập: (''LUONGCB''*''HESO'')+''PHUCAP''-''BHYT''-''BHXH''
+C) Tại Update To của cột TIENLUONG nhập: ({LUONGCB }*{HESO})+{PHUCAP} -{BHYT} -{BHXH}
+*D) Tại Update To của cột TIENLUONG nhập: ([LUONGCB ]*[HESO])+[PHUCAP]-[BHYT]-[BHXH]
+
+Câu 92: Muốn trích rút danh sách sinh viên có DIEML1 là 5 hoặc 8 hoặc 10 ta thực hiện:
+A) Tại CRITERIA của cột DIEML1 nhập: 5 AND 8 AND 10
+B) Tại CRITERIA của cột DIEML1 nhập: 5 , 8, 10
+C) Tại CRITERIA của cột DIEML1 nhập: >=5 OR <=10
+*D) Tại CRITERIA của cột DIEML1 nhập: 5 OR 8 OR 10
+
+
+
+Câu 94: ta có Q: DatePart(q,[ngaylaphd]) Cho biết tham số q có ý nghĩa gì?
+A) lấy ra ngày trong tuần lập hóa đơn
+B) lấy ra ngày lập hóa đơn
+*C) lấy ra quý lập hóa đơn
+D) lấy ra tháng lập hóa đơn
+
+Câu 95: Muốn đưa ra thông tin bao gồm: MAHD, MAKH, TENNV,NGAYLAPHD, NGAYGNHANG, TENSP, SOLUONG,GIABAN Thêm cột GHICHU: nếu NGAYGNHANG là rỗng ghi là chưa nhận hàng, ngược lại đã nhận hàng
+*A) Tại FIELD gõ : GHICHU: iif(isNull([NGAYGNHANG]),chưa nhận hàng,đã nhận Hàng)
+B) Tại FIELD gõ : GHICHU:iif(isNull([NGAYGNHANG]),đã nhận Hàng), chưa nhận Hàng
+C) Tại FIELD gõ : GHICHU:iif(isNotNull([NGAYGNHANG]),chưa nhận hàng,đã nhận Hàng)
+D) Tại FIELD gõ : GHICHU:iif([NGAYGNHANG]),chưa nhận hàng,đã nhận Hàng)
+
+Câu 96: ta có Q: DatePart(m,[ngaylaphd]) Cho biết tham số m có ý nghĩa gì?
+A) lấy ra quý lập hóa đơn
+*B) lấy ra tháng lập hóa đơn
+C) lấy ra ngày trong tuần lập hóa đơn
+D) lấy ra ngày lập hóa đơn
+
+
+
+Câu 98: Để cập nhật dữ liệu cho bảng ta sử dụng truy vấn.
+*A) Update query
+B) Make table query
+C) Select query
+D) Append query
+
+
+
+Câu 100: Cho biết mỗi khách hàng có tổng số bao nhiêu hoá đơn (Mã khách hàng là tham số nhập từ bàn phím) ta thực hiện: 
+*A) Tại field chọn MAHD và MAKH; Tại Total của trường MAHD chọn count, tại Total của trường MAKH chọn group by;Tại criteria của MAKH đặt câu hỏi [Nhập Mã khách hàng]
+B) Tại field chọn MAHD và MAKH; Tại Total của trường MAHD chọn Sum, tại Total của trường MAKH chọn group by;Tại criteria của MAKH đặt câu hỏi [Nhập Mã khách hàng]
+C) Tại field chọn MAHD và MAKH; Tại Total của trường MAHD chọn group by, tại Total của trường MAKH chọn count;Tại criteria của MAKH đặt câu hỏi [Nhập Mã khách hàng]
+D) Tại field chọn MAHD và MAKH; Tại Total của trường MAHD chọn group by, tại Total của trường MAKH chọn Sum
+
+'Phần 3 câu 101 đến câu 150
+
+Câu 101: Giả sử CSDL Hoadon.ACCDB đã nhập dữ liệu, muốn tạo query gồm Mã sản phẩm bán ra nhiều nhất.Thông tin bao gồm : MaSP, TriGia. Sử dụng truy vấn nào trong các truy vấn sau:
+A) Make table query
+*B) Select query( Dùng Total)
+C) Append query
+D) Crosstab query
+
+Câu 102: Giả sử CSDL Hoadon.ACCDB đã nhập dữ liệu, muốn tạo query đưa thông tin sản phẩm bán ra của từng ngày, biết rằng ngày lập hoá đơn được nhập từ bàn phím, ta thực hiện
+A) Tại field chọn Masp, ngaylaphd; Tại Criteria của ngaylaphd gõ Nhập ngày tháng năm cần xem
+B) Tại field chọn Masp, ngaylaphd; Tại Criteria của ngaylaphd gõ {Nhập ngày tháng năm cần xem}
+C) Tại field chọn Masp, ngaylaphd; Tại Criteria của ngaylaphd gõ month([ngaylaphd])
+*D) Tại field chọn Masp, ngaylaphd; Tại Criteria của ngaylaphd gõ [Nhập ngày tháng năm cần xem]
+
+
+
+Câu 105: Muốn trích rút danh sách sinh viên có DIEML1 từ 5 đến 10 ta thực hiện:
+A) Tại CRITERIA của cột DIEML1 nhập: 5 AND 10
+B) Tại CRITERIA của cột DIEML1 nhập: >=5 , <=10
+C) Tại CRITERIA của cột DIEML1 nhập: >=5 OR <=10
+*D) Tại CRITERIA của cột DIEML1 nhập: >=5 AND <=10
+
+Câu 106: Muốn tính TONG bằng TOAN + LY + HOA ta thực hiện:
+A) Tại Update To của cột TONG nhập: {TOAN}+{LY}+{HOA}
+B) Tại Update To của cột TONG nhập: ''TOAN''+''LY''+''HOA''
+*C) Tại Update To của cột TONG nhập: [TOAN]+[LY]+[HOA]
+D) Tại Update To của cột TONG nhập: TOAN+LY+HOA
+
+Câu 107: Cho biết mỗi Nhân viên lập bao nhiêu hoá đơn
+*A) Tại field chọn MAHD và MANV; Tại Total của trường MAHD chọn count, tại Total của trường MANV chọn group by
+B) Tại field chọn MAHD và MANV; Tại Total của trường MAHD chọn Sum, tại Total của trường MANV chọn group by
+C) Tại field chọn MAHD và MANV; Tại Total của trường MAHD chọn group by, tại Total của trường MANV chọn count
+D) Tại field chọn MAHD và MANV; Tại Total của trường MAHD chọn group by, tại Total của trường MANV chọn Sum.
+
+Câu 108: Truy vấn lựa chọn (Select Query).
+A) Loại truy vấn dùng để thêm một hay nhiều dòng dữ liệu mới vào cuối một bảng. Mỗi truy vấn chỉ dùng để thêm dữ liệu vào cho một bảng.
+B) Loại truy tạo ra một bảng mới chứa dữ liệu
+C) Loại truy vấn dùng để cập nhật dữ liệu cho bảng từ một bảng khác.
+*D) Loại truy vấn này chỉ mang tính chất cung cấp thông tin đã được lưu trữ trong bảng, không làm thay đổi dữ liệu của bảng.
+
+Câu 109: Muốn tính BHXH bằng 20% LUONGCB ta thực hiện:
+A) Tại Update To của cột BHXH nhập: ''LUONGCB '' * 0.2
+*B) Tại Update To của cột BHXH nhập: [LUONGCB ] * 0.2
+C) Tại CRITERIA của cột BHXH nhập: [LUONGCB ] * 0.2
+D) Tại CRITERIA của cột BHXH nhập: ''LUONGCB '' * 0.2
+
+Câu 110: Muốn trích rút danh sách sinh viên có DIEML1 được nhập từ bàn phím ta thực hiện:
+*A) Tại CRITERIA của cột DIEML1 nhập: [Bạn muốn hiện điểm bằng bao nhiêu?]
+B) Tại CRITERIA của cột DIEML1 nhập: ''Bạn muốn hiện điểm bằng bao nhiêu?]''
+C) Tại CRITERIA của cột DIEML1 nhập: {Bạn muốn hiện điểm bằng bao nhiêu?}
+D) Tại CRITERIA của cột DIEML1 nhập: Bạn muốn hiện điểm bằng bao nhiêu?
+
+Câu 111: Hãy cập nhật cho trường DIENGIAI là Nhận hàng trước cho những hoá đơn có ngày lập hoá đơn(NGAYLAPHD) sau ngày giao nhận hàng(NGAYGNHANG)
+A) Tại Field Chọn DIENGIAI, tại table chọn HOA DON, tại update to gõ: iif([NGAYLAPHD]<[NGAYGNHANG],nhận hàng trước, )
+*B) Tại Field Chọn DIENGIAI, tại table chọn HOA DON, tại update to gõ: iif([NGAYLAPHD]>[NGAYGNHANG],nhận hàng trước, )
+C) Tại Field Chọn DIENGIAI, tại table chọn HOA DON, tại update to gõ: iif([NGAYLAPHD]>[NGAYGNHANG],nhận hàng trước)
+D) Tại Field Chọn DIENGIAI, tại table chọn HOA DON, tại update to gõ: iif([NGAYLAPHD]>[NGAYGNHANG], ,nhận hàng trước)
+
+Câu 112: Giả sử CSDL Hoadon.ACCDB đã nhập dữ liệu, muốn tạo query bao gồm MaSp, TongSoLuong. Trong đó TongSoLuong là sum của Soluong, kết nhóm theo Masp. Ta thực hiện:
+A) Tại field chọn Masp, Soluong; Tại total Masp chọn sum, của Soluong chọn group by
+*B) Tại field chọn Masp, Tongsoluong:[Soluong]; Tại total: Masp chọn group by, Tongsoluong chọn Sum
+C) Tại field chọn Masp, Soluong; Tại total Masp chọn count , của Soluong chọn group by
+D) Tại field chọn Masp, Tongsoluong:[Soluong]; Tại total: Masp chọn group by, Tongsoluong chọn count
+
+
+
+Câu 114: Hãy cập nhật cho trường DIENGIAI là " đã nhận Hàng" cho Hoá đơn có NGAYGNHANG khác rỗng ngược lại"chưa[CR]nhận hàng"
+A) Tại Field Chọn DIENGIAI, tại table chọn HOA DON, tại update to gõ: iif([ngaygnhang]<>Null,đã nhận Hàng, chưa[CR] nhậnHàng)
+B) Tại Field Chọn DIENGIAI, tại table chọn HOA DON, tại update to gõ: iif([ngaygnhang]=Null,Chưa nhận hàng,đã nhậnHàng)
+*C) Tất cả đều đúng
+D) Tại Field Chọn DIENGIAI, tại table chọn HOA DON, tại update to gõ: iif(isnull([ngaygnhang]), chưa nhận Hàng,đãnhậnhàng)
+
+Câu 115: Khi tạo truy vấn đối tượng SORT có ý nghĩa gì?
+A) Chứa giá trị hay biểu thức lọc ứng với cột
+B) Thể hiện các cột, biểu thức trong truy vấn.
+C) Tên bảng tương ứng của cột
+*D) Cho phép sắp xếp thứ tự cột tăng hay giảm
+
+Câu 116: Muốn tính TONG bằng TOAN + LY + HOA + Điểm KHUVUC (KHUVUC=1 cộng thên 1.5 điểm,KHUVUC=2NT cộng thêm 1 điểm, KHUVUC=2 cộng thên 0.5 điểm ) ta thực hiện:
+A) Tại Update To của cột TONG nhập: TOAN+LY+HOA + IIF(KHUVUC=''1'',1.5, IIF(KHUVUC=''2NT'',1,IIF(KHUVUC=''2'',0.5,0)))
+B) Tại Update To của cột TONG nhập: ''TOAN''+''LY''+''HOA'' + IIF(KHUVUC=''1'',1.5, IIF(KHUVUC=''2NT'',1,IIF(KHUVUC=''2'',0.5,0)))
+C) Tại Update To của cột TONG nhập: {TOAN}+{LY}+{HOA} + IIF(KHUVUC=''1'',1.5, IIF(KHUVUC=''2NT'',1,IIF(KHUVUC=''2'',0.5,0)))
+*D) Tại Update To của cột TONG nhập: [TOAN]+[LY]+[HOA] + IIF(KHUVUC=''1'',1.5, IIF(KHUVUC=''2NT'',1,IIF(KHUVUC=''2'',0.5,0)))
+
+Câu 117: Muốn trích rút danh sách sinh viên có Họ là NGUYEN và tên PHUONG ta thực hiện:
+A) Tại CRITERIA của cột TEN nhập: [PHUONG] và tại CRITERIA của cột HODEM nhập: Like ''NGUYEN*"
+*B) Tại CRITERIA của cột TEN nhập: ''PHUONG'' và tại CRITERIA của cột HODEM nhập: Like ''NGUYEN *''
+C) Tại CRITERIA của cột TEN nhập: {PHUONG} và tại CRITERIA của cột HODEM nhập: Like ''NGUYEN *"
+D) Tại CRITERIA của cột TEN nhập: PHUONG và tại CRITERIA của cột HODEM nhập: Like ''NGUYEN *''
+
+Câu 119: Thay tất cả đơn vị tính (DONVITINH) là chai thành lít ta thực hiện:
+A) Tại update to của DONVITINH gõ :iif([DONVITINH]=chai,lit,)
+B) Tại update to của DONVITINH gõ :iif([DONVITINH]=chai,lit,chai)
+*C) Tại update to của DONVITINH gõ :iif([DONVITINH]=chai,lit,[DONVITINH])
+D) Tại update to của DONVITINH gõ :iif([DONVITINH]=chai,[DONVITINH],lit)
+
+Câu 120: Giảm giá bán trong bảng chi tiết hoá đơn 10% cho hoá đơn có ngày lập 02/09/2014
+A) Tại field chọn DONGIA, tại table chọn Chitiethoadon, tại update to gõ:iif([NGAYLAPHD]=#02/09/2014#,[GIABAN]*0.9)
+B) Tại field chọn DONGIA, tại table chọn Chitiethoadon, tại update to gõ:iif([NGAYLAPHD]=02/09/2014,[GIABAN]*0.9,[GIABAN])
+C) Tại field chọn DONGIA, tại table chọn Chitiethoadon, tại update to gõ:iif([NGAYLAPHD]=#02/09/2014#,[GIABAN]*0.1,[GIABAN])
+*D) Tại field chọn GIABAN, tại table chọn Chitiethoadon, tại update to gõ:iif([NGAYLAPHD]=#02/09/2014#,[GIABAN]*0.9,[GIABAN])
+
+Câu 121: Truy vấn tạo bảng (Make - Table Query)
+A) Loại truy vấn dùng để cập nhật dữ liệu cho bảng từ một bảng khác.
+B) Loại truy vấn này chỉ mang tính chất cung cấp thông tin đã được lưu trữ trong bảng, không làm thay đổi dữ liệu của bảng.
+*C) Loại truy tạo ra một bảng mới chứa dữ liệu
+D) Loại truy vấn dùng để thêm một hay nhiều dòng dữ liệu mới vào cuối một bảng. Mỗi truy vấn chỉ dùng để thêm dữ liệu vào cho một bảng.
+
+Câu 122: Đưa ra thông báo nhập ngày tháng năm hiện ra MAHD và SOLUONG tương ứng theo tham số vừa nhập
+*A) Tại field chọn MAHD ,SOLUONG,NGAYLAPHD; Tại criteria của NGAYLAPHD gõ [nhập ngày tháng năm ]
+B) Tại field chọn MAHD ,NGAYLAPHD; Tại criteria của NGAYLAPHD gõ nhập ngày tháng năm
+C) Tại field chọn MAHD ,SOLUONG,NGAYLAPHD; Tại criteria của NGAYLAPHD gõ #nhập ngày tháng năm #
+D) Tại field chọn MAHD ,NGAYLAPHD; Tại criteria của NGAYLAPHD gõ #nhập ngày tháng năm #
+
+
+
+Câu 125: ta có W: DatePart(w,[ngaylaphd]) Cho biết tham số w có ý nghĩa gì?
+*A) lấy ra ngày trong tuần lập hóa đơn
+B) lấy ra quý lập hóa đơn
+C) lấy ra thứ trong tuần lập hóa đơn
+D) lấy ra ngày lập hóa đơn
+
+Câu 126: Cho biết MASP có số luợng bán nhiều nhất:
+A) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọngroup by
+B) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọn Count
+*C) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọn Max
+D) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọn Min
+
+Câu 127: Hình 1, Cho biết biểu tượng số 6 trong hình thuộc kiểu truy vấn? <22.jpg>
+A) Select Query
+B) Make Table Query
+C) Crosstab Query
+*D) Delete Query
+
+Câu 128: Muốn trích rút danh sách sinh viên có DIEML1 nhỏ hơn 5 , nhưng có điểm thi ở DIEML2 (Thi lại) ta thực hiện: 
+A) Tại CRITERIA của cột DIEML1 nhập: 5 và tại CRITERIA của cột DIEML2 nhập: Not IsNull
+B) Tại CRITERIA của cột DIEML1 nhập: <5 và tại CRITERIA của cột DIEML2 nhập: IsNull
+*C) Tại CRITERIA của cột DIEML1 nhập: <5 và tại CRITERIA của cột DIEML2 nhập: Not IsNull
+D) Tại CRITERIA của cột DIEML1 nhập: 5 và tại CRITERIA của cột DIEML2 nhập: IsNull
+
+Câu 129: Trong Toán tử like dấu ?[a-z]* có ý nghĩa là?
+*A) Ký tự đầu bất kỳ, ký tự thứ hai là chữ cái, sau đó là một nhóm ký tự bất kỳ.
+B) Ký tự đầu là chữ hoặc số, ký tự thứ hai là chữ cái, ký tự cuối là bất kỳ.
+C) Ký tự đầu là số hoặc chữ , ký tự thứ hai bắt buộc là chữ, ký tự cuối là chữ.
+D) Ký tự đầu bắt kỳ , ký tự thứ hai bắt buộc là chữ, ký tự cuối là số.
+
+Câu 130: Muốn trích rút danh sách sinh viên có tên là PHUONG sinh năm 1988 ta thực hiện: 
+*A) Tại CRITERIA của cột TEN nhập: ''PHUONG'' và tại CRITERIA của cột NGAYSINH nhập: Year([ngaysinh]) = 1988
+B) Tại CRITERIA của cột TEN nhập: [PHUONG] và tại CRITERIA của cột NGAYSINH nhập: Year([ngaysinh]) = 1988
+C) Tại CRITERIA của cột TEN nhập: {PHUONG} và tại CRITERIA của cột NGAYSINH nhập: Year([ngaysinh]) = 1988
+D) Tại CRITERIA của cột TEN nhập: PHUONG và tại CRITERIA của cột NGAYSINH nhập: Year([ngaysinh]) = 1988
+
+
+
+Câu 132: Để thực hiện truy vấn cung cấp thông tin đã được lưu trữ trong bảng ta sử dụng truy vấn.
+*A) Select query
+B) Make table query
+C) Update query
+D) Crosstab query
+
+Câu 133: Giả sử CSDL Hoadon.ACCDB đã nhập dữ liệu, muốn tạo query gồm Mã sản phẩm bán ra nhiều nhất.Thông tin bao gồm : MaSP, TriGia. Ta thực hiện:
+*A) Tại field chọn Masp, Trigia:[soluong]*[dongia]; Tại Total: Masp chọn group by, Trigia chọn Max
+B) Tại field chọn Masp, Trigia:[soluong]*[dongia]; Tại Total: Masp chọn group by, Trigia chọn Min
+C) Tại field chọn Masp, Trigia:[soluong]*[dongia]; Tại Total: Masp chọn Max, Trigia chọn group by
+D) Tại field chọn Masp, Trigia:[soluong]*[dongia]; Tại Total: Masp chọn group by, Trigia chọn sum
+
+Câu 134: Muốn trích rút danh sách sinh viên có tháng sinh là 2 (cột NGAYSINH có dạng DD/MM/YYYY) ta thực hiện:
+A) Tại CRITERIA của cột NGAYSINH nhập: Month(ngaysinh) = 2
+B) Tại CRITERIA của cột NGAYSINH nhập: = 2
+C) Tại CRITERIA của cột NGAYSINH nhập: ([ngaysinh]) = 2
+*D) Tại CRITERIA của cột NGAYSINH nhập: Month([ngaysinh]) = 2
+
+Câu 135: Cho biết mỗi MASP có tổng sốluợng đuợc bán :
+A) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONGchọn group by
+B) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọnCount
+*C) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọnSum
+D) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn Sum, tại Total của trường SOLUONG chọn group by
+
+Câu 136: Truy vấn cập nhật dữ liệu (Update Query).
+A) Loại truy vấn dùng để thêm một hay nhiều dòng dữ liệu mới vào cuối một bảng. Mỗi truy vấn chỉ dùng để thêm dữ liệu vào cho một bảng.
+B) Loại truy tạo ra một bảng mới chứa dữ liệu
+C) Loại truy vấn này chỉ mang tính chất cung cấp thông tin đã được lưu trữ trong bảng, không làm thay đổi dữ liệu của bảng.
+*D) Loại truy vấn dùng để cập nhật dữ liệu cho bảng.
+
+Câu 137: Cho biết MASP có số luợng bán ít nhất:
+A) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọn Count
+*B) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọn Min
+C) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọn group by
+D) Tại field chọn MASP và SOLUONG; Tại Total của trường MASP chọn group by, tại Total của trường SOLUONG chọn sum
+
+
+
+Câu 139: Để tạo 1 Crosstab Query chúng ta cần lựa chọn mấy cột Column Heading
+A) 3 cột
+B) 4 cột
+*C) 1 cột
+D) 2 cột
+
+Câu 140: Giả sử CSDL HOADON gồm các bảng (Hình ảnh) đã nhập dữ liệu, muốn tạo query cho biết các thông tin về hóa đơn của khách hàng CINOTEC, FAHASA, SAFICO, SJC bao gồm : mã HD, mã KH, tên NV lập hoá đơn, ngày lập HD, ngày nhận hàng, tên sản phẩm, số lượng, đơn giá. Ta thực hiện: 
+A) Tại mục criteria của trường mã KH gõ: or(CINOTEC, FAHASA, SAFICO, SJC)
+B) Tại mục criteria của trường mã KH gõ: CINOTEC and FAHASAand SAFICO and SJC
+C) Tại mục criteria của trường mã KH gõ: CINOTEC , FAHASA, SAFICO, SJC
+*D) Tại mục criteria của trường mã KH gõ: CINOTEC or FAHASAor SAFICO or SJC
+
+Câu 141: Khi tạo truy vấn đối tượng CRITERIA có ý nghĩa gì?
+*A) Chứa giá trị hay biểu thức lọc ứng với cột
+B) Thể hiện các cột, biểu thức trong truy vấn.
+C) Tên bảng tương ứng của cột
+D) Cho phép sắp xếp thứ tự cột tăng hay giảm
+
+Câu 142: Để tạo 1 Crosstab Query chúng ta cần lựa chọn mấy giá trị Value
+*A) 1 cột
+B) 2 cột
+C) 3 cột
+D) 4 cột
+
+Câu 143: Truy vấn thêm dữ liệu (Append Query).
+A) Loại truy vấn dùng để thực hiện xoá một hay nhiều dòng dữ liệu của một bảng.
+B) Loại truy tạo ra một bảng mới chứa dữ liệu
+C) Loại truy vấn này chỉ mang tính chất cung cấp thông tin đã được lưu trữ trong bảng, không làm thay đổi dữ liệu của bảng.
+*D) Loại truy vấn dùng để thêm một hay nhiều dòng dữ liệu mới vào cuối một bảng. Mỗi truy vấn chỉ dùng để thêm dữ liệu vào cho một bảng.
+
+Câu 144: Muốn trích rút danh sách sinh viên có DIEML1 là 5 hoặc10 ta thực hiện:
+A) Tại CRITERIA của cột DIEML1 nhập: 5 , 10
+*B) Tại CRITERIA của cột DIEML1 nhập: 5 OR 10
+C) Tại CRITERIA của cột DIEML1 nhập: >=5 OR <=10
+D) Tại CRITERIA của cột DIEML1 nhập: 5 AND 10
+
+Câu 145: Cập nhật cho GIABAN của bảng CHITIETHOADON bằng DONGIA trong bảng sản phẩm
+A) Tại update to GIABAN của table CHITIETHOADON gõ:=[SANPHAM.DONGIA]
+*B) Tại update to GIABAN của table CHITIETHOADON gõ:=[DONGIA]![SANPHAM]
+C) Tại update to GIABAN của table CHITIETHOADON gõ:="DONGIA"
+D) Tại update to GIABAN của table CHITIETHOADON gõ:=SANPHAM![dongia]
+
+Câu 146: Để thiết lập thuộc tính thể hiện dữ liệu như nguồn dữ liệu, giá trị ngầm định,…cho điều khiển ta thực hiện: kích phải chuột vào đối tượng chọn properties sau đó chọn Tab:
+A) Event
+B) Format
+*C) Data
+D) Other.
+
+
+
+Câu 148: Để tạo được đối tượng (D) thì phải sử dụng công cụ số mấy trên thanh công cụ ToolBox
+A) Số 8.
+*B) Số 7.
+C) Số 6.
+D) Số 5.
+
+
+
+
+
+'Phần 4 câu 151 đến câu 200
+
+Câu 151: Sử dụng Control Winzards để vẽ các nút điều khiển, cho biết Đâu là phương thức di chuyển đến bản ghi cuối cùng ? 
+*A) Go to Last Record
+B) Go to First Record
+C) Go to Next Record
+D) Go to Previous Record
+
+
+
+Câu 154: Sử dụng Control Winzards để vẽ các nút điều khiển, cho biết để tạo nút điều khiển tạo mới 1 bản ghi ta chọn? 
+A) Save Record
+*B) Add New Record
+C) Undo Record
+D) Duplicate Record
+
+
+
+Câu 161: Sử dụng Control Winzards để vẽ các nút điều khiển, cho biết Đâu là phương thức dichuyển đến bản ghi tiếp theo ?
+*A) Go to Next Record
+B) Go to Last Record
+C) Go to First Record
+D) Go to Previous Record
+
+Câu 162: Cuối màn hình (Form Footer)
+*A) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở cuối của màn hình.
+B) Các điều khiển nằm trong màn hình này sẽ xuất hiện ở đầu màn hình.
+C) Thể hiện các chi tiết dữ liệu trên màn hình
+D) Dùng để xác định bảng dữ liệu nguồn cần sử dụng để xây dựng màn hình.
+
+
+
+Câu 168: Sử dụng Control Winzards để vẽ các nút điều khiển, trong hình 3 trên, tại bảng 3 cho biết để tạo nút điều khiển thực hiện lọc dữ liệu Form
+*A) Apply Form Filter
+B) Edit Form Filter
+C) Close Form
+D) Open Form
+
+Câu 169: Tại mục Categories ta chọn nhóm Record Navigation để? Hình A <39.jpg>
+*A) Tạo các nút thực hiện điều khiển bản ghi.
+B) Tạo các nút làm việc với Form.
+C) Tạo các nút thực hiện việc quản lý bản ghi.
+D) Tạo các nút làm việc với Report.
+
+
+
+Câu 175: Khi thiết lập thuộc tính Default View của Form là : Datasheet thì dạng thể hiện là:
+A) Một bản ghi trên cùng một Form
+B) Nhiều bản ghi trên cùng một Form
+*C) Bảng tính
+D) Biểu đồ
+
+Câu 176: Khi thiết kế form muốn ngăn cách giữa các thành phần (đầu, chi tiết, cuối) của form là đường kẻ ta chọn thuộc tính: 
+A) Record selection:Yes
+B) Navigation button:Yes
+*C) Dividing line :Yes
+D) Auto resize: Yes
+
+
+
+Câu 180: Tiêu đề (Caption)
+*A) Là một chuỗi văn bản xuất hiện trên thanh tiêu đề (Title bar) của cửa sổ màn hình.
+B) Các điều khiển nằm trong màn hình này sẽ xuất hiện ở đầu màn hình.
+C) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở cuối của màn hình.
+D) Dùng để xác định bảng dữ liệu nguồn cần sử dụng để xây dựng màn hình.
+
+
+
+Câu 182: Trong Hình số 4, cho biết ở vị trí số 1Text Box (TONGTIEN) tại thuộc tính Text ta sửa NAME thành Tong Tien kết quả chạy ở Text Box số 3 là ?
+A) #Div/0!
+B) #Name
+*C) #Error
+D) 264
+
+
+
+Câu 188: Khi thiết kế form muốn tự động điều chỉnh kích thước của form ta chọn thuộc tính:
+A) Auto resize: Yes
+*B) Auto resize: No
+C) Navigation button:Yes
+D) Navigation button:No
+
+
+
+Câu 190: Cho biết ở vị trí số 1Text Box (TONGTIEN) ta gõ công thức là =SUM([thanhtien])/0 kết quả chạy ở Text Box số 3 là?
+A) 264
+B) #Name
+C) #Error
+*D) # Div/0!
+
+Câu 191: Sử dụng Control Winzards để vẽ các nút điều khiển, cho biết để tạo nút điều khiển nhânđôi bản ghi ta chọn?
+A) Undo Record
+B) Save Record
+C) Add New Record
+*D) Duplicate Record
+
+
+
+Câu 194: Sử dụng Control Winzards để vẽ các nút điều khiển, cho biết đâu là phương thức tìm kiếm 
+A) Go To LastRecord
+*B) Find Record
+C) Go To First Record
+D) Find Next
+
+Câu 195: Sử dụng Control Winzards để vẽ các nút điều khiển, cho biết để tạo nút điều khiển đóng một Form ta chọn?
+A) Edit Form Filter
+*B) Close Form
+C) Apply Form Filter
+D) Open Form
+
+Câu 196: Khi tạo một báo cáo các đối tượng chỉ hiển thị một lần ở trang đầu tiên của báo cáo thì các đối tượng đó sẽ được đặt trong phần nào của Report:
+A) Report Footer
+*B) Report Header
+C) Page Header
+D) Page Footer
+
+Câu 197: Khi tạo một báo cáo dữ liệu hiển thị sẽ được đặt trong phần nào của Report:
+A) Report Header
+*B) Detail
+C) Page Header
+D) Page Footer
+
+Câu 198: Để đưa về chế độ thiết kế báo cáo :
+*A) View/ design view
+B) View/layout view
+C) View/print preview
+D) Tất cả đều sai
+
+Câu 199: Cuối báo cáo(Report Footer)
+*A) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở trang cuối cùng (chỉ một lần trong báo cáo).
+B) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở cuối mỗi trang báo cáo.
+C) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở đầu mỗi trang của báo cáo.
+D) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở đầu báo cáo (Chỉ một lần ở trang đầu tiên của báo cáo).
+
+Câu 200: Đầu nhóm(Group Header)
+*A) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở đầu mỗi nhóm báo cáo.
+B) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở đầu báo cáo (Chỉ một lần ở trang đầu tiên của báo cáo).
+C) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở cuối mỗi nhóm báo cáo.
+D) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở trang cuối cùng (chỉ một lần trong báo cáo).
+
+'Phần 5 câu 201 đến câu 250
+
+Câu 201: Báo cáo dạng Group/Total là:
+A) Báo cáo dạng này sẽ trình bày dữ liệu dưới dạng biểu đồ
+B) Báo cáo dạng này sẽ trình bày dữ liệu theo dạng bảng nhiều dòng và nhiều cột
+C) Báo cáo dạng này sẽ được trình bày theo dạng cột kèm theo phần nhãn của mỗi cột bên trái, mỗi dòng tương ứng với một trường dữ liệu
+*D) Báo cáo dạng này sẽ trình bày dữ liệu theo nhóm, mỗi nhóm sẽ trình bày dữ liệu dưới dàng hàng và có thể tính toán riêng cho từng nhóm
+
+Câu 202: Khi tạo một báo cáo các đối tượng hiển thị ở đầu mỗi trang của báo cáo thì các đối tượng đó sẽ được đặt trongphần nào của Report:
+*A) Page Header
+B) Report Footer
+C) Report Header
+D) Page Footer
+
+Câu 203: Khi muốn sắp xếp hoặc nhóm dữ liệu thì thành phần Expression làm nhiệm vụ gì
+A) Tên trường, hoặc biểu thức tham gia vào sắp xếp hay nhóm
+B) Chọn chế độ sắp xếp tăng dần hay giảm dần của trường hoặc biểu thức
+C) Cài đặt thuộc tính của trường hay biểu thức cần nhóm
+*D) Mô tả trường nào đó
+
+Câu 204: Tiêu đề trang(Page Header)
+A) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở đầu báo cáo (Chỉ một lần ở trang đầu tiên của báo cáo).
+*B) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở đầu mỗi trang của báo cáo.
+C) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở cuối mỗi trang báo cáo.
+D) Các điều khiển nằm trong thành phần này sẽ xuất hiện ở trang cuối cùng (chỉ một lần trong báo cáo).
+
+Câu 205: Để đưa về chế độ trình bày dữ liệu của báo cáo :
+A) View/ design view
+*B) View/layout view
+C) View/print preview
+D) Tất cả đều sai
+
+Câu 206: Để xuất ra máy in của báo cáo :
+*A) Tất cả đều sai
+B) View/print preview
+C) View/layout view
+D) View/ design view
+
+Câu 207: Muốn nhóm và sắp xếp giảm dần theo trường Makh, đồng thời các điều khiển nằm trong nhóm này xuất hiện cuối mỗi nhóm ta lựa chọn: 
+*A) Expression chọn Makh; with Z on top ; With a footer section
+B) Expression chọn Makh; with A on top ; With a footer section
+C) Expression chọn Makh; with A on top ; Without a footer section
+D) Expression chọn Makh; with A on top ; With a header section
+
+Câu 208: Muốn nhóm và sắp xếp tăng dần theo trường Makh, đồng thời các điều khiển nằm trong nhóm này xuất hiện cuối mỗi nhóm ta lựa chọn:
+A) Expression chọn Makh; with Z on top ; With a footer section
+*B) Expression chọn Makh; with A on top ; With a footer section
+C) Expression chọn Makh; with A on top ; Without a footer section
+D) Expression chọn Makh; with A on top ; With a header section
+
+Câu 209: Khi muốn sắp xếp hoặc nhóm dữ liệu thì thành phần group properties làm nhiệm vụ gì 
+A) Mô tả trường nào đó
+B) Tên trường, hoặc biểu thức tham gia vào sắp xếp hay nhóm
+*C) Cài đặt thuộc tính của trường hay biểu thức cần nhóm
+D) Lựa chọn chế độ sắp xếp tăng dần hay giảm dần của trường hoặc biểu thức
+
+Câu 210: Muốn nhóm và sắp xếp tăng dần theo trường Makh, đồng thời các điều khiển nằm trong nhóm này xuất hiện đầumỗi nhóm ta lựa chọn:
+A) Expression chọn Makh; with A on top ; Without a header section
+B) Expression chọn Makh; with A on top ; With a footer section
+*C) Expression chọn Makh; with A on top ; With a header section
+D) Expression chọn Makh; with Z on top ; Without a header section
+
+Câu 211: Giả sử DB làbiến kiểu DATABASE muốn gán DB cho một CSDL TUYENSINH nằm ổ D ta viết:
+A) SET DB = OpenRecordSet(''TUYENSINH'')
+B) SET DB = OpenRecordSet(''D:\TUYENSINH.MDB'')
+C) DB = OpenRecordSet(''D:\TUYENSINH'')
+*D) SET DB = CurrentDb()
+
+Câu 212: Cách khai báo biến QueryDeft?
+A) DIM <Tên biến> AS Database
+B) DIM <Tên biến> AS QueryDeft
+C) DIM <Tên biến> AS DAO.Database
+*D) DIM <Tên biến> AS DAO.QueryDeft
+
+Câu 213: Thủ tục sau làm nhiệm vụ gì? Sub cmdCapNhat_click() [CR] Dim DuLieu As DAO.Database [CR] Dim BanGhi As DAO.Recordset[CR]Set Dulieu =CurrentDB()[CR]Set BanGhi=Dulieu.OpenRecordSet (''DMKHOA'',DB_OPEN_DYNASET)[CR]Banghi.AddNew[CR]BanGhi(''MAKHOA'') = TxtMakhoa[CR]BanGhi(''TENKHOA'') = TxtTenkhoa[CR]BanGhi.Update[CR] End Sub.
+*A) Khi kích vào CmdCapnhat thì thêm mới MAKHOA, TENKHOA vào bảng DMKHOA
+B) Khi kích vào CmdCapnhat thì Xoá MAKHOA, TENKHOA trong bảng DMKHOA
+C) Khi kích vào CmdCapnhat thì Sửa MAKHOA, TENKHOA trong bảng DMKHOA
+D) Khi kích vào CmdCapnhat thì Di chuyển MAKHOA, TENKHOA trong bảng DMKHOA
+
+Câu 214: Thủ tục sau làm nhiệm vụ gì? [CR] Sub Thu ()[CR]Dim DuLieu As DAO.Database[CR]Dim BanGhi As DAO.Recordset[CR]Set Dulieu =CurrentDB()[CR]Set BanGhi=Dulieu.OpenRecordSet (''DMKHOA'')[CR]tb = MsgBox("ban co muon xoa hay khong?", vbYesNo + vbCritical)[CR]If tb = vbYes Then[CR]BanGhi.MoveFirst[CR]BanGhi.delete[CR]End if[CR]End sub
+A) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi hiện tại ra khỏi danh sách DMKHOA
+*B) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi đầu tiên ra khỏi danh sách DMKHOA
+C) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi cuối cùng ra khỏi danh sáchDM KHOA
+D) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi thứ ba ra khỏi danh sáchDM KHOA
+
+Câu 215: Chức năng của biến Database?
+A) Dùng để thao tác với các truy vẫn dữ liệu
+B) Dùng để thao tác với các bản ghi
+C) Dùng để thao tác với các trường (cột) trong bảng
+*D) Dùng để kết nối với CSDL
+
+Câu 216: Thủ tục sau làm nhiệm vụ gì?[CR]Sub THu ()[CR]Dim DuLieu As DAO.Database[CR]Dim BanGhi As DAO.Recordset[CR]Set Dulieu =CurrentDB()[CR]Set BanGhi=Dulieu.OpenRecordSet ("DMKHOA")[CR]tb = MsgBox("ban co muon xoa hay khong?", vbYesNo + vbCritical)[CR]If tb = vbYes Then[CR]BanGhi.MoveLast[CR]BanGhi.delete[CR]End if[CR]End sub.
+*A) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi cuối cùng ra khỏi danh sách DM KHOA
+B) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi đầu tiên ra khỏi danh sách DMKHOA
+C) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi hiện tại ra khỏi danh sách DMKHOA
+D) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi bất kì ra khỏi danh sách DM KHOA
+
+Câu 217: Để gán biến <DuLieu> kiểu Database với CSDL ''HSSV''?
+A) DuLieu =CurrentDB()
+B) SET DuLieu =CurrentDB()
+*C) SET DuLieu = OpenRecordSet(''HSSV'',''DB_OPEN_DYNASET'')
+D) DuLieu = OpenRecordSet(''HSSV'',''DB_OPEN_DYNASET'')
+
+Câu 218: Hãy viết tiếp vào dấu ... để in ra tống số BảnGhi của bảng DMKHOA[CR]Sub Thu ()[CR]Dim DuLieu As[CR]DAO.Database[CR]Dim BanGhi As DAO.Recordset[CR]Set Dulieu =CurrentDB()[CR]Set BanGhi=Dulieu.OpenRecordSet(''DMKHOA'')[CR]Msgbox ... [CR]End sub
+A) REC.Name
+B) REC.Asoluteposition
+*C) REC.RecordCount
+D) REC.EOF
+
+Câu 219: Hãy viết tiếp vào dấu ... để biết được vị trí con trỏ của bản ghi hiện tại trong bảng DMKHOA[CR]Sub Thu ()[CR]Dim DuLieu As DAO.Database[CR]Dim BanGhi As DAO.Recordset[CR] Set Dulieu =CurrentDB()[CR]Set BanGhi=Dulieu.OpenRecordSet (''DMKHOA'')[CR]Msgbox ...[CR]End sub
+A) REC.EOF
+B) REC.RecordCount
+C) REC.Name
+*D) REC.Asoluteposition
+
+Câu 220: Thủ tục sau làm nhiệm vụ gì?[CR]Sub Thu ()[CR]Dim DuLieu As DAO.Database[CR]Dim BanGhi As DAO.Recordset[CR]Set Dulieu =CurrentDB()[CR]Set BanGhi=Dulieu.OpenRecordSet (''DMKHOA'')[CR]tb = MsgBox("ban co muon xoa hay khong?", vbYesNo + vbCritical)[CR]If tb = vbYes Then[CR]BanGhi.Move 1[CR]BanGhi.delete[CR]End if[CR]End sub.
+*A) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi thứ 2 ra khỏi danh sách DM KHOA
+B) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi cuối cùng ra khỏi danh sách DM KHOA
+C) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi đầu tiên ra khỏi danh sách DMKHOA
+D) Khi lựa chọn Yes trên hộp thoại thì xoá bản ghi hiện tại ra khỏi danh sách DMKHOA
+
+Câu 221: Giả sử Rs là biến có kiểu Recordset câu lệnh sau có chức năng gì? Msgbox Rs.Asoluteposition
+A) Cho biết vị trí của bản ghi cuối cùng
+B) Cho biết tên bảng chứa bản ghi là gì
+C) Cho biết tổng số bản ghi
+*D) Cho biết vị trí của bản ghi hiện tại ( bắt đầu là 0)
+
+Câu 222: Giả sử Rs là biến có kiểu Recordset câu lệnh sau có chức năng gì? Msgbox Rs.Recordcount
+A) Cho biết tên bảng chứa bản ghi là gì
+B) Cho biết vị trí của bản ghi hiện tại ( bắt đầu là 0)
+*C) Cho biết tổng số bản ghi
+D) Cho biết vị trí của bản ghi cuối cùng
+
+Câu 223: Chức năng của biến Recordset?
+*A) Dùng để thao tác với các bản ghi
+B) Dùng để kết nối với CSDL
+C) Dùng để thao tác với các trường (cột) trong bảng
+D) Dùng để thao tác với các truy vẫn dữ liệu
+
+Câu 224: Khi lập trình CSDL Để tìm bản ghi trước đó thoả mãn điều kiện nào đó (đối với biến <Banghi> có kiểu Recordset )tathực hiện:
+A) Banghi.FindFist điều kiện
+B) Banghi.FindLast điều kiện
+C) Banghi.FindNext điều kiện
+*D) Banghi.FindPrevious điều kiện
+
+Câu 225: Giả sử Rs là biến có kiểu Recordset câu lệnh sau có chức năng gì? Msgbox Rs.BOF
+*A) Cho biết con trỏ bản ghi có nằm ở cuối tệp hay không, nếu đúng trả về TRUE sai trả về FALSE
+B) Cho biết vị trí của bản ghi hiện tại ( bắt đầu là 0)
+C) Cho biết con trỏ bản ghi có nằm ở đầu tệp hay không, nếu đúng trả về TRUE sai trả về FALSE
+D) Cho biết vị trí của bản ghi cuối cùng
+
+Câu 226: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 1[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub.
+*A) 9.
+B) 15.
+C) 5.
+D) 6.
+
+Câu 227: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I =1[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) Tính tổng các số chẵn từ 1 đến 5.
+*B) Tính tổng các số lẻ từ 1 đến 5.
+C) Tính tổng từ 1 đến 5.
+D) Liệt kê các số lẻ từ 1 đến 5.
+
+Câu 228: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I=1[CR]Do While I<=5[CR]S = S + I[CR]I = I + 1[CR]MsgBox I[CR]Loop[CR]End Sub.
+*A) Liệt kê các số từ 1 đến 5.
+B) Tính tổng từ 1 đến 5.
+C) Tính tổng các số chẵn từ 1 đến 5.
+D) Tính tổng các số lẻ từ 1 đến 5.
+
+Câu 229: 'Thủ tục'' dưới đây thực hiện bao nhiêu vòng lặp[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]For I = 1 To 5[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 2 vòng.
+B) 4 vòng.
+C) 3 vòng.
+*D) 5 vòng.
+
+Câu 230: Kết quả của chương trình sau in ra gì khi nhập a=200 b=201[CR]Sub vd()[CR]Dim a,b[CR]a=inputbox(nhap a:)[CR]b=inputbox(nhap b:)[CR]If a=b then[CR]msgbox a+b[CR]else[CR]Msgbox b+a[CR]Endsub
+A) 401
+B) 200201
+C) Chương trình báo lỗi không hợp kiểu
+*D) 201200
+
+Câu 231: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I=0[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) Tính tổng các số lẻ từ 1 đến 5.
+*B) Tính tổng các số chẵn từ 1 đến 5.
+C) Tính tổng từ 1 đến 5.
+D) Liệt kê các số chẵn từ 1 đến 5.
+
+Câu 232: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I=0[CR]Do While I<=5[CR]S = S + I[CR]I = I + 2[CR]MsgBox S[CR]Loop[CR]End Sub
+A) Tính tổng từ 1 đến 5.
+B) Tính tổng các số chẵn từ 1 đến 5.
+C) Tính tổng các số lẻ từ 1 đến 5.
+*D) Liệt kê các số chẵn từ 1 đến 5.
+
+Câu 233: Hằng là gì?
+*A) Là đại lượng không đổi trong thời gian thực hiện chương trình
+B) Là đại lượng có thể thay đổi trong thời gian thực hiện chương trình
+C) Là kết hợp giữa giá trị và các phép toán :
+D) Là đại luợng đuợc định nghĩa có sẵn trong chương trình.
+
+Câu 234: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=1[CR]I = 1[CR]Do While I<=5[CR]I = I + 2[CR]Loop[CR]S = S + I[CR]MsgBox S[CR]End sub.
+*A) 8.
+B) 15.
+C) 5.
+D) 6.
+
+Câu 235: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I=1[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 1[CR]Loop[CR]MsgBox S[CR]End Sub
+A) Tính tổng các số chẵn từ 1 đến 5.
+*B) Tính tổng từ 1 đến 5.
+C) Tính tổng các số lẻ từ 1 đến 5.
+D) Liệt kê các số từ 1 đến 5.
+
+Câu 236: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]For I = 0 To 5 Step 2[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) Tính tổng từ 1 đến 5.
+*B) Tính tổng các số chẵn từ 1 đến 5.
+C) Tính tổng các số lẻ từ 1 đến 5.
+D) Liệt kê các số chẵn từ 1 đến 5.
+
+Câu 237: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=0[CR]I = 1[CR]Do While I<=5[CR]S = S + I[CR]I = I + 1[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 6.
+B) 16.
+C) 5.
+*D) 15.
+
+Câu 238: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=0[CR]I = 1[CR]Do While I<=5[CR]I = I + 1[CR]Loop[CR]S = S + I[CR]MsgBox S[CR]End Sub
+*A) 6.
+B) 16.
+C) 5.
+D) 15.
+
+Câu 239: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]For I = 0 To to 5 Step 2[CR]Next[CR]S = S + I[CR]MsgBox S[CR]End Sub.
+A) 7.
+B) 5.
+*C) 6.
+D) 9.
+
+Câu 240: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=0[CR]For I = 1 To 5 Step 2[CR]Next[CR]S = S + I[CR]MsgBox S[CR]End Sub
+A) 5.
+B) 6.
+*C) 7.
+D) 9.
+
+Câu 241: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]For I =1 To 5 Step 2[CR]S = 0[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub.
+A) 6.
+*B) 5.
+C) 4.
+D) 7.
+
+Câu 242: 'Thủ tục'' dưới đây thực hiện bao nhiêu vòng lặp:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 0[CR]Do While I<=5[CR]S = S+ I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 5 vòng.
+B) 4 vòng.
+*C) 3 vòng.
+D) Vô số vòng.
+
+Câu 243: 'Thủ tục'' dưới đây thực hiện bao nhiêu vòng lặp[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]For I = 1 To 5 Step 2[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 2 vòng.
+B) 4 vòng.
+C) 5 vòng.
+*D) 3 vòng.
+
+Câu 244: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=1[CR]I = 0[CR]Do While I<=5[CR]I = I + 2[CR]Loop[CR]S = S + I[CR]MsgBox S[CR]End Sub
+A) 15.
+*B) 7.
+C) 5.
+D) 6.
+
+Câu 245: Phát biểu của lệnh Select Case:[CR]Select Case Bien_Chon[CR]Case 1[CR]Khối lệnh 1[CR]Case 2[CR]Khối lệnh 2[CR]Case N[CR]Khối lệnh N[CR]Case Else[CR]Khối lệnh N+1[CR]End Select
+A) Nếu biến chọn không bằng một giá trị từ 1...N thì thực hiện khối lệnh tương ứng.
+B) Nếu biến chọn không bằng một giá trị từ 1...N thì thực hiện khối lệnh tương ứng. Nếu bằng thì thực hiện khối lệnh N+1.
+*C) Nếu biến chọn bằng một giá trị từ 1...N thì thực hiện khối lệnh tương ứng. Nếu không bằng thì thực hiện khối lệnh N+1.
+D) Nếu biến chọn bằng một giá trị từ 1...N thì thực hiện khối lệnh tương ứng.
+
+Câu 246: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=1[CR]I = 0[CR]Do While I<=5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 15.
+*B) 7.
+C) 6.
+D) 16.
+
+Câu 247: Để biến A có thể nhận bất kì giá trị nào đó ta khai báo:
+A) DIM A AS Integer
+B) DIM A AS Real
+C) DIM A AS Variant
+*D) DIM A AS String
+
+Câu 248: Hãy cho biết khi lập trình thì thủ tục nào sau đây hợp lệ.
+*A) Tất cả đều hợp lệ.
+B) Sub LenhFor().
+C) Sub LenhSelect().
+D) Sub LenhIf().
+
+Câu 249: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I =0[CR]Do While I<=5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) Liệt kê các số chẵn từ 1 đến 5.
+B) Tính tổng các số lẻ từ 1 đến 5.
+C) Tính tổng từ 1 đến 5.
+*D) Tính tổng các số chẵn từ 1 đến 5.
+
+Câu 250: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=1[CR]For I = 1 To 5[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 15.
+B) 6.
+*C) 16.
+D) 9.
+
+'Phần 6 câu 251 đến câu 300
+
+Câu 251: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=0[CR]For I = 0 To to 5 Step 2[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 15.
+B) 16.
+*C) 6.
+D) 9.
+
+Câu 252: 'Thủ tục'' dưới đây thực hiện bao nhiêu vòng lặp:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 1[CR]Do Until I > 5[CR]S = S+ I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub.
+A) 3 vòng.
+*B) 4 vòng.
+C) 5 vòng.
+D) Vô số vòng.
+
+Câu 253: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 1[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 1[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 5.
+B) 16.
+*C) 15.
+D) 6.
+
+Câu 254: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]For I =1 To 5[CR]S = 0[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 7.
+B) 6.
+*C) 5.
+D) 9.
+
+Câu 255: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]For I = 1 To 5 Step 2[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) Liệt kê các số lẻ từ 1 đến 5.
+B) Tính tổng từ 1 đến 5.
+C) Tính tổng các số chẵn từ 1 đến 5.
+*D) Tính tổng các số lẻ từ 1 đến 5.
+
+Câu 256: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=1[CR]For I = 1 To 5 Step 2[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 16.
+B) 6.
+*C) 10.
+D) 15.
+
+Câu 257: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]For I =1 To 5[CR]S = S + I[CR]MsgBox I[CR]Next[CR]End Sub
+A) Tính tổng từ 1 đến 5.
+*B) Liệt kê các số từ 1 đến 5.
+C) Tính tổng các số chẵn từ 1 đến 5.
+D) Tính tổng các số lẻ từ 1 đến 5.
+
+Câu 258: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =1[CR]I = 1[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 15.
+*B) 10.
+C) 5.
+D) 6.
+
+Câu 259: Phát biểu của lệnh IF...ELSE... END IF (Dạng đầy đủ):[CR]IF <DK> THEN[CR]<Khối lệnh 1>[CR]ELSE[CR]<Khối lệnh 2>[CR]END IF
+A) Nếu <DK> sai thì thực hiện <'Khối lệnh 1>, nếu đúng thì thì thực hiện <'Khối lệnh 2>.
+*B) Nếu <DK> đúng thì thực hiện <'Khối lệnh 1>, nếu sai thì thực hiện <'Khối lệnh 2>.
+C) Nếu <DK> đúng thì thực hiện <'Khối lệnh 1> nếu sai thì bỏ qua.
+D) Nếu <DK> sai thì thực hiện <'Khối lệnh 2> nếu đúng thì bỏ qua .
+
+Câu 260: Để biến A có kiểu ngày tháng năm giờ ta khai báo:
+A) DIM A AS Time
+*B) DIM A AS Date
+C) DIM A AS Integer
+D) DIM A AS Now
+
+Câu 261: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]For I =0 To to 5 Step 2[CR]S = 1[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 7.
+B) 6.
+*C) 5.
+D) 4.
+
+Câu 262: Kết quả của chương trình sau in ra gì khi nhập a=Ha noi b=2013[CR]Sub vd()[CR]Dim a,b[CR]a=inputbox(nhap a:)[CR]b=inputbox(nhap b:)[CR]msgbox (a+b)[CR]End sub
+A) 2013
+B) 10
+C) Chương trình báo lỗi không hợp kiểu
+*D) Ha noi2013
+
+Câu 263: Kết quả của chương trình sau là gì khi nhập a=5, b=6:[CR]Sub vd()[CR]Dim a,b[CR]a=inputbox(nhap a:)[CR]b=inputbox(nhap b:)[CR]c=val(a)+val(b)[CR]Msgbox c[CR]End sub
+*A) 11
+B) 56
+C) 0
+D) Chương trình lỗi
+
+Câu 264: Kết quả của chương trinh sau:[CR]Sub vd()[CR]a = Truong[CR]b = DH KD&CN[CR]c = 1[CR]d = A vinh tuy[CR]MsgBox a + b + c + d[CR]End Sub
+A) Chương trình báo lỗi không hợp kiểu
+*B) Truong ĐHKD&CN 1 A vinh tuy
+C) Truong ĐHKD&CN
+D) Truong ĐHK&CN A vinh tuy
+
+Câu 265: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]For I =1 To 5 Step 2[CR]S = 1[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 7.
+B) 5.
+C) 4.
+*D) 6.
+
+Câu 266: Phát biểu của lệnh Do Until[CR]Do Until <BT Logic>[CR]<Khối lệnh>[CR]Loop
+*A) Nếu <BT Logic> còn sai thì thực hiện <Khối lệnh>, nếu <BT Logic> đúng thoát khỏi vòng lặp.
+B) Nếu BT Logic đúng thì thực hiện <Khối lệnh>, nếu <BT Logic> sai thoát khỏi vòng lặp.
+C) Nếu <BT Logic> còn đúng thì thực hiện <Khối lệnh>.
+D) Nếu <BT Logic> sai thì thực hiện <Khối lệnh>
+
+Câu 267: 'Thủ tục'' dưới đây thực hiện bao nhiêu vòng lặp:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 0[CR]Do While I<=5[CR]S = S + I[CR]Loop[CR]MsgBox S[CR]End Sub
+*A) Vô số vòng.
+B) 4 vòng.
+C) 3 vòng.
+D) 5 vòng.
+
+Câu 268: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]For I=0 To to 5 Step 2[CR]S = 0[CR]S = S + I[CR]Next[CR]MsgBox S[CR]End Sub
+A) 6.
+*B) 4.
+C) 7.
+D) 5.
+
+Câu 269: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=0[CR]I = 0[CR]Do Until I > 5[CR]I = I + 2[CR]Loop[CR]S = S + I[CR]MsgBox S[CR]End Sub
+A) 15.
+*B) 6.
+C) 5.
+D) 16.
+
+Câu 270: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 0[CR]Do While I<=5[CR]I = I + 2[CR]Loop[CR]S = S + I[CR]MsgBox S[CR]End Sub
+A) 15.
+*B) 6.
+C) 5.
+D) 16.
+
+Câu 271: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 0[CR]Do While I<=5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 15.
+*B) 6.
+C) 5.
+D) 16.
+
+Câu 272: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim A As Double[CR]Dim B As Double[CR]Dim S As Double[CR]A=7[CR]B=3[CR]S=0[CR]If A<B Then[CR]S= A-B[CR]End If[CR]MsgBox S[CR]End Sub
+A) 10.
+B) 4.
+C) 1.
+*D) 0.
+
+Câu 273: Phát biểu của lệnh Do While[CR]Do While <BT Logic>[CR]<Khối lệnh>[CR]Loop
+*A) Nếu <BT Logic> còn đúng thì thực hiện <Khối lệnh>, nếu <BT Logic> sai thoát khỏi vòng lặp.
+B) Nếu BT Logic sai thì thực hiện <Khối lệnh>, nếu <BT Logic> đúng thoát khỏi vòng lặp.
+C) Nếu <BT Logic> còn đúng thì thực hiện <Khối lệnh>.
+D) Nếu <BT Logic> sai thì thực hiện <Khối lệnh>.
+
+Câu 274: 'Thủ tục'' dưới đây thực hiện bao nhiêu vòng lặp:[CR]Sub Test()Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I = 1[CR]Do While I<=5[CR]S = S+ I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) Vô số vòng.
+*B) 4 vòng.
+C) 5 vòng.
+D) 3 vòng.
+
+Câu 275: Biến là gì?
+A) Là kết hợp giữa giá trị và các phép toán
+B) Là đại lượng không đổi trong thời gian thực hiện chương trình:
+*C) Là đại lượng có thể thay đổi trong thời gian thực hiện chương trình:
+D) Là đại luợng đuợc định nghĩa sẵn trong chương trình
+
+Câu 276: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =1[CR]I = 1[CR]Do While I<=5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 15.
+*B) 10.
+C) 5.
+D) 6.
+
+Câu 277: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]I =1[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) Tính tổng từ 1 đến 5.
+*B) Tính tổng các số lẻ từ 1 đến 5.
+C) Tính tổng các số chẵn từ 1 đến 5.
+D) Liệt kê các số lẻ từ 1 đến 5.
+
+Câu 278: Kết quả của chương trinh sau:[CR]Sub vd()[CR]a = Truong[CR]b = DH KD&CN[CR]c = 1[CR]d = A vinh tuy[CR]MsgBox a + val(b) + c + d[CR]End Sub
+A) Truong ĐHKD&CN
+*B) Chương trình báo lỗi không hợp kiểu
+C) Truong ĐHKD&CN 1 A vinh tuy
+D) Truong ĐHK&CN A vinh tuy
+
+Câu 279: Kết quả của chương trình sau là gì khi nhập a=6, b=6:[CR]Sub vd()[CR]Dim a,b[CR]a=inputbox(nhap a:)[CR]b=inputbox(nhap b:)[CR]If val(a)>= val(b) then[CR]a=5[CR]Else[CR]b=5[CR]End if[CR]Msgbox a & và & b[CR]End sub
+A) 6 và 6
+B) 5 và 6
+*C) 5 và 5
+D) 6 và 5
+
+Câu 280: Hãy cho biết khi lập trình thì tên biến nào sau đây hợp lệ.
+A) Dim KetQua As Double
+*B) Tất cả đều hợp lệ.
+C) Dim Ket_Qua As Double
+D) Dim KQua As Double
+
+Câu 281: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=1[CR]I = 1[CR]Do Until I > 5[CR]I = I + 1[CR]Loop[CR]S = S + I[CR]MsgBox S[CR]End Sub
+A) 5.
+B) 15.
+*C) 7.
+D) 6.
+
+Câu 282: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =1[CR]I = 0[CR]Do Until I > 5[CR]I = I + 2[CR]Loop[CR]S = S + I[CR]MsgBox S[CR]End Sub
+A) 5.
+B) 15.
+*C) 7.
+D) 6.
+
+Câu 283: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim A As Double[CR]Dim B As Double[CR]Dim S As Double[CR]A=7[CR]B=3[CR]S=0[CR]If A<B Then[CR]S= A-B[CR]Else[CR]S= A+B[CR]End If[CR]MsgBox S[CR]End Sub.
+*A) 10.
+B) 1.
+C) 0.
+D) 4.
+
+Câu 284: 'Thủ tục'' dưới đây thực hiện bài toán gì?[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S = 0[CR]For I = 1 To 5 Step 2[CR]S = S + I[CR]MsgBox I[CR]Next[CR]End Sub
+A) Tính tổng từ 1 đến 5.
+B) Tính tổng các số lẻ từ 1 đến 5.
+*C) Liệt kê các số lẻ từ 1 đến 5.
+D) Tính tổng các số chẵn từ 1 đến 5.
+
+Câu 285: Biểu thức là gì?
+A) Là đại luợng đuợc định nghĩa sẵn có trong chương trình
+B) Là đại lượng có thể thay đổi trong thời gian thực hiện chương trình:
+C) Là đại lượng không đổi trong thời gian thực hiện chương trình:
+*D) Là kết hợp giữa giá trị (Biến, hằng, hàm) và các phép toán
+
+Câu 286: Tên biến nào sau đây là hợp lệ
+A) 2a
+B) Dien tich
+C) Tất cả đều hợp lệ
+*D) Chuvi
+
+Câu 287: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S =0[CR]I = 0[CR]Do Until I > 5[CR]S = S + I[CR]I = I + 2[CR]Loop[CR]MsgBox S[CR]End Sub
+A) 5.
+B) 15.
+*C) 6.
+D) 16.
+
+Câu 288: Kết quả là bao nhiêu khi chạy ''thủ tục'' dưới đây:[CR]Sub Test()[CR]Dim I As Integer[CR]Dim S As Integer[CR]S=0[CR]For I = 1 To 5[CR]Next[CR]S = S + I[CR]MsgBox S[CR]End Sub
+A) 7.
+B) 6.
+*C)  5.
+D) 9.
+
+Câu 289: Để khai báo biến A có kiểu số thực ta viết:
+A) DIM a AS Double
+B) DIM A AS Double
+C) DIM a AS Single
+*D) Tất cả đều đúng
+
+Câu 290: Để biến A có kiểu đối tượng ảnh khai báo:
+A) DIM A AS Time
+B) DIM A AS Object
+C) DIM A AS Pic
+*D) DIM A AS Image
+
+Câu 291: Macro là gì
+A) Là đối tượng dùng để xây dựng chương trình con
+B) Là chương trình Con thực hiện một nhiệm vụ
+C) Là khi muốn thống kê dữ liệu và kết xuất ra máy in
+*D) Là một đoạn chương trình gồm các câu lệnh, dùng để tự động hoá thao tác với CSDL và tổ chức chuơng trình
+
+Câu 292: Để tạo nút lệnh Di chuyển đến bản ghi trước bằng Macro ta chọn Action:
+A) GotoRecord , trong mục Record chọn New
+*B) GotoRecord , trong mục Record chọn Previous
+C) GotoRecord , trong mục Record chọn Next
+D) GotoRecord , trong mục Record chọn Last
+
+Câu 293: Để tạo lệnh đóng Form bẳng Macro ta chọn Action :
+*A) Không có đáp án đúng
+B) CloseDatabase
+C) QuitAccess
+D) CloseWindow
+
+Câu 294: Để tạo nút lệnh Di chuyển đến bản ghi cuối bằng Macro ta chọn Action:
+A) GotoRecord , trong mục Record chọn First
+*B) GotoRecord , trong mục Record chọn Last
+C) GotoRecord , trong mục Record chọn Previous
+D) GotoRecord , trong mục Record chọn New
+
+Câu 295: Khi chọn hành động Open Form của Macro nếu Tham số Window mode lựa chọn Icon thì dạng cửa sổ Form sẽ là :
+A) Hộp thoại
+B) Bình thường
+C) ẩn
+*D) Biểu tượng
+
+
+
+Câu 297: Trong access khi mở bảng bất kì muốn đặt lọc dữ liệu theo form với điều kiện nào đó lựa chọn:
+A) Home/Sort & Filter/Seletion
+*B) Home/Sort & Filter/Advanced/Filter By Form
+C) Home/Sort & Filter/Filter
+D) Home/Sort & Filter/Advanced/Advanced Filter /Sort...
+
+
+
+Câu 300: Cho CSDL (hình ảnh), đưa ra danh sách các sản phẩm có hoá đơn nhập trong 1 ngày tùy ý nhập từ bàn phím. Thông tin hiển thị: TenSP, NgayNhap,Soluong, Giaban,Thanhtien, sử dụng truy vấn nào trong các truy vấn sau:
+A) Append query
+*B) Select query có tham số
+C) Update query
+D) Crosstab query
